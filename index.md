@@ -72,6 +72,7 @@ Este capítulo tem **todas as regras de cálculo** do jogo. Os outros capítulos
 **Exemplo:** Hana quer pular entre telhados. Ela usa Força 3 + Atletismo 2. Rola 5 dados.
 
 ## Dificuldade
+
 | Sucessos necessários | Tarefa |
 |---|---|
 | 1 | Fácil |
@@ -96,6 +97,7 @@ Um ninja ajuda outro: gaste a sua ação. O aliado ganha **+2 dados** numa rolag
 Valem de 1 a 5. Todos os atributos têm uso em jogo. Nenhum é "o mais importante".
 
 ### Escala
+
 | Valor | Significado | Exemplo |
 |---|---|---|
 | 1 | Fraco | Criança da Academia |
@@ -120,6 +122,7 @@ Valem de 1 a 5. Todos os atributos têm uso em jogo. Nenhum é "o mais important
 - **Presença:** peso da sua existência. Usada em **Intimidação**, na **Pressão de Chakra** (Presença + Intimidação, veja o capítulo 11), para **resistir a medo e intimidação** (Presença + Vontade) e para **controlar a Besta** (Presença + Vontade).
 
 ### Rolagens comuns
+
 | Ação | Rolagem |
 |---|---|
 | Atacar com o corpo | Destreza + Taijutsu |
@@ -150,6 +153,7 @@ Valem de 0 a 5. Com 0, você não tem treino: rola só o Atributo com **−1 dad
 As habilidades têm 3 grupos. Cada grupo é um **Caminho Ninja**:
 
 ### Escala
+
 | Valor | Significado |
 |---|---|
 | 0 | Sem treino (−1 dado) |
@@ -298,6 +302,7 @@ Para o jogo ser rápido, a defesa normal é um **valor fixo**, sem rolagem.
 **Dano = sucessos extras + dano base − Absorção do alvo** (mínimo 1).
 
 ### Dano base
+
 | Fonte | Dano base |
 |---|---|
 | Soco ou chute | Força ÷ 2 (arr. cima), máximo 3 |
@@ -319,6 +324,7 @@ Para o jogo ser rápido, a defesa normal é um **valor fixo**, sem rolagem.
 ---
 
 ## Resumo dos valores calculados
+
 | Valor | Fórmula |
 |---|---|
 | Reserva de Chakra | Chakra × 3 + Controle de Chakra |
@@ -399,6 +405,7 @@ O jogo é rápido. Você **sempre ganha PE por jogar**.
   - A sessão fechou um arco da história.
 
 ### Custos
+
 | Melhoria | Custo em PE |
 |---|---|
 | +1 Atributo | novo valor × 4 |
@@ -1737,6 +1744,7 @@ Este capítulo explica **como usar** jutsus e traz as listas. As fórmulas (Rese
 - Jutsus de nível 5 pedem **permissão do Narrador**: eles mudam o rumo de uma campanha.
 
 ### Os quatro tipos
+
 | Tipo | Rolagem comum | O que faz |
 |---|---|---|
 | **Ninjutsu** | Destreza + Ninjutsu (ataque) ou Raciocínio + Ninjutsu (defesa e controle) | Elementos, clones, barreiras. |
@@ -2248,6 +2256,7 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 Todo ninja nasce com **uma afinidade**. Ela define que jutsus de elemento você aprende com facilidade.
 
 ## As cinco naturezas
+
 | Elemento | Nome | Tema | Efeito comum nos jutsus |
 |---|---|---|---|
 | **Fogo** | Katon | Destruição, calor | Queima: 1 de dano no fim do turno seguinte. |
@@ -2264,6 +2273,7 @@ Cada elemento vence um e perde para outro: **Fogo > Vento > Relâmpago > Terra >
 - Dois jutsus iguais se anulam se os sucessos empatarem.
 
 ## Como ganhar afinidades
+
 | Afinidade | Requisito |
 |---|---|
 | 1ª | Grátis na criação. |
@@ -2289,6 +2299,7 @@ O papel de chakra mostra: queima (Fogo), corta (Vento), amassa (Relâmpago), vir
 Você pode criar jutsus novos e novas Disciplinas. Use os **Pontos de Efeito** abaixo. O Narrador aprova.
 
 ## Orçamento
+
 | Nível | Pontos de Efeito | Dano base máximo | Custo em Chakra (jutsu) | Custo em PE |
 |---|---|---|---|---|
 | 1 | 3 | 2 | 2 | 3 |
@@ -2300,6 +2311,7 @@ Você pode criar jutsus novos e novas Disciplinas. Use os **Pontos de Efeito** a
 Técnicas de Taijutsu custam **Chakra igual ao nível**. Disciplinas usam a mesma tabela (capítulo 5).
 
 ## Efeitos (gastam pontos)
+
 | Efeito | Pontos |
 |---|---|
 | Causa dano (dano base da tabela, de acordo com o nível) | 2 |
@@ -2323,6 +2335,7 @@ Técnicas de Taijutsu custam **Chakra igual ao nível**. Disciplinas usam a mesm
 | Ação curta em vez de ação | 2 |
 
 ## Limitações (devolvem pontos)
+
 | Limitação | Pontos |
 |---|---|
 | Precisa de fonte (água, nuvens, instrumento) | +1 |
@@ -2351,6 +2364,7 @@ Técnicas de Taijutsu custam **Chakra igual ao nível**. Disciplinas usam a mesm
 Equipamento tem **Qualidade** de 0 a 5. Não use a palavra "nível" para itens. Qualidade define o preço e o bônus.
 
 ## Qualidade
+
 | Qualidade | O que é | Custo (ryō) | Bônus comum |
 |---|---|---|---|
 | 0 | Improvisado | — | −1 dado |
@@ -2382,6 +2396,7 @@ O dano base da arma **substitui** o do soco. Se o soco for maior, use o soco.
 | Bomba de fumaça | — | 5 m | −2 dados para ver dentro por 3 turnos. |
 
 ## Armaduras
+
 | Armadura | Absorção | Penalidade |
 |---|---|---|
 | Colete tático (Chunin) | +1 | 0 |
@@ -2414,6 +2429,7 @@ Montar: Inteligência + Armas Ninja, 1 turno por Qualidade. Quem passa rola Perc
 | Rede de arame | Imobilizado. Força + Atletismo (3 sucessos) para sair. |
 
 ## Ferramentas úteis
+
 | Item | Efeito |
 |---|---|
 | Estojo médico (Qualidade 1 a 3) | +Qualidade dados em Medicina. Gasta 1 uso por cura. |
@@ -2546,6 +2562,7 @@ As fórmulas estão no capítulo 2. Aqui está a **ordem** das coisas e as regra
 4. **Fim da rodada.** Aplique queimaduras, venenos, durações.
 
 ### Ações
+
 | Tipo | Exemplos |
 |---|---|
 | **Ação** | Atacar, usar jutsu, Esquiva ativa dupla (fica sem ação), estabilizar alguém, abrir um Portão. |
@@ -2578,6 +2595,7 @@ A "intenção de matar". Um ninja forte paralisa um fraco só com a presença.
 - Jinchūriki com Manto e usuários de Portão 5 ou mais usam Pressão de Chakra como ação livre uma vez por cena.
 
 ## Condições
+
 | Condição | Efeito | Sai como |
 |---|---|---|
 | **Abalado** | −1 dado em tudo. | Fim da cena, ou 1 Vontade. |
@@ -2603,6 +2621,7 @@ Um grupo de inimigos fracos (ou clones) age como **uma criatura**:
 - Quando cai a 1, vira um inimigo normal.
 
 ## Tipos de inimigo
+
 | Tipo | Como funciona |
 |---|---|
 | **Capanga** | Vitalidade 3, Defesa fixa, sucessos fixos. Cai rápido. Use em Bando. |
@@ -2626,6 +2645,7 @@ Para sair do combate: gaste a ação e role Destreza + Atletismo contra o maior 
 O jogo acontece no mundo ninja do mangá. Use o que está aqui ou mude à vontade.
 
 ## As Cinco Grandes Vilas
+
 | Vila | País | Kage | Marca |
 |---|---|---|---|
 | **Konoha** (Folha) | Fogo | Hokage | Vontade do Fogo. Clãs antigos. Equipes de três. |
@@ -2647,6 +2667,7 @@ Ame (Chuva, sempre em guerra), Taki (Cachoeira), Kusa (Grama), Oto (Som, de Oroc
 - **Ninjas Médicos:** hospital e campo.
 
 ## Missões
+
 | Classe | Quem faz | Exemplo | Pagamento |
 |---|---|---|---|
 | **D** | Genin | Achar gato, limpar rio, escoltar na vila. | 5.000 ryō |
@@ -2713,6 +2734,7 @@ Cada sessão: **5 PE fixos** por jogar. Até **+5** de bônus:
 Máximo **10 PE por sessão**. Nunca dê 0: quem veio jogar, cresce.
 
 ## Dificuldades
+
 | Situação | Sucessos |
 |---|---|
 | Fácil | 1 |
