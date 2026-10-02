@@ -1536,11 +1536,11 @@ Equipamento tem **Qualidade** de 0 a 5. Não use a palavra "nível" para itens. 
 Na criação você tem o **Conjunto Ninja** (Qualidade 1) de graça: 10 kunai, 10 shuriken, 3 etiquetas explosivas, arame, pergaminho, kit básico de cura. O Antecedente **Equipamento** (capítulo 10) dá itens de Qualidade maior.
 
 ## Armas
-Dano base de arma soma ao dano de **Força** (socos) ou substitui, o que for maior.
+O dano base da arma **substitui** a Força. Se a Força for maior, use a Força.
 
 | Arma | Dano base | Alcance | Nota |
 |---|---|---|---|
-| Soco e chute | Força ÷ 2 (arr. cima) | Toque | Taijutsu. |
+| Soco e chute | Força | Toque | Taijutsu. |
 | Kunai | 2 | Toque ou 10 m | Serve para parar lâminas. |
 | Shuriken | 1 | 15 m | Até 3 por ação (−1 dado por extra). |
 | Senbon (agulha) | 1 | 10 m | Ignora 1 de Absorção. Carrega veneno sem perder. |
@@ -1695,3 +1695,283 @@ Antecedentes são o que você tem **fora da ficha**: pessoas, posição, coisas.
 - **Mentor** e **Herança** são as formas de aprender jutsus sem pergaminho.
 
 ---
+
+# Capítulo 11: Combate
+
+As fórmulas estão no capítulo 2. Aqui está a **ordem** das coisas e as regras de cena.
+
+## Sequência de combate
+1. **Surpresa.** Quem não viu o inimigo rola Percepção + Prontidão contra Destreza + Furtividade dele. Quem falha tem **Defesa 0** no primeiro turno e não age.
+2. **Iniciativa.** Cada um rola 1d10 + Percepção + Prontidão. Role uma vez por combate.
+3. **Turno.** Na sua vez: **1 ação**, **1 ação curta** e **movimento** (10 m, ou 20 m com Atletismo 3). Você ainda tem **1 Reação** por rodada, para usar fora da sua vez.
+4. **Fim da rodada.** Aplique queimaduras, venenos, durações.
+
+### Ações
+| Tipo | Exemplos |
+|---|---|
+| **Ação** | Atacar, usar jutsu, Esquiva ativa dupla (fica sem ação), estabilizar alguém, abrir um Portão. |
+| **Ação curta** | Sacar arma, beber pílula, falar uma ordem (Estrategista), Corpo Instantâneo, mirar (+1 dado no próximo ataque). |
+| **Movimento** | 10 m. Correr: gaste a ação e ande 30 m. |
+| **Reação** | Esquiva ativa, Substituição, Parede de Terra (com Fuinjutsu 4 ou Ninjutsu 3), aparar com arma. **Uma por rodada.** |
+| **Livre** | Falar uma frase, soltar algo, Hiraishin. |
+
+### Ataque passo a passo
+1. Pague Chakra, se for jutsu.
+2. Role o conjunto do ataque (capítulo 2, "Rolagens comuns").
+3. Compare com a **Defesa** do alvo. Se ele tem Reação, pode rolar **Esquiva ativa** no lugar.
+4. Sucessos extras + dano base − Absorção = dano. Marque na Vitalidade.
+5. Aplique condições do jutsu.
+
+### Múltiplos ataques
+Você só ataca mais de uma vez por ação se uma técnica permitir (Kenjutsu 5, Elefante da Noite, Jiton 4). Fora isso, **um ataque por ação**. Isso mantém o jogo rápido.
+
+### Combate em grupo
+- **Flanquear:** dois ou mais atacando o mesmo alvo dão **+1 dado** a cada um. Máximo +2.
+- **Proteger:** gaste sua Reação para entrar na frente de um aliado adjacente. Você recebe o ataque.
+- **Ajudar:** gaste sua ação para dar **+2 dados** a um aliado numa rolagem que não seja de ataque (selo, cura, escapar).
+
+## Pressão de Chakra
+A "intenção de matar". Um ninja forte paralisa um fraco só com a presença.
+- **Ação curta.** Role **Presença + Intimidação**. Cada alvo em 20 m resiste com **Presença + Vontade**.
+- Quem perde fica **Abalado** (−1 dado) pela cena. Se perder por 3 ou mais, fica **Paralisado** por 1 turno.
+- Só funciona contra quem tem **Chakra menor** que o seu. Contra Chakra igual ou maior, você rola com −3 dados.
+- Jinchūriki com Manto e usuários de Portão 5 ou mais usam Pressão de Chakra como ação livre uma vez por cena.
+
+## Condições
+| Condição | Efeito | Sai como |
+|---|---|---|
+| **Abalado** | −1 dado em tudo. | Fim da cena, ou 1 Vontade. |
+| **Caído** | Defesa −1. Levantar gasta o movimento. | Levantar. |
+| **Lento** | Movimento 5 m. Sem Reação. | Fim da duração. |
+| **Imobilizado** | Não se move. Defesa 0 contra quem prende. Pode usar jutsus sem selos. | Força + Atletismo contra os sucessos de quem prendeu. |
+| **Paralisado** | Não age, não reage. Defesa 0. | Fim da duração, ou sofrer dano (se a regra disser). |
+| **Cego** | −3 dados em ataque. Defesa fixa −2. | Fim da duração. |
+| **Surdo** | Não ouve ordens nem Genjutsu de som. −1 Iniciativa. | Fim da duração. |
+| **Dormindo** | Como Paralisado. | Sofrer dano ou ser sacudido. |
+| **Queimando** | 1 de dano no fim do turno. | Gastar a ação para apagar, ou água. |
+| **Envenenado** | Veja o veneno (capítulo 9). | Antídoto, Extração de Veneno. |
+| **Exausto** (Reserva 0) | −2 dados. Sem jutsus. | Recuperar Chakra. |
+
+## Combate Ágil (para cenas rápidas)
+Para capangas e lutas sem peso, use **sucessos fixos**: o Narrador não rola. Cada inimigo tem um número de sucessos que **sempre tira** (veja a tabela de PN no capítulo 13). Os jogadores rolam normalmente. Isso corta o tempo pela metade.
+
+## Bando
+Um grupo de inimigos fracos (ou clones) age como **uma criatura**:
+- Bando de N membros rola **dados base + N** (máx. +5) e tem Vitalidade = N.
+- Cada ponto de dano tira 1 membro. Jutsus de área tiram **dano base** membros.
+- Quando cai a 1, vira um inimigo normal.
+
+## Tipos de inimigo
+| Tipo | Como funciona |
+|---|---|
+| **Capanga** | Vitalidade 3, Defesa fixa, sucessos fixos. Cai rápido. Use em Bando. |
+| **Veterano** | Ficha reduzida: 3 valores (ataque, Defesa, Absorção) e 1 truque. Vitalidade 7. |
+| **Rival** | Ficha completa. Tem Vontade e Disciplinas. Luta como jogador. |
+| **Chefe** | Ficha completa, Chakra 2 acima do grupo, **duas ações por turno** e 1 Reação extra. Tem uma **fraqueza** que a história revela. |
+
+## Fuga
+Para sair do combate: gaste a ação e role Destreza + Atletismo contra o maior Percepção + Prontidão inimigo. Sucesso: você some. Falha: o inimigo ganha um ataque livre.
+
+## Ferimentos e cura
+- **Natural:** 1 nível por dia. Ferido Grave ou pior pede uma semana de cama por nível.
+- **Medicina:** Palma Mística em combate. Fora dele, Inteligência + Medicina com kit: 1 nível por sucesso, uma vez por dia por paciente.
+- **Dano de Portões e Desgaste Ocular:** 1 semana por nível, sem jutsu que ajude.
+
+---
+
+# Capítulo 12: O Cenário
+
+O jogo acontece no mundo ninja do mangá. Use o que está aqui ou mude à vontade.
+
+## As Cinco Grandes Vilas
+| Vila | País | Kage | Marca |
+|---|---|---|---|
+| **Konoha** (Folha) | Fogo | Hokage | Vontade do Fogo. Clãs antigos. Equipes de três. |
+| **Suna** (Areia) | Vento | Kazekage | Marionetes, veneno, Jiton. Pouca gente, muito deserto. |
+| **Kiri** (Névoa) | Água | Mizukage | As Sete Espadas. Exames que já foram mortais. Caça a Kekkei Genkai. |
+| **Kumo** (Nuvem) | Relâmpago | Raikage | Força bruta, Raiton, Kenjutsu. Dois Jinchūriki. |
+| **Iwa** (Pedra) | Terra | Tsuchikage | Doton, Bakuton. Teimosia e orgulho. |
+
+## Vilas menores
+Ame (Chuva, sempre em guerra), Taki (Cachoeira), Kusa (Grama), Oto (Som, de Orochimaru), Yuki (Neve), Uzushio (Redemoinho, destruída, terra dos Uzumaki).
+
+## Estrutura de uma vila
+- **Kage:** manda. Escolhido pelo conselho e pelo senhor feudal.
+- **Conselho:** anciãos e chefes de clã.
+- **Jounin:** lideram equipes e missões A e S.
+- **Chunin:** fazem missões C e B, dão aula na Academia.
+- **Genin:** missões D e C, em equipes de três com um Jounin.
+- **ANBU:** polícia secreta. Máscaras. Respondem só ao Kage.
+- **Ninjas Médicos:** hospital e campo.
+
+## Missões
+| Classe | Quem faz | Exemplo | Pagamento |
+|---|---|---|---|
+| **D** | Genin | Achar gato, limpar rio, escoltar na vila. | 5.000 ryō |
+| **C** | Genin com Jounin, Chunin | Escolta a outra vila, capturar bandidos. | 30.000 ryō |
+| **B** | Chunin, Jounin | Espionagem, caça a ninja renegado Chunin. | 80.000 ryō |
+| **A** | Jounin | Proteger um senhor, matar um Jounin inimigo. | 150.000 ryō |
+| **S** | Jounin de elite, Kage | Capturar Jinchūriki, parar uma guerra. | 1.000.000 ryō |
+
+**Dinheiro (ryō):** um Genin vive com 10.000 por mês. Equipamento está no capítulo 9.
+
+## Ninjas renegados
+Quem abandona a vila entra no **Livro Bingo**. Caçadores ANBU seguem. Um renegado não tem missões, mas tem liberdade e, muitas vezes, uma organização.
+
+## Organizações
+- **Akatsuki:** nove renegados de Grau S em capas pretas com nuvens vermelhas. Caçam Bestas. Use como vilões de uma campanha inteira.
+- **Raiz (Ne):** o ramo oculto da ANBU de Konoha. Sem emoção. Danzō.
+- **Os Sete Espadachins da Névoa:** uma espada, um dono. Rivais e lendas.
+- **Sannin:** os três alunos de Hiruzen. Modelos de Grau S.
+
+## Temas para campanhas
+- **Exame Chunin:** torneio, floresta, alianças. Ótimo começo.
+- **Guerra Fria entre vilas:** espionagem e política.
+- **Caça ao Jinchūriki:** proteger um amigo de monstros humanos.
+- **A queda de um clã:** segredos, culpa, vingança.
+- **Renegados:** os jogadores fora da lei.
+
+---
+
+# Capítulo 13: Guia do Narrador
+
+## Como pensar o jogo
+- **Chakra é a régua.** Um inimigo com Chakra 2 acima do grupo é um chefe. Com 2 abaixo, é capanga.
+- **Dê PE sempre.** 5 por sessão é o piso. O jogo foi feito para crescer rápido.
+- **Diga não ao dano infinito.** Se um jogador cria algo que fere mais que 9 ou ignora mais que 3 de Absorção, está errado.
+- **Deixe o Grau ser título.** Promova quando fizer sentido na história, não quando a ficha "merece".
+
+## Fichas rápidas de PN (Personagens do Narrador)
+Use **sucessos fixos** nas colunas de ataque e Defesa para o Combate Ágil (capítulo 11). Para rolar, use os dados.
+
+| PN | Chakra | Dados de ataque | Sucessos fixos | Defesa | Absorção | Vitalidade | Jutsus e truques |
+|---|---|---|---|---|---|---|---|
+| Bandido | 1 | 4 | 1 | 2 | 0 | 3 | Faca. Use em Bando. |
+| Genin | 3 | 5 | 2 | 2 | 1 | 7 | 2 jutsus de nível 1. Reserva 10. |
+| Chunin | 5 | 7 | 3 | 3 | 2 | 7 | 1 jutsu de nível 3, 2 de nível 2. Reserva 17. |
+| Jounin | 7 | 9 | 4 | 4 | 2 | 8 | 1 jutsu de nível 4, Disciplina nível 3. Reserva 25. |
+| ANBU | 8 | 10 | 4 | 4 | 3 | 8 | Sombra 4, 2 jutsus de nível 4. Reserva 28. |
+| Renegado S | 9 | 11 | 5 | 5 | 3 | 9 | 1 jutsu de nível 5, Disciplina 5. Reserva 32. 2 ações. |
+| Kage | 10 | 12 | 6 | 5 | 4 | 10 | 2 jutsus de nível 5, 2 Disciplinas 5. Reserva 35. 2 ações, 2 Reações. |
+| Besta com Cauda (solta) | 10 | 14 | 7 | 4 | 5 | 20 | Bijūdama, área sempre. 2 ações. Só se vence com selo. |
+
+**Ajustar:** +1 Chakra = +1 dado de ataque e +3 Reserva. Para um chefe, dê **duas ações** e uma fraqueza.
+
+## Dar PE
+Cada sessão: **5 PE fixos** por jogar. Até **+5** de bônus:
+| Motivo | PE |
+|---|---|
+| A missão foi cumprida | +1 |
+| O jogador interpretou o Nindo e isso custou algo | +1 |
+| Uma ideia do jogador mudou a cena | +1 |
+| O grupo trabalhou em equipe | +1 |
+| Fim de um arco | +1 |
+
+Máximo **10 PE por sessão**. Nunca dê 0: quem veio jogar, cresce.
+
+## Dificuldades
+| Situação | Dificuldade |
+|---|---|
+| Fácil | 5 |
+| Padrão | 6 |
+| Difícil | 7 |
+| Muito difícil | 8 |
+| Quase impossível | 9 |
+
+Lembre: a maioria das disputas é **rolagem contra rolagem** ou contra **Defesa fixa**, sem dificuldade variável.
+
+## Quando alguém morre
+Morte acontece: 3 pontos além de Incapacitado. Antes disso, dê escolhas: gastar Vontade (Último fôlego), um aliado médico, uma rendição. Se morreu, o jogador cria um novo ninja com **o mesmo total de PE** do grupo menos 10%.
+
+## Ritmo de uma sessão
+1. **Abertura** (15 min): onde paramos, o que o grupo quer.
+2. **Preparo** (30 min): plano, compras, rolagens sociais.
+3. **Missão** (2 h): 1 ou 2 combates, 1 cena de investigação ou social.
+4. **Fecho** (15 min): PE, Vontade, ganchos.
+
+## Erros comuns
+- **Fazer os jogadores rolarem Defesa a cada golpe.** Use a Defesa fixa. A Esquiva ativa é 1 por rodada.
+- **Esquecer o custo em Chakra.** Cobre antes de rolar. A Reserva acaba: isso é o jogo.
+- **Vilão com jutsu de nível 5 na sessão 2.** O grupo não tem resposta. Use Chakra do vilão = grupo + 2, no máximo.
+- **Dar "nível" a tudo.** Jutsus e Disciplinas têm nível. Itens têm Qualidade. Antecedentes têm pontos. Missões têm Classe.
+
+---
+
+# Capítulo 14: Ficha de Personagem
+
+Copie o modelo abaixo. Calcule os valores com o **capítulo 2**.
+
+```
+NOME: ____________________   CLÃ / SEM CLÃ: ____________   GRAU: ____
+VILA: ____________________   NINDO: ______________________________
+CAMINHO (Corpo / Mente / Social): ____________
+
+ATRIBUTOS (1 a 5)
+Corpo     Força ___  Destreza ___  Vigor ___
+Mente     Percepção ___  Inteligência ___  Raciocínio ___
+Social    Carisma ___  Manipulação ___  Presença ___
+
+HABILIDADES (0 a 5)
+Corpo     Taijutsu ___  Armas Ninja ___  Atletismo ___  Esquiva ___
+          Furtividade ___  Prontidão ___  Sobrevivência ___
+Mente     Ninjutsu ___  Fuinjutsu ___  Controle de Chakra ___
+          Conhecimento Ninja ___  Medicina ___  Investigação ___
+Social    Genjutsu ___  Disfarce ___  Empatia ___  Intimidação ___
+          Lábia ___  Liderança ___
+
+CHAKRA (Traço 1 a 10): ___      Nível máximo (Chakra ÷ 2, p/ cima): ___
+Reserva (Chakra × 3 + Controle de Chakra): ___ / ___
+Afinidades: _______________________
+
+VONTADE permanente: ___   Pontos: ___ / ___
+
+VITALIDADE
+[ ] Escoriado extra (Vigor − 2) ...  [ ] Escoriado (0)
+[ ] Machucado (−1)   [ ] Ferido (−1)   [ ] Ferido Grave (−2)
+[ ] Espancado (−2)   [ ] Aleijado (−3)  [ ] INCAPACITADO
+Morte: 3 pontos além de Incapacitado.
+
+ABSORÇÃO (Vigor ÷ 2 + armadura + poderes, teto 5): ___
+DEFESA ((maior de Destreza/Raciocínio + Esquiva) ÷ 2, p/ cima): ___
+INICIATIVA (1d10 + Percepção + Prontidão): 1d10 + ___
+SUPERAÇÃO (sem clã): [ ] usada nesta cena
+
+DISCIPLINAS (nome · nível · efeito-chave)
+1. ______________________ Nv ___  ____________________________
+2. ______________________ Nv ___  ____________________________
+Trilhas (Fúria / Natureza / Corrupção / Portão aberto): ______
+
+JUTSUS (nome · nível · custo · rolagem · efeito)
+Básicos: Transformação (1) · Substituição (1) · Clone (1)
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+
+ANTECEDENTES (●)
+Mentor ___  Equipe ___  Equipamento ___  Fama ___
+Contatos ___  Aliados ___  Posição ___  Herança ___
+
+EQUIPAMENTO (item · Qualidade · dano/Absorção)
+______________________________________________________________
+______________________________________________________________
+Ryō: ________
+
+PE total: ____   PE gastos: ____   PE disponíveis: ____
+```
+
+## Exemplo pronto: Genin de Konoha, sem clã
+- **Atributos:** Força 3, Destreza 3, Vigor 3 (Corpo primário, 6 pontos) · Percepção 2, Inteligência 2, Raciocínio 3 (Mente, 4) · Carisma 2, Manipulação 2, Presença 2 (Social, 3).
+- **Habilidades:** Taijutsu 3, Esquiva 3, Atletismo 2, Prontidão 2, Armas Ninja 2, Furtividade 1 · Ninjutsu 2, Controle de Chakra 2, Fuinjutsu 1, Conhecimento Ninja 2, Medicina 1, Investigação 1 · Genjutsu 1, Intimidação 1, Lábia 1, Liderança 1, Empatia 1.
+- **Chakra 3** → nível máximo 2. **Reserva** 3 × 3 + 2 = **11**. Afinidade: Vento.
+- **Vontade** 5. **Vitalidade** 7 + 1 (Vigor 3) = 8 níveis.
+- **Absorção** 1 (Vigor 3 ÷ 2). **Defesa** (3 + 3) ÷ 2 = 3. **Iniciativa** 1d10 + 4.
+- **Superação:** 1 rerrolagem por cena.
+- **Jutsus:** os 3 básicos + Furacão da Folha (1), Grande Rajada (2), Corpo Instantâneo (1).
+- **Antecedentes:** Mentor ●●, Equipe ●●, Equipamento ●.
+- **Pontos livres (10):** +1 Chakra (6) → Chakra 4, Reserva 14; +2 Habilidades (4): Atletismo 3 e Prontidão 3 (Iniciativa passa a 1d10 + 5).
+
+---
+
+*Fim do manual. Que a Vontade do Fogo guie sua mesa.*
