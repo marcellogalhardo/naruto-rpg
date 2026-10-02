@@ -727,11 +727,11 @@ Toda Disciplina de clã segue a **régua de poder** do capítulo 5: o nível 1 �
 - Descrição: a faca curta do Canino Branco, envolta em chakra claro.
 - Efeito: por 1 cena, a lâmina causa dano base 3 e ignora 1 de Absorção.
 
-**Mil Pássaros (Chidori)** — Nível 4 · Custo 8
-- Requisitos: Hatake 2, Relâmpago, Ninjutsu 4, Sharingan 1 ou Percepção 4 para ver o contragolpe.
+**Cortador de Relâmpago (Raikiri)** — Nível 5 · Custo 10
+- Requisitos: Hatake 2, Mil Pássaros (capítulo 6), Relâmpago, Ninjutsu 5.
 - Rolagem: Destreza + Ninjutsu, corrida em linha reta.
-- Descrição: raios na mão e o som de mil pássaros. Um golpe que atravessa.
-- Efeito: dano base 7, ignora 3 de Absorção. Só em linha reta: sem o requisito de visão, você tem **−2 dados** (a velocidade cega você).
+- Descrição: o Chidori levado ao limite pelo Ninja que Copia. Dizem que cortou um raio.
+- Efeito: dano base 9, ignora 3 de Absorção. Com Sharingan 1 ou Percepção 4, você não sofre o −2 dados do Chidori e pode usar como **Reação** contra quem avança sobre você (uma vez por cena).
 
 ---
 
@@ -765,27 +765,54 @@ Toda Disciplina de clã segue a **régua de poder** do capítulo 5: o nível 1 �
 ## Kaguya
 **Requisitos:** Força 2, Vigor 3.
 
-### Disciplina: Pulso de Osso (níveis 1–5)
-- **1 — Lâminas de Osso** (0 Chakra): ossos saem da pele quando você quer. Armas naturais com dano base **2 + Nv**. Não podem ser desarmadas.
-- **2 — Pele de Osso** (1 Chakra): dura a cena. **+Nv Absorção** (teto 5).
-- **3 — Dança da Camélia** (3 Chakra): Destreza + Taijutsu com +Nv dados. 2 ataques, dano base 5.
-- **4 — Dança do Salgueiro** (4 Chakra): Reação. Ossos crescem e atingem todos corpo a corpo que atacam você: dano base 5.
-- **5 — Floresta de Ossos** (8 Chakra): área de 30 m. Dano base 8, alvos ficam presos e o chão vira seu.
+### Disciplina: Pulso de Osso (Shikotsumyaku, níveis 1–5)
+A Disciplina é o **corpo** do Kaguya: ossos que crescem, endurecem e se refazem. As Danças são jutsus separados, abaixo.
+- **1 — Ossos Expostos** (0 Chakra): ossos saem da pele quando você quer. Armas naturais com dano base **2**, não podem ser desarmadas. +1 dado em Taijutsu com elas.
+- **2 — Pele de Osso** (0 Chakra, passivo): uma camada de osso sob a pele. **Absorção +Nv ÷ 2** (arredonde para cima; teto 5).
+- **3 — Ossos Densos** (0 Chakra, passivo): mais duros que aço. Suas armas de osso causam dano base **3** e ignoram 1 de Absorção. Golpes não deixam você **Caído**.
+- **4 — Ossos que se Refazem** (2 Chakra): um osso quebrado ou perdido volta no mesmo turno. Você ignora as penalidades de Vitalidade até **Ferido Grave**.
+- **5 — Corpo de Osso Vivo** (0 Chakra, passivo): sua Pele de Osso reduz em **2** qualquer perfuração contra você. Armas de osso têm dano base **5**.
 
-**Fraqueza — Corpo que se Consome:** cada nível de Vitalidade que você perde não cura naturalmente. Só Medicina (dif. 3) ou 1 semana de descanso.
+**Fraqueza — Corpo que se Consome:** o pulso de osso devora o próprio corpo. Dano que você sofre não cura naturalmente: só Medicina (dif. 7) ou 1 semana de descanso por nível.
 
 ### Jutsus de Clã
-**Dedos de Bala (Teshi Sendan)** — Nível 2 · Custo 4
+As Danças são técnicas de Taijutsu: custam Chakra igual ao nível.
+
+**Dedos de Bala (Teshi Sendan)** — Nível 2 · Custo 2
 - Requisitos: Kaguya 1, Armas Ninja 2.
 - Rolagem: Destreza + Armas Ninja.
 - Descrição: os ossos das pontas dos dedos saem como balas.
 - Efeito: dano base 3 em até **3 alvos** a 15 m.
 
-**Dança da Samambaia (Sawarabi no Mai)** — Nível 4 · Custo 8
-- Requisitos: Kaguya 3, Ninjutsu 4.
-- Rolagem: Raciocínio + Ninjutsu.
-- Descrição: uma floresta de lanças de osso brota do chão.
-- Efeito: dano base 6 em **área** de 10 m. Você se move dentro dos ossos; os outros não.
+**Dança do Salgueiro (Yanagi no Mai)** — Nível 2 · Custo 2
+- Requisitos: Kaguya 1, Taijutsu 2.
+- Rolagem: Destreza + Taijutsu.
+- Descrição: ossos saem dos cotovelos, ombros e joelhos. Você se dobra como um salgueiro ao vento.
+- Efeito: por 1 cena, **Defesa +1** e seus golpes de osso acertam quem está adjacente de qualquer lado sem penalidade. Dano base 3.
+
+**Dança da Camélia (Tsubaki no Mai)** — Nível 3 · Custo 3
+- Requisitos: Kaguya 2, Taijutsu 3.
+- Rolagem: Destreza + Taijutsu.
+- Descrição: você arranca um osso do braço e o usa como espada. Estocadas que não se vê.
+- Efeito: **2 ataques** com dano base 5 na mesma ação, contra o mesmo alvo ou dois. Ignoram 1 de Absorção.
+
+**Dança do Lariço (Karamatsu no Mai)** — Nível 3 · Custo 3
+- Requisitos: Kaguya 2, Taijutsu 3.
+- Rolagem: nenhuma. Use como **Reação**.
+- Descrição: ossos brotam do corpo inteiro. Quem agarra, se fere.
+- Efeito: por Nv turnos, quem acerta você corpo a corpo sofre dano base 3. Agarrões e prisões físicas falham.
+
+**Dança da Clematite (Tessenka no Mai)** — Nível 4 · Custo 4
+- Requisitos: Kaguya 3, Taijutsu 4, Força 3.
+- Rolagem: Destreza + Taijutsu.
+- Descrição: a coluna vira um chicote (Tsuru) e o braço, uma broca de osso (Hana).
+- Efeito: **Tsuru** prende o alvo a 5 m (Imobilizado se vencer a Defesa). No mesmo turno ou no próximo, **Hana** acerta o alvo preso com dano base 7, ignora 3 de Absorção.
+
+**Dança da Samambaia (Sawarabi no Mai)** — Nível 5 · Custo 5
+- Requisitos: Kaguya 4, Taijutsu 5.
+- Rolagem: Destreza + Taijutsu.
+- Descrição: uma floresta de lanças de osso brota do chão e cobre o campo.
+- Efeito: dano base 8 em **área** de 30 m. Quem sofrer dano fica **Imobilizado** entre os ossos. Você se move dentro deles como se fossem o seu corpo e pode surgir ao lado de qualquer alvo da área.
 
 ---
 
@@ -1253,6 +1280,12 @@ Todo ninja formado na Academia sabe estes três. Custo: **1 Chakra** cada.
 - Rolagem: Destreza + Ninjutsu.
 - Descrição: cabeças de dragão feitas de fogo sobem ao céu e aquecem as nuvens.
 - Efeito: dano base 6 em **área** de 5 m. Após 3 usos na mesma cena, nuvens de tempestade se formam (prepara o Kirin).
+
+**Mil Pássaros (Chidori)** — Nível 4 · Custo 8
+- Requisitos: Ninjutsu 4, Relâmpago, Controle de Chakra 3. Criado por Kakashi Hatake; ele ensinou a Sasuke. Precisa de um mestre que o saiba.
+- Rolagem: Destreza + Ninjutsu, corrida em linha reta até o alvo.
+- Descrição: relâmpago concentrado na mão e o som de mil pássaros. Um golpe que atravessa.
+- Efeito: dano base 7, ignora 3 de Absorção. A velocidade cega você: **−2 dados**, a não ser que tenha Sharingan 1 ou Percepção 4. Com Relâmpago em fluxo, vira a base de **Corrente de Chidori** (crie com o capítulo 8).
 
 ### Nível 5 (Grau S) — custo 10
 **Shuriken Espiral (Fūton: Rasenshuriken)**
