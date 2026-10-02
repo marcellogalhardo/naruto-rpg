@@ -141,7 +141,7 @@ Um ninja ajuda outro: ele rola uma ação simples. Cada sucesso dá **+1 dado** 
 
 # 3. Criando seu Ninja
 
-Siga os passos. Anote tudo na ficha (capítulo 20).
+Siga os passos. Anote tudo na ficha (capítulo 21).
 
 ## Passo 1: Conceito
 Pense em uma frase. Exemplos: "órfã que quer ser Hokage", "gênio frio que esconde medo", "garoto glutão e leal". Escolha seu **Nome**, **Idade** (12 a 16 anos para Genin) e **Vila**.
@@ -165,13 +165,13 @@ Escolha **1 afinidade elemental** (Fogo, Água, Vento, Raio ou Terra) ou **Sem A
 Você sabe de graça: **Henge** (transformação), **Kawarimi** (substituição) e **Bunshin** (clone). Escolha mais **3 jutsus** de nível 1 ou 2. Jutsus elementais devem ser do seu elemento de afinidade.
 
 ## Passo 8: Antecedentes
-Você tem **5 pontos** para gastar (cada ponto = 1 nível, máximo 3 agora). Veja o **capítulo 16**.
+Você tem **5 pontos** para gastar (cada ponto = 1 nível, máximo 3 agora). Veja o **capítulo 18**.
 Escolha entre: **Mentor, Equipe, Equipamento, Fama, Contatos, Aliados, Posição** e **Herança**.
 
 ## Passo 9: Detalhes finais
 - **Vontade:** 5
 - **Chakra máximo:** (Vigor + Vontade permanente) × 2, mais o bônus do Grau
-- **Vitalidade:** 5 + Vigor (veja capítulo 17)
+- **Vitalidade:** 5 + Vigor (veja capítulo 18)
 - **Iniciativa:** Destreza + Prontidão
 - **Absorção:** metade do Vigor (arredonde para cima)
 - **Grau:** D (Genin)
@@ -526,12 +526,12 @@ Você não tem Linhagem, mas é mais **flexível**.
 |---|---|---|
 | Linhagem do clã (Sharingan, Mangekyō, Byakugan...) | 1–4 | Capítulo 4 |
 | Portões | 0–8 | Capítulo 9 |
-| Invocação | 0–5 | Capítulo 11 |
-| Besta (Jinchuuriki) | 1–5 | Capítulo 12 |
+| Invocação | 0–5 | Capítulo 12 |
+| Besta (Jinchuuriki) | 1–5 | Capítulo 13 |
 | Kekkei Genkai raros (Mokuton, Jiton, Bakuton) | 1–4 | Abaixo |
 | Senjutsu, Ninja Médico, Kenjutsu, Sensor, Sombra, Mestre de Selos, Estrategista | 1–5 | Abaixo |
-| Marionetes | 1–4 | Capítulo 13 |
-| Mestre de Venenos | 1–4 | Capítulo 14 |
+| Marionetes | 1–4 | Capítulo 14 |
+| Mestre de Venenos | 1–4 | Capítulo 15 |
 
 ---
 
@@ -694,7 +694,7 @@ A afinidade, a vantagem entre elementos e o ambiente estão no **capítulo 7**.
 | **Descarga Elétrica** (Raio) | 2 | 3 | Destreza + Ninjutsu | Dano **4**. Alvo pode ficar atordoado. |
 | **Muro de Terra** (Terra) | 2 | 3 | Raciocínio + Ninjutsu | Cria uma parede (+3 de Absorção para quem está atrás). |
 | **Ilusão de Nevoeiro** | 1 | 2 | Manipulação + Genjutsu | Confunde o alvo: **−2 dados** por 1 turno. |
-| **Selo de Papel** | 1 | 1 | Inteligência + Fuinjutsu | Trava uma porta ou cria uma armadilha simples (capítulo 15). |
+| **Selo de Papel** | 1 | 1 | Inteligência + Fuinjutsu | Trava uma porta ou cria uma armadilha simples (capítulo 16). |
 | **Corrida nas Paredes** | 1 | 1 | Destreza + Controle de Chakra | Anda em paredes e água. |
 
 ### Nível 3 (Grau C)
@@ -903,24 +903,24 @@ Em vez de dinheiro, você tem o Antecedente **Equipamento (0 a 5)**. Ele diz **a
 |---|---|---|---|
 | **Kunai** | 0 | — | Dano **2**. Arremesso até 10 m. |
 | **Shuriken** | 1 | Armas Ninja 1 | Dano **1**. Atire 3 de uma vez: **+1 dado**. |
-| **Fio de aço** | 1 | Destreza 2 | Prende um alvo (Destreza + Armas Ninja, dif. 2) ou serve de armadilha (capítulo 15). |
-| **Conjunto de armadilhas** | 1 | Sobrevivência 1 | Arames, sinos e pregos. Veja o **capítulo 15**. |
+| **Fio de aço** | 1 | Destreza 2 | Prende um alvo (Destreza + Armas Ninja, dif. 2) ou serve de armadilha (capítulo 16). |
+| **Conjunto de armadilhas** | 1 | Sobrevivência 1 | Arames, sinos e pregos. Veja o **capítulo 16**. |
 | **Bomba de fumaça** | 1 | — | 1 uso. Bloqueia a visão por 1 turno. **+2 dados** para fugir. |
 | **Primeiros socorros** | 1 | Medicina 1 | **+1 dado** em Medicina. |
 | **Colete tático** | 2 | Vigor 2 | **+1 Absorção**. Guarda 3 itens pequenos. |
 | **Arma boa** | 2 | Armas Ninja 2 | Qualquer arma ganha **+1 dano**. |
-| **Selo explosivo** | 2 | Fuinjutsu 1 | 1 uso. Dano **6** em 5 m. Explode quando você quiser (capítulo 15). |
-| **Veneno fraco** | 2 | Medicina 1 | Veja o **capítulo 14**. |
+| **Selo explosivo** | 2 | Fuinjutsu 1 | 1 uso. Dano **6** em 5 m. Explode quando você quiser (capítulo 16). |
+| **Veneno fraco** | 2 | Medicina 1 | Veja o **capítulo 15**. |
 | **Pílula de soldado** | 2 | Vigor 2 | 1 uso. Recupera **3 Chakra**. |
 | **Espada ninja** | 3 | Força 2, Armas Ninja 2 | Dano **4**. |
 | **Armadura ninja** | 3 | Vigor 3 | **+2 Absorção**. **−1 dado** em Furtividade. |
-| **Marionete de combate** | 3 | Controle de Chakra 3 | Veja o **capítulo 13**. |
-| **Veneno forte** | 3 | Medicina 3 | Veja o **capítulo 14**. |
+| **Marionete de combate** | 3 | Controle de Chakra 3 | Veja o **capítulo 14**. |
+| **Veneno forte** | 3 | Medicina 3 | Veja o **capítulo 15**. |
 | **Pergaminho de armazenamento** | 3 | Fuinjutsu 2 | Guarda itens até nível 3. Abrir ou fechar: 1 ação. |
 | **Arma de mestre** | 4 | Armas Ninja 3 | Dano **5**. **+1 dado** de ataque. |
 | **Armadura de chakra** | 4 | Controle de Chakra 3, Vigor 3 | **+3 Absorção**, sem penalidade. Custa **1 Chakra** por cena. |
 | **Arma condutora** | 4 | Controle de Chakra 4 | **+2 dano** com seu elemento. Custa 1 Chakra por turno. |
-| **Marionete de elite** | 4 | Controle de Chakra 4 | Veja o **capítulo 13**. |
+| **Marionete de elite** | 4 | Controle de Chakra 4 | Veja o **capítulo 14**. |
 | **Arma lendária** | 5 | Armas Ninja 4 | Dano **6**, **+2 dados** e **1 poder especial** (use o capítulo 8). |
 | **Pergaminho proibido** | 5 | Inteligência 4, Fuinjutsu 3, Grau B | Ensina **1 jutsu de nível 4**, sem custo de PE. O Narrador define o preço. |
 | **Invenção secreta** | 5 | Posição 3 | Aparelho único da vila. O Narrador define o efeito. |
@@ -1020,7 +1020,7 @@ Marionetes são **bonecos de combate** movidos por **fios de chakra**. Cada mari
 |---|---|---|---|
 | 1 | **Fios de Chakra** | 1 | Controle **1 marionete** a até 10 m. |
 | 2 | **Duas Marionetes** | 3 | Controle **2 ao mesmo tempo**. Cada uma age no seu turno. |
-| 3 | **Marionete Venenosa** | 4 | Uma marionete aplica um veneno (capítulo 14) sem gastar ação. |
+| 3 | **Marionete Venenosa** | 4 | Uma marionete aplica um veneno (capítulo 15) sem gastar ação. |
 | 4 | **Exército de Marionetes** | 8 | Até **5 marionetes**. Cada uma ataca com 3 dados (sucessos fixos: 1). |
 
 **Fraqueza:** Se alguém cortar os fios, a marionete cai.
@@ -1046,8 +1046,8 @@ Cada marionete tem **espaços**. Cada melhoria ocupa **1 espaço**.
 |---|---|
 | **Lâmina escondida** | **+1 dano**. Ataque surpresa: +2 dados na 1ª rodada. |
 | **Armadura de madeira** | **+1 Absorção**. |
-| **Reservatório de veneno** | Guarda **1 dose** de veneno (capítulo 14). |
-| **Bomba ou selo** | Guarda 1 selo explosivo (capítulo 15). Explode ao ser destruída. |
+| **Reservatório de veneno** | Guarda **1 dose** de veneno (capítulo 15). |
+| **Bomba ou selo** | Guarda 1 selo explosivo (capítulo 16). Explode ao ser destruída. |
 | **Escudo** | **+2 dados** de Esquiva. |
 | **Braço extra** | **+1 ataque** por turno com **−2 dados**. |
 
@@ -1135,7 +1135,7 @@ Uma **armadilha** protege um lugar ou pega um inimigo de surpresa. Você a monta
 | **Kunai escondidos** | Média | Conjunto + 3 kunai | Dano **3** a 10 m. |
 | **Poço com estacas** | Complexa | Conjunto | Dano **4**. O alvo fica preso. |
 | **Fumaça** | Simples | Bomba de fumaça | Bloqueia a visão por 1 turno. |
-| **Gás venenoso** | Média | Conjunto + veneno (capítulo 14) | Veneno em área de 5 m. |
+| **Gás venenoso** | Média | Conjunto + veneno (capítulo 15) | Veneno em área de 5 m. |
 | **Selo explosivo** | Simples | Selo (Fuinjutsu 1) | Dano **6** em 5 m. |
 | **Selo de ilusão** | Média | Selo (Fuinjutsu 2) | O alvo cai em Genjutsu (dif. = Valor). |
 | **Selo de prisão** | Complexa | Selo (Fuinjutsu 3) | Prende 1 alvo por 1 turno por sucesso. |
@@ -1384,7 +1384,7 @@ Uma vila cercada por uma floresta. Tem uma **Academia**, a **Torre do Hokage**, 
 | **Jounin** | Destreza 4, Vigor 4 | Taijutsu 4, Ninjutsu 4 | 9 | 6 |
 | **Nukenin** | Destreza 4, Vigor 4 | Ninjutsu 5 | 10 | 8 |
 
-Todos os NPCs têm Chakra igual a (Vigor × 3). Absorção = metade do Vigor. Em lutas grandes, use **sucessos fixos** (capítulo 17).
+Todos os NPCs têm Chakra igual a (Vigor × 3). Absorção = metade do Vigor. Em lutas grandes, use **sucessos fixos** (capítulo 18).
 
 ## Exemplo de Missão (Nível C): "A Ponte Quebrada"
 **Cena 1:** O time recebe a missão de escoltar um construtor até uma vila vizinha.
@@ -1472,6 +1472,6 @@ PE TOTAL: ____   PE GASTO: ____
 - **Ataque:** Destreza + Habilidade contra Destreza + Esquiva. **Dano = sucessos extras + dano base − Absorção.**
 - **Vontade:** 1 ponto = 1 sucesso automático.
 - **Chakra:** pague antes de rolar. Chakra 0 = exausto.
-- **Combate ágil:** inimigos fracos usam sucessos fixos (capítulo 17).
+- **Combate ágil:** inimigos fracos usam sucessos fixos (capítulo 18).
 
 **Divirtam-se, ninjas! Dattebayo! 🍥**
