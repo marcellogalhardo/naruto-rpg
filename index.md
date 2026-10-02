@@ -23,7 +23,7 @@
 
 ---
 
-# 1. Introdução
+# Capítulo 1: Introdução
 
 ## O que é um RPG?
 É um jogo de contar histórias. Cada jogador cria um **ninja**. Uma pessoa é o **Narrador**. Ele descreve o mundo, os inimigos e as missões. Os jogadores dizem o que seus ninjas fazem. Os dados mostram se deu certo.
@@ -57,7 +57,7 @@ Para evitar confusão, este manual usa:
 
 ---
 
-# 2. Mecânica
+# Capítulo 2: Mecânica
 
 Este capítulo tem **todas as regras de cálculo** do jogo. Os outros capítulos só dizem **o que** cada coisa faz e apontam para cá.
 
@@ -300,7 +300,7 @@ Para o jogo ser rápido, a defesa normal é um **valor fixo**, sem rolagem.
 
 ---
 
-# 3. Criando seu Ninja
+# Capítulo 3: Criando seu Ninja
 
 Siga os passos. Anote tudo na ficha (capítulo 14).
 
@@ -387,7 +387,7 @@ Toda melhoria precisa de uma **cena de treino, estudo ou uso em missão**. Subir
 
 ---
 
-# 4. Clãs
+# Capítulo 4: Clãs
 
 Um clã dá três coisas, e só três:
 1. **Requisitos:** o que você precisa ter para nascer com o poder ativo.
@@ -1533,7 +1533,7 @@ Equipamento tem **Qualidade** de 0 a 5. Não use a palavra "nível" para itens. 
 | 4 | Lendário | 10.000 | +2 dados, +1 dano |
 | 5 | Artefato | não se compra | veja a lista de Artefatos |
 
-Na criação você tem o **Conjunto Ninja** (Qualidade 1) de graça: 10 kunai, 10 shuriken, 3 etiquetas explosivas, arame, pergaminho, kit básico de cura. O Antecedente **Equipamento** (capítulo 10) dá itens de Qualidade maior.
+Na criação você tem o **Conjunto Ninja** (Qualidade 1) de graça: 10 kunai, 10 shuriken, 3 etiquetas explosivas, arame, pergaminho, estojo básico de cura. O Antecedente **Equipamento** (capítulo 10) dá itens de Qualidade maior.
 
 ## Armas
 O dano base da arma **substitui** a Força. Se a Força for maior, use a Força.
@@ -1589,7 +1589,7 @@ Montar: Inteligência + Armas Ninja, 1 turno por Qualidade. Quem passa rola Perc
 ## Ferramentas úteis
 | Item | Efeito |
 |---|---|
-| Kit médico (Qualidade 1 a 3) | +Qualidade dados em Medicina. Gasta 1 uso por cura. |
+| Estojo médico (Qualidade 1 a 3) | +Qualidade dados em Medicina. Gasta 1 uso por cura. |
 | Pílula do soldado | +3 Chakra na hora, −1 dado em tudo depois da cena. |
 | Pílula de sangue | Para um sangramento. Cura 1 Escoriado. |
 | Papel de chakra | Mostra a afinidade. |
@@ -1774,7 +1774,7 @@ Para sair do combate: gaste a ação e role Destreza + Atletismo contra o maior 
 
 ## Ferimentos e cura
 - **Natural:** 1 nível por dia. Ferido Grave ou pior pede uma semana de cama por nível.
-- **Medicina:** Palma Mística em combate. Fora dele, Inteligência + Medicina com kit: 1 nível por sucesso, uma vez por dia por paciente.
+- **Medicina:** Palma Mística em combate. Fora dele, Inteligência + Medicina com estojo: 1 nível por sucesso, uma vez por dia por paciente.
 - **Dano de Portões e Desgaste Ocular:** 1 semana por nível, sem jutsu que ajude.
 
 ---
