@@ -997,11 +997,11 @@ As Danças são técnicas de Taijutsu: custam Chakra igual ao nível.
 **Requisitos:** Raciocínio 2, Controle de Chakra 2.
 
 ### Disciplina: Hyōton — Gelo (níveis 1–5)
-Água e Vento no mesmo sangue. O gelo obedece.
+Água e Vento no mesmo sangue. A Disciplina é o que o frio faz no seu corpo; o que o gelo faz no campo são as técnicas.
 - **1 — Duas Naturezas** (passivo): você tem as afinidades **Água e Vento**. **+Nv dados** em jutsus de Gelo. Libera os **Jutsus de Gelo**.
 - **2 — Sangue Frio** (passivo): frio não fere você. Em neve ou gelo, **Defesa +1** e movimento normal.
-- **3 — Gelo Rápido** (passivo): seus jutsus de Gelo custam **1 Chakra a menos**. Seus espelhos duram **+Nv turnos**.
-- **4 — Passo de Espelho** (passivo): mover-se entre espelhos seus é **ação livre**, quantas vezes quiser por turno.
+- **3 — Gelo Duro** (passivo): suas criações de gelo (espelhos, paredes) têm **Absorção +Nv ÷ 2** (arr. cima) e Vitalidade **+Nv**.
+- **4 — Reflexo do Frio** (passivo): **Iniciativa +Nv ÷ 2** (arr. cima). Seus jutsus de Gelo custam **1 Chakra a menos**.
 - **5 — Inverno** (passivo): seu gelo **não derrete** com Fogo de nível menor que Nv. Jutsus de Fogo contra você perdem a vantagem de elemento.
 
 **Fraqueza — Fogo:** dano de Fogo de nível igual ou maior que a sua Disciplina contra você é **+3** e derrete seus espelhos.
@@ -1017,7 +1017,7 @@ As Danças são técnicas de Taijutsu: custam Chakra igual ao nível.
 - Requisitos: Yuki 1, Ninjutsu 2.
 - Rolagem: Raciocínio + Ninjutsu.
 - Descrição: um espelho de gelo no ar. Você entra nele.
-- Efeito: cria até sucessos espelhos a 10 m uns dos outros, por 3 turnos. Dentro de um espelho você tem **Absorção 4** e ataca de lá com Armas Ninja.
+- Efeito: cria até sucessos espelhos a 10 m uns dos outros, por 3 turnos. Mover-se entre os seus espelhos é **ação livre**. Dentro de um espelho você tem **Absorção 4** e ataca de lá com Armas Ninja.
 
 **Mil Agulhas de Água (Sensatsu Suishō)** — Nível 3 · Custo 6
 - Requisitos: Yuki 1, Ninjutsu 3, água por perto.
