@@ -258,7 +258,7 @@ Para o jogo ser rápido, a defesa normal é um **valor fixo**, sem rolagem.
 
 - O ataque acerta se tiver **mais sucessos** que a Defesa. Os sucessos além da Defesa são os **sucessos extras**.
 - **Esquiva ativa:** uma vez por rodada, você pode gastar sua **Reação** e **rolar** Destreza (ou Raciocínio) + Esquiva. Use o resultado no lugar da Defesa fixa. Use isso contra o golpe que mais importa.
-- Um alvo **surpreso**, **preso** ou **atordoado** tem Defesa **0**.
+- Um alvo **surpreso**, **Imobilizado** (contra quem o prende) ou **Paralisado** tem Defesa **0**. As condições estão no capítulo 11.
 
 ---
 
@@ -418,7 +418,7 @@ Toda Disciplina de clã segue a **régua de poder** do capítulo 5: o nível 1 �
 | **Chama da Fênix** (Katon: Hōsenka) | 2 | Sharingan 1, Fogo | Destreza + Ninjutsu | Dano base 2 em até 3 alvos. |
 | **Grande Aniquilação** (Katon: Gōka Mekkyaku) | 4 | Sharingan 2, Fogo | Destreza + Ninjutsu | Dano base 6 em área de 10 m. |
 | **Amaterasu** | 5 | Mangekyō | Destreza + Ninjutsu | Dano base 9. O alvo queima 2 por turno até apagar (Raciocínio + Ninjutsu, dif. 4). |
-| **Tsukuyomi** | 5 | Mangekyō | Manipulação + Genjutsu | Resiste com Raciocínio + Vontade, dif. 4. Se falhar, sofre dano mental igual aos sucessos extras + 5 e fica Atordoado por 2 turnos. |
+| **Tsukuyomi** | 5 | Mangekyō | Manipulação + Genjutsu | Resiste com Raciocínio + Vontade, dif. 4. Se falhar, sofre dano mental igual aos sucessos extras + 5 e fica Paralisado por 2 turnos. |
 | **Susanoo** | 5 | Mangekyō | Raciocínio + Ninjutsu | Dura a cena. **+3 Absorção** (teto 5) e um ataque por turno com dano base 9 a 10 m. Custa 2 Chakra por turno. |
 | **Izanagi** | 5 | Mangekyō | — | Reação. Anula um golpe, mesmo mortal. O olho usado **cega para sempre**: −1 Percepção permanente. |
 
@@ -1712,7 +1712,7 @@ As fórmulas estão no capítulo 2. Aqui está a **ordem** das coisas e as regra
 | **Ação** | Atacar, usar jutsu, Esquiva ativa dupla (fica sem ação), estabilizar alguém, abrir um Portão. |
 | **Ação curta** | Sacar arma, beber pílula, falar uma ordem (Estrategista), Corpo Instantâneo, mirar (+1 dado no próximo ataque). |
 | **Movimento** | 10 m. Correr: gaste a ação e ande 30 m. |
-| **Reação** | Esquiva ativa, Substituição, Parede de Terra (com Fuinjutsu 4 ou Ninjutsu 3), aparar com arma. **Uma por rodada.** |
+| **Reação** | Esquiva ativa, Substituição, Parede de Terra, aparar com arma. **Uma por rodada.** |
 | **Livre** | Falar uma frase, soltar algo, Hiraishin. |
 
 ### Ataque passo a passo
