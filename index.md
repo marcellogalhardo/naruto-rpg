@@ -456,9 +456,8 @@ O olho. Ele vê, lê e copia. Ele não ataca: os jutsus abaixo atacam.
 O Mangekyō cobra a vista. Você tem uma trilha de **Desgaste Ocular** de 0 até a sua **Vitalidade** total.
 
 - **Subir:** +1 por jutsu de Mangekyō (Susanoo: +1 a cada 3 turnos).
-- **Penalidade:** **−1 dado em tudo** a cada 2 pontos de Desgaste (arr. baixo).
-- **Trilha cheia:** o Sharingan **apaga** (nenhum nível funciona) até você curar pelo menos 1 ponto.
-- **Forçar:** com a trilha cheia, você pode gastar 1 Vontade para usar **um** jutsu de Mangekyō. Isso marca 1 ponto de **Desgaste Permanente**, que nunca cura e **reduz a trilha** em 1. Quando o Permanente iguala a Vitalidade, você fica **Cego** para sempre. Só o Mangekyō Eterno desfaz isso.
+- **Penalidade:** **−1 dado em tudo** a cada 3 pontos de Desgaste.
+- **Trilha cheia:** o Sharingan **apaga** (nenhum nível funciona) até você curar pelo menos 1 ponto. Isso marca 1 ponto de **Desgaste Permanente**, que nunca cura. Quando o **Desgaste Permanente** iguala a **Vitalidade**, você fica **Cego** para sempre. Só o Mangekyō Eterno desfaz isso.
 - **Curar:** 1 ponto por dia de descanso sem ativar o Sharingan. Medicina não ajuda.
 
 **Fraqueza — Maldição do Ódio:** quando alguém que você ama é ferido ou morto, role Vontade (3 sucessos). Se falhar, você **precisa** atacar o culpado nesta cena e perde 1 Vontade.
