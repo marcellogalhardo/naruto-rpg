@@ -1213,7 +1213,7 @@ Todo ninja formado na Academia sabe estes três. Custo: **1 Chakra** cada.
 - Requisitos: Genjutsu 5, Presença 5.
 - Rolagem: Presença + Genjutsu contra Presença + Vontade de todos em 20 m.
 - Descrição: todos veem a própria morte com tanta clareza que o corpo desiste.
-- Efeito: quem falhou sofre **dano base 5 que ignora a Absorção** (o choque é interno; é a única exceção à regra) e fica Abalado pela cena. Uma vez por sessão.
+- Efeito: quem falhou sofre **dano base 5 que ignora 3 de Absorção** (o choque é interno) e fica Abalado pela cena. Uma vez por sessão.
 
 ---
 
@@ -1626,7 +1626,7 @@ Artefatos são itens de **Qualidade 5**. Eles têm história, requisitos e um ef
 - Requisitos: Força 4, Armas Ninja 3.
 - Rolagem: Destreza + Armas Ninja.
 - Descrição: um machado e um martelo ligados por corrente. Quebra qualquer defesa.
-- Efeito: dano base 5. Se você gasta a ação toda num golpe duplo (machado e depois martelo), a Absorção do alvo **cai a zero** para este golpe se você tiver 3 ou mais sucessos extras (é a única exceção à regra de perfuração 3, e só contra barreiras, armaduras e Susanoo: Absorção natural de Vigor permanece).
+- Efeito: dano base 5. Se você gasta a ação toda num golpe duplo (machado e depois martelo), o golpe **ignora 3 de Absorção** e, com 3 ou mais sucessos extras, **quebra** a armadura, a barreira ou o Susanoo do alvo: esse bônus de Absorção some até o fim da cena.
 
 **Espada Explosiva (Shibuki)**
 - Requisitos: Armas Ninja 3, Fuinjutsu 1.
