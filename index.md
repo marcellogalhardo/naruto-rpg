@@ -1416,3 +1416,282 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 - Efeito: mova-se para qualquer marca sua como **ação livre**, até Controle de Chakra vezes por turno. Marcas duram para sempre. Inimigos não podem usar Reação contra o seu primeiro ataque após o salto. Custo: 2 Chakra por salto depois do primeiro no turno.
 
 ---
+
+# Capítulo 7: Afinidades Elementais
+
+Todo ninja nasce com **uma afinidade**. Ela define que jutsus de elemento você aprende com facilidade.
+
+## As cinco naturezas
+| Elemento | Nome | Tema | Efeito comum nos jutsus |
+|---|---|---|---|
+| **Fogo** | Katon | Destruição, calor | Queima: 1 de dano no fim do turno seguinte. |
+| **Vento** | Fūton | Corte, alcance | Perfuração: ignora 1 de Absorção. |
+| **Relâmpago** | Raiton | Velocidade, choque | Atordoa: o alvo perde a Reação. |
+| **Terra** | Doton | Defesa, peso | Absorção extra em barreiras; prende. |
+| **Água** | Suiton | Fluxo, controle | Derruba e alaga; precisa de fonte em jutsus grandes. |
+
+## Roda de vantagem
+Cada elemento vence um e perde para outro: **Fogo > Vento > Relâmpago > Terra > Água > Fogo.**
+- Jutsu com **vantagem** sobre o do oponente (ou sobre a afinidade dele numa disputa): **+2 dados**.
+- Jutsu com **desvantagem**: **−2 dados**.
+- Dois jutsus iguais se anulam se os sucessos empatarem.
+
+## Como ganhar afinidades
+| Afinidade | Requisito |
+|---|---|
+| 1ª | Grátis na criação. |
+| 2ª | Chakra 5 e 10 PE. |
+| 3ª | Chakra 7 e 15 PE. |
+| 4ª | Chakra 9 e 20 PE. |
+| 5ª | Só com o Narrador. Lendas como Hiruzen. |
+
+**Clãs:** algumas Disciplinas de clã dão afinidades de graça (Yuki: Água e Vento; Senju 3: Água e Terra). Elas **não contam** para os limites acima.
+
+**Kekkei Genkai:** juntar duas afinidades cria uma natureza nova só se você tiver a Disciplina (capítulo 5): Água + Vento = Gelo (Yuki), Água + Terra = Madeira (Mokuton), Vento + Terra = Magnetismo (Jiton), Terra + Relâmpago = Explosão (Bakuton), Fogo + Terra = Lava (Terumī, clã raro). Sem a Disciplina, as duas afinidades não se misturam.
+
+## Jutsus sem elemento
+Clones, Transformação, Rasengan, Genjutsu, selos e Taijutsu **não têm elemento**. Quem prefere esse caminho não perde nada: não há "sem afinidade" neste livro. Todo ninja tem uma.
+
+## Descobrir a afinidade em jogo
+O papel de chakra mostra: queima (Fogo), corta (Vento), amassa (Relâmpago), vira pó (Terra), molha (Água). O jogador escolhe na criação; o papel é só cena.
+
+---
+
+# Capítulo 8: Criando suas Técnicas
+
+Você pode criar jutsus novos e novas Disciplinas. Use os **Pontos de Efeito** abaixo. O Narrador aprova.
+
+## Orçamento
+| Nível | Pontos de Efeito | Dano base máximo | Custo em Chakra (jutsu) | Custo em PE |
+|---|---|---|---|---|
+| 1 | 3 | 2 | 2 | 3 |
+| 2 | 4 | 3 | 4 | 6 |
+| 3 | 5 | 5 | 6 | 9 |
+| 4 | 6 | 7 | 8 | 12 |
+| 5 | 7 | 9 | 10 | 15 |
+
+Técnicas de Taijutsu custam **Chakra igual ao nível**. Disciplinas usam a mesma tabela (capítulo 5).
+
+## Efeitos (gastam pontos)
+| Efeito | Pontos |
+|---|---|
+| Causa dano (dano base da tabela, de acordo com o nível) | 2 |
+| +1 dano base acima da tabela (máx. +1, nunca acima de 9) | 2 |
+| Ignora 1 de Absorção (máx. 3) | 1 por ponto |
+| Área (dano base −1) | 1 |
+| Até 3 alvos | 1 |
+| Alcance longo (30 m) | 1 |
+| Aplica condição: Caído, Lento, Abalado | 1 |
+| Aplica condição: Imobilizado, Cego, Surdo | 2 |
+| Aplica condição: Paralisado, Dormindo | 3 |
+| Dura sucessos turnos | 1 |
+| Dura a cena | 2 |
+| Usa Reação (defesa) | 1 |
+| Cria barreira (Absorção 4, Vitalidade sucessos × 2) | 2 |
+| Cura 1 nível por 2 sucessos | 2 |
+| Rouba 1 Chakra por sucesso extra | 2 |
+| Dá +1 dado em uma ação (máx. +2) | 1 por dado |
+| Dá +1 Absorção ou +1 Defesa (máx. +3) | 1 por ponto |
+| Não precisa de selos | 1 |
+| Ação curta em vez de ação | 2 |
+
+## Limitações (devolvem pontos)
+| Limitação | Pontos |
+|---|---|
+| Precisa de fonte (água, nuvens, instrumento) | +1 |
+| Precisa de toque | +1 |
+| Precisa de 2 turnos para preparar | +1 |
+| Precisa de outro ninja | +1 |
+| Custa 1 nível de Vitalidade ao usuário | +2 |
+| Custa 1 Vontade | +1 |
+| Uma vez por cena | +1 |
+| Só funciona em alvo com condição (Caído, no ar) | +1 |
+
+## Regras
+- O total de pontos **não pode passar** o orçamento. Pontos sobrando se perdem.
+- **Nenhum jutsu ignora toda a Absorção.** Máximo de perfuração: 3.
+- Dano base nunca passa de 9.
+- Criar um jutsu em jogo leva **sessões de treino** iguais ao nível. O Narrador pode pedir uma rolagem de Inteligência + Ninjutsu (dif. 5 + nível) por sessão.
+- Jutsus de elemento exigem a afinidade. Jutsus de clã exigem a Disciplina do clã.
+
+## Exemplo
+**Lança de Água (Suiton: Suisō)**, nível 2 (4 pontos): causa dano (2) + ignora 1 de Absorção (1) + alcance longo (1) = 4. Limitação: precisa de fonte (+1) → sobra 1 ponto para "aplica Caído". Custo: 4 Chakra. Rolagem: Destreza + Ninjutsu. Dano base 3, ignora 1, 30 m, derruba.
+
+---
+
+# Capítulo 9: Equipamento e Artefatos
+
+Equipamento tem **Qualidade** de 0 a 5. Não use a palavra "nível" para itens. Qualidade define o preço e o bônus.
+
+## Qualidade
+| Qualidade | O que é | Custo (ryō) | Bônus comum |
+|---|---|---|---|
+| 0 | Improvisado | — | −1 dado |
+| 1 | Comum da loja | 100 | 0 |
+| 2 | Boa feitura | 500 | +1 dado |
+| 3 | Obra de mestre | 2.000 | +1 dado, +1 dano |
+| 4 | Lendário | 10.000 | +2 dados, +1 dano |
+| 5 | Artefato | não se compra | veja a lista de Artefatos |
+
+Na criação você tem o **Conjunto Ninja** (Qualidade 1) de graça: 10 kunai, 10 shuriken, 3 etiquetas explosivas, arame, pergaminho, kit básico de cura. O Antecedente **Equipamento** (capítulo 10) dá itens de Qualidade maior.
+
+## Armas
+Dano base de arma soma ao dano de **Força** (socos) ou substitui, o que for maior.
+
+| Arma | Dano base | Alcance | Nota |
+|---|---|---|---|
+| Soco e chute | Força ÷ 2 (arr. cima) | Toque | Taijutsu. |
+| Kunai | 2 | Toque ou 10 m | Serve para parar lâminas. |
+| Shuriken | 1 | 15 m | Até 3 por ação (−1 dado por extra). |
+| Senbon (agulha) | 1 | 10 m | Ignora 1 de Absorção. Carrega veneno sem perder. |
+| Tantō (faca curta) | 3 | Toque | Silenciosa. +1 dado em Furtividade para matar. |
+| Katana | 4 | Toque | Exige Armas Ninja 2. |
+| Fūma Shuriken | 4 | 20 m | 1 por ação. Volta se tiver arame. |
+| Kusarigama (foice com corrente) | 3 | 5 m | Pode prender (Imobilizado com 2 sucessos extras). |
+| Bastão | 3 | 2 m | +1 Defesa quando você não ataca. |
+| Arco | 3 | 50 m | Raro entre ninjas. |
+| Espadas grandes (Zanbatō) | 5 | Toque | Exige Força 3. −1 dado em Esquiva. |
+| Etiqueta explosiva | 2, área 2 m | Lançada | Fuinjutsu 1 para fazer. |
+| Bomba de fumaça | — | 5 m | −2 dados para ver dentro por 3 turnos. |
+
+## Armaduras
+| Armadura | Absorção | Penalidade |
+|---|---|---|
+| Colete tático (Chunin) | +1 | 0 |
+| Armadura leve de placas | +2 | −1 dado em Furtividade |
+| Armadura de samurai | +3 | −1 dado em Destreza e Furtividade |
+
+Lembre: Absorção total **nunca passa de 5** (capítulo 2).
+
+## Venenos
+Veneno tem **Qualidade** 1 a 5. Para resistir, o alvo rola **Vigor + Vontade** contra dificuldade **5 + Qualidade**. Um Mestre de Venenos sobe essa dificuldade (capítulo 5). O veneno age quando a arma causa pelo menos 1 de dano.
+
+| Qualidade | Nome | Efeito se falhar | Custo (ryō) |
+|---|---|---|---|
+| 1 | Sonífero fraco | −1 dado em tudo por 3 turnos. | 50 |
+| 2 | Paralisante | Lento por 3 turnos. | 200 |
+| 3 | Tóxico | 1 de dano por turno (ignora Absorção) por 5 turnos. | 800 |
+| 4 | Neurotóxico | Paralisado por 2 turnos, depois Lento até cura. | 3.000 |
+| 5 | Veneno de Sasori | 1 de dano por turno (ignora Absorção) por 1 cena, e morte em 3 dias sem antídoto de Medicina 4. | não se compra |
+
+**Antídoto:** Inteligência + Medicina, dificuldade 5 + Qualidade, com 1 hora e ingredientes. Pronto, cura em 1 turno.
+
+## Armadilhas
+Montar: Inteligência + Armas Ninja, 1 turno por Qualidade. Quem passa rola Percepção + Prontidão contra os sucessos de quem montou. Falhou: sofre o efeito.
+
+| Armadilha | Efeito |
+|---|---|
+| Arame com kunai | Dano base 3. |
+| Fosso | Caído e Imobilizado por 1 turno. |
+| Etiquetas em cadeia | Dano base 4 em área 5 m. Precisa de 5 etiquetas. |
+| Rede de arame | Imobilizado. Força + Atletismo (dif. 7) para sair. |
+
+## Ferramentas úteis
+| Item | Efeito |
+|---|---|
+| Kit médico (Qualidade 1 a 3) | +Qualidade dados em Medicina. Gasta 1 uso por cura. |
+| Pílula do soldado | +3 Chakra na hora, −1 dado em tudo depois da cena. |
+| Pílula de sangue | Para um sangramento. Cura 1 Escoriado. |
+| Papel de chakra | Mostra a afinidade. |
+| Óculos de visão | Ignora −2 de névoa e escuridão natural. |
+| Máscara de ANBU | +1 dado em Intimidação. Esconde a identidade. |
+| Rádio de equipe | Fala com aliados a 1 km. |
+
+---
+
+## Artefatos
+Artefatos são itens de **Qualidade 5**. Eles têm história, requisitos e um efeito que cresce com os seus **sucessos**. Não se compram. Ganham-se em missão, por herança ou roubo. O Narrador decide quando um aparece.
+
+### As Sete Espadas da Névoa
+
+**Cutelo Decapitador (Kubikiribōchō)**
+- Requisitos: Força 4, Armas Ninja 3.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: a espada de Zabuza. Um cutelo enorme que bebe sangue para se consertar.
+- Efeito: dano base 5, ignora 1 de Absorção. Quando causa dano a um alvo com sangue, a espada **se cura** e você recupera **1 Chakra por sucesso extra**. A lâmina também serve de escudo: +1 Absorção se você não atacou neste turno.
+
+**Pele de Tubarão (Samehada)**
+- Requisitos: Chakra 7, Armas Ninja 3. A espada escolhe o dono: ela morde quem não gosta.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: a espada viva de Kisame, coberta de escamas. Ela come chakra.
+- Efeito: dano base 4, não corta: **rasga** (ignora 2 de Absorção). A cada acerto, o alvo perde **Chakra igual aos sucessos** e você recebe metade. Samehada **devora** jutsus: use Reação com Destreza + Armas Ninja contra um Ninjutsu; se vencer, o jutsu some e você ganha metade do custo dele. Ela cresce: com 20 Chakra devorados na cena, dano base 6.
+
+**Agulha de Costura (Nuibari)**
+- Requisitos: Destreza 4, Armas Ninja 3.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: uma espada fina como agulha com um fio que não se rompe.
+- Efeito: dano base 3, ignora 3 de Absorção. Um ataque pode atravessar alvos em linha: acerte até **1 alvo por 2 sucessos**. Os alvos acertados ficam **costurados** juntos (Imobilizados até cortarem o fio, Força + Atletismo dif. 8).
+
+**Racha-Elmo (Kabutowari)**
+- Requisitos: Força 4, Armas Ninja 3.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: um machado e um martelo ligados por corrente. Quebra qualquer defesa.
+- Efeito: dano base 5. Se você gasta a ação toda num golpe duplo (machado e depois martelo), a Absorção do alvo **cai a zero** para este golpe se você tiver 3 ou mais sucessos extras (é a única exceção à regra de perfuração 3, e só contra barreiras, armaduras e Susanoo: Absorção natural de Vigor permanece).
+
+**Espada Explosiva (Shibuki)**
+- Requisitos: Armas Ninja 3, Fuinjutsu 1.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: um rolo de etiquetas explosivas corre pela lâmina.
+- Efeito: dano base 4. Cada golpe pode gastar 1 etiqueta: dano base +2 em **área** de 2 m (você está fora do raio). Carrega 10 etiquetas; recarregar leva 1 turno.
+
+**Presas (Kiba)**
+- Requisitos: Relâmpago, Armas Ninja 3.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: duas espadas gêmeas que cortam com relâmpago. As mais afiadas que existem.
+- Efeito: dano base 4 cada, dano de **Relâmpago** (atordoa: o alvo perde a Reação). Você ataca com as duas numa ação com −1 dado. Pode canalizar um Raiton seu pela lâmina: +2 dano base nele.
+
+**Linguado (Hiramekarei)**
+- Requisitos: Chakra 7, Armas Ninja 3.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: uma espada em bandagens que guarda chakra e vira a arma que você precisa.
+- Efeito: ela guarda até 10 Chakra que você deposita fora de combate. Gaste o que está guardado para dar forma: **martelo** (dano base 6), **lâminas gêmeas** (dois ataques), **escudo** (+2 Absorção por 1 turno). Cada forma gasta 2 pontos e dura 1 turno.
+
+### Outros Artefatos
+
+**Leque de Guerra (Gunbai)**
+- Requisitos: Chakra 7, Vento.
+- Rolagem: Raciocínio + Ninjutsu como Reação.
+- Descrição: o leque de Madara. Devolve o que lhe atiram.
+- Efeito: use Reação contra um Ninjutsu de nível até 4. Se vencer, o jutsu **volta** ao lançador com os seus sucessos. Como arma: dano base 4 em área (vento).
+
+**Leque de Folha de Bananeira (Bashōsen)**
+- Requisitos: Chakra 9.
+- Rolagem: Destreza + Ninjutsu.
+- Descrição: um dos Tesouros do Sábio. Cria qualquer um dos cinco elementos.
+- Efeito: cada abanada lança um jutsu de elemento de nível 4 (dano base 7) **sem afinidade**. Custa 4 da sua Reserva e **1 ponto da sua Vitalidade** por uso: o leque drena a vida.
+
+**Jarro de Âmbar (Kohaku no Jōhei)**
+- Requisitos: Chakra 9, Fuinjutsu 4.
+- Rolagem: Presença + Fuinjutsu contra Presença + Vontade.
+- Descrição: um jarro que sela quem responde ao próprio nome.
+- Efeito: diga o nome do alvo. Se ele responder ou reagir ao nome e perder a disputa, ele é **selado** dentro do jarro até ser solto. Funciona até em Bestas. Uma vez por sessão.
+
+**Bastão Nyoi (Kongōnyoi, forma de Enma)**
+- Requisitos: contrato com os Macacos, Invocação 5.
+- Rolagem: Destreza + Armas Ninja.
+- Descrição: o Rei dos Macacos vira um bastão que cresce e não quebra.
+- Efeito: dano base 5, alcance até 10 m. Absorção 5 como escudo (Reação). O bastão fala e dá conselhos (+1 dado em Raciocínio para táticas).
+
+---
+
+# Capítulo 10: Antecedentes
+
+Antecedentes são o que você tem **fora da ficha**: pessoas, posição, coisas. Eles valem de 0 a 5 **pontos (●)**. Na criação você tem **5 pontos**. Com PE, cada ponto custa o novo valor × 2.
+
+| Antecedente | ● | ●● | ●●● | ●●●● | ●●●●● |
+|---|---|---|---|---|---|
+| **Mentor** | Um Chunin responde dúvidas. | Um Jounin treina você às vezes. +1 dado em um treino por sessão. | Um Jounin de elite. Ensina um jutsu de nível 3 por arco. | Um Sannin ou Kage aposentado. Ensina Disciplinas raras. | Uma lenda viva. Portas que não existem se abrem. |
+| **Equipe** | Dois colegas Genin. | Colegas confiáveis com um jutsu útil cada. | Uma equipe Chunin que age sem você. | Um esquadrão Jounin que atende a um chamado por arco. | Um grupo que mudaria uma guerra. |
+| **Equipamento** | Conjunto Ninja Qualidade 2. | Uma arma Qualidade 3. | Armadura ou arma Qualidade 4. | Dois itens Qualidade 4. | Um Artefato (com aprovação). |
+| **Fama** | Conhecido na vila. | Conhecido na região. +1 dado em Lábia com quem o reconhece. | Conhecido no país. | Tem página no Livro Bingo. +2 dados em Intimidação. | Lenda viva. Pessoas fogem ou se ajoelham. |
+| **Contatos** | Um informante. | Contatos em duas vilas. | Uma rede. Uma informação por sessão sem rolagem. | Contatos em todos os países. | Conhece segredos de Kages. |
+| **Aliados** | Um amigo que ajuda sem perguntar. | Um Chunin leal. | Um Jounin leal. | Um clã inteiro. | Um Kage. |
+| **Posição** | Genin em missão. | Chunin com voz nas missões. | Líder de equipe. Escolhe missões. | Capitão ANBU ou chefe de clã. | Conselheiro do Kage. |
+| **Herança** | Um pergaminho de família com um jutsu de nível 2. | Dois jutsus de nível 2 ou um de nível 3. | Um jutsu de nível 4 que você só usa com Chakra 7. | Acesso a um Kekkei Genkai raro (capítulo 5). | Um segredo que define a campanha. |
+
+**Regras:**
+- Antecedentes mudam com a história. O Narrador pode subir ou tirar pontos sem PE.
+- Um Antecedente em 0 não é penalidade. Significa "não tenho".
+- **Mentor** e **Herança** são as formas de aprender jutsus sem pergaminho.
+
+---
