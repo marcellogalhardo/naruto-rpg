@@ -447,17 +447,16 @@ O olho. Ele vê, lê e copia. Ele não ataca: os jutsus abaixo atacam.
 - **1 — Olho Desperto** (1 PC por cena): ativar é ação livre. Enquanto ativo: **+Nv dados** em Percepção, **+1 na Defesa** e **+1 na Vontade** contra Genjutsu.
 - **2 — Olho que Lê** (passivo): você vê os selos antes de o jutsu sair. **Defesa +1** adicional com o olho ativo. Você pode aprender um jutsu que **viu** sem mestre nem pergaminho, pagando o PE normal.
 - **3 — Olho que Copia** (passivo): uma vez por cena, use um jutsu que viu nesta cena, de nível até **Nv − 1**, pagando o custo em PC. Seus Genjutsus **não precisam de selos**: só do olhar.
-- **4 — Mangekyō Sharingan** (passivo): exige um **trauma** na história. Libera os **Jutsus de Mangekyō**. Cada um sobe a trilha de **Desgaste Ocular** (veja abaixo).
-- **5 — Mangekyō Eterno (Fūmetsu)** (passivo): exige os olhos de um parente de sangue. Apaga o **Desgaste Permanente** e você nunca mais o ganha. O Desgaste Ocular comum continua.
+- **4 — Mangekyō Sharingan** (passivo): exige um **trauma** na história. Libera os **Jutsus de Mangekyō** (veja o **Desgaste Ocular** abaixo).
+- **5 — Mangekyō Eterno (Fūmetsu)** (passivo): exige os olhos de um parente de sangue. Cura todo o **Desgaste Ocular** e você não rola mais para ele.
 
 #### Desgaste Ocular
-O Mangekyō cobra a vista. Você tem uma trilha de **Desgaste Ocular** de 0 até os seus **PV máximos**.
+Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Susanoo exige o teste todo turno.
 
-- **Subir:** +1 por jutsu de Mangekyō (Susanoo: +1 a cada 3 turnos).
-- **Penalidade:** **−1 dado em tudo** a cada 2 pontos de Desgaste (arr. baixo).
-- **Trilha cheia:** o Sharingan **apaga** (nenhum nível funciona) até você curar pelo menos 1 ponto.
-- **Forçar:** com a trilha cheia, você pode gastar **2 PC** para usar **um** jutsu de Mangekyō. Isso marca 1 ponto de **Desgaste Permanente**, que nunca cura e **reduz a trilha** em 1. Quando o Permanente iguala seus PV máximos, você fica **Cego** para sempre. Só o Mangekyō Eterno desfaz isso.
-- **Curar:** 1 ponto por dia de descanso sem ativar o Sharingan. Medicina não ajuda.
+- **Falha:** +1 Desgaste.
+- Cada ponto de Desgaste dá **−1 dado** em tudo que usa visão.
+- Com **3 pontos**, você fica cego.
+- O Desgaste nunca cura sozinho. Só o Mangekyō Eterno cura, e depois disso você não rola mais.
 
 **Fraqueza — Maldição do Ódio:** quando alguém que você ama é ferido ou morto, role **Vontade** (Difícil, −2 dados). Se falhar, você **precisa** atacar o culpado nesta cena e perde 2 PC.
 
@@ -502,7 +501,7 @@ O Mangekyō cobra a vista. Você tem uma trilha de **Desgaste Ocular** de 0 até
 - Requisitos: Mangekyō (Sharingan 4), Ninjutsu 5, Amaterasu e Tsukuyomi.
 - Parada: Destreza + Ninjutsu + 9 − Defesa do alvo para atacar.
 - Descrição: um guerreiro de chakra ao redor do corpo. Escudo e espada ao mesmo tempo.
-- Efeito: dura enquanto você pagar 2 PC por turno. **+3 Defesa** (teto 8) e um ataque por turno com **+9 dados** a 10 m. Desgaste Ocular a cada 3 turnos.
+- Efeito: dura enquanto você pagar 2 PC por turno. **+3 Defesa** (teto 8) e um ataque por turno com **+9 dados** a 10 m. Desgaste Ocular todo turno.
 
 **Izanagi** — Nível 5 · Custo 10 PC
 
@@ -1733,7 +1732,7 @@ Para sair do combate: gaste a ação e role **Destreza + Atletismo** (subtraindo
 - **Natural:** 1 PV por dia de descanso.
 - **Medicina:** Palma Mística em combate. Fora dele, Inteligência + Medicina com estojo: 1 PV por sucesso, uma vez por dia por paciente.
 - **Dano de Portões:** 1 semana por PV perdido nos Portões, sem jutsu que ajude.
-- **Desgaste Ocular:** 1 ponto por dia sem usar o Sharingan (veja Uchiha, capítulo 4).
+- **Desgaste Ocular:** nunca cura sozinho; só o Mangekyō Eterno cura (veja Uchiha, capítulo 4).
 
 ---
 
