@@ -11,7 +11,7 @@
 Para **jogadores iniciantes** e criação rápida de personagem. Traz as regras centrais e o conteúdo clássico para começar sua campanha:
 
 1. **Introdução** — O que é um RPG e termos básicos.
-2. **Mecânica** — Dados, Atributos, Habilidades, Chakra, Vontade, Vitalidade, Absorção e Defesa.
+2. **Mecânica** — Regra do 8 (10 explode), modificadores na parada, Pontos de Vida (PV), Pontos de Chakra (PC) e valores fixos de Defesa, Vontade e Iniciativa.
 3. **Criando seu Ninja** — Passo a passo e progressão com Pontos de Experiência (PE).
 4. **Clãs** — Os 7 clãs clássicos de Konoha (*Uchiha, Hyūga, Nara, Akimichi, Yamanaka, Inuzuka, Aburame*) e regras para ninjas Sem Clã.
 5. **Disciplinas** — Régua de poder e disciplinas gerais (*Kenjutsu, Sensor, Sombra, Mestre de Selos, Estrategista*).
@@ -19,7 +19,7 @@ Para **jogadores iniciantes** e criação rápida de personagem. Traz as regras 
 7. **Afinidades Elementais** — As cinco naturezas e a roda de vantagem.
 8. **Equipamento** — Armas, armaduras, venenos, armadilhas e ferramentas.
 9. **Antecedentes** — Mentor, Equipe, Equipamento, Fama, Contatos, Aliados, Posição e Herança.
-10. **Combate** — Turnos, ações, condições, Combate Ágil e Bando.
+10. **Combate** — Combate de rolagem única, turnos, ações, condições e Bando.
 11. **O Cenário** — As Cinco Grandes Vilas, missões e organizações.
 12. **Ficha de Personagem** — Modelo copiável e exemplo pronto de Genin.
 
