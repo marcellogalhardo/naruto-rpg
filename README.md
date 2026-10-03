@@ -32,7 +32,9 @@ Quer ajudar a melhorar o sistema, corrigir um texto ou sugerir ajustes de balanc
 
 ## Estrutura do Repositório
 
-- [`index.md`](./index.md) — O manual completo do jogo.
+- [`index.md`](./index.md) — Índice principal com links para os manuais.
+- [`manual-basico.md`](./manual-basico.md) — Manual Básico (regras centrais, 7 clãs clássicos, disciplinas gerais, jutsus, equipamento, combate, cenário e ficha).
+- [`manual-avancado.md`](./manual-avancado.md) — Manual Avançado (clãs avançados, Portões Internos, Jinchūriki, disciplinas avançadas, combinação de elementos, criação de técnicas, artefatos e Guia do Narrador).
 - [`_config.yml`](./_config.yml) — Configuração do GitHub Pages.
 - `resources/` — Materiais de referência de outras adaptações (usados apenas para consulta).
 
