@@ -1,1027 +1,966 @@
 # 🍥 SHINOBI — O RPG de Ninjas
-### Manual Avançado (Sistema Storyteller / CofD) — 2ª Edição
+### Manual Avançado (Sistema Storyteller / Chronicles of Darkness) — 2ª Edição
 
-*Complemento do [Manual Básico](./manual-basico.md). Traz clãs de linhagens raras e de outras vilas, Portões Internos, Bestas com Cauda (Jinchūriki), disciplinas avançadas, combinação de afinidades elementais, criação de técnicas, artefatos lendários e o Guia do Narrador.*
+*Complemento do [Manual Básico](./manual-basico.md). Apresenta clãs de linhagens raras e de outras vilas, Portões Internos, Bestas com Cauda (Jinchūriki), disciplinas avançadas, combinação de afinidades elementais, criação de técnicas, artefatos lendários e o Guia do Narrador.*
 
 👉 **[Voltar ao Índice](./index.md)** · **[Ir para o Manual Básico](./manual-basico.md)**
 
 ---
 
 ## Sumário
-1. Clãs Avançados
-2. Disciplinas Avançadas
-3. Combinação de Afinidades (Kekkei Genkai Raros)
-4. Criando suas Técnicas
-5. Artefatos
-6. Guia do Narrador
+1. [Capítulo 1: Clãs Avançados](#capítulo-1-clãs-avançados)
+2. [Capítulo 2: Disciplinas Avançadas](#capítulo-2-disciplinas-avançadas)
+3. [Capítulo 3: Combinação de Afinidades (Kekkei Genkai Raros)](#capítulo-3-combinação-de-afinidades-kekkei-genkai-raros)
+4. [Capítulo 4: Criando suas Técnicas](#capítulo-4-criando-suas-técnicas)
+5. [Capítulo 5: Artefatos](#capítulo-5-artefatos)
+6. [Capítulo 6: Guia do Narrador](#capítulo-6-guia-do-narrador)
 
 ---
 
 # Capítulo 1: Clãs Avançados
 
-Estes clãs seguem as mesmas regras do **capítulo 4 do [Manual Básico](./manual-basico.md)**: cada um tem **Requisitos**, uma **Disciplina de clã** (níveis 1 a 5, passiva, que cresce com **Nv**), uma **Fraqueza** sempre ativa e uma lista de **Jutsus de Clã** comprados como jutsus normais.
+Estes clãs seguem rigorosamente as mesmas regras do capítulo 4 do [Manual Básico](./manual-basico.md): cada um possui **Requisitos**, uma **Disciplina de clã** (níveis 1 a 5, passiva, cujos efeitos aumentam de acordo com o Nível da Disciplina), uma **Fraqueza** sempre ativa e uma lista de **Jutsus de Clã** adquiridos como técnicas normais.
 
-Como vários destes clãs são raros, quase extintos ou de outras vilas, consulte o **Narrador** antes de escolhê-los na criação.
+Como vários destes clãs são raros, considerados quase extintos ou pertencentes a outras vilas ocultas, consulte o Narrador antes de selecioná-los na criação do personagem.
 
 ---
 
 ## Senju
 **Requisitos:** Vigor 2, Controle de Chakra 1.
 
-### Disciplina: Vitalidade Senju (níveis 1–5)
-Um corpo que transborda chakra e vida. O Mokuton é o que esse corpo permite.
+### Disciplina: Vitalidade Senju (Níveis 1 a 5)
+Um corpo que transborda chakra e vitalidade física. A Liberação de Madeira é a manifestação direta desse poder corporal.
 
-- **1 — Corpo da Floresta** (passivo): **+2 × Nv** nos **Pontos de Chakra (PC)** máximos.
-- **2 — Sangue Forte** (passivo): você cura **+1 PV extra** por dia e tem **+Nv dados** para resistir a veneno e fadiga, além de **+1 na Vontade** contra Pressão de Chakra.
-- **3 — Duas Naturezas** (passivo): você ganha as afinidades **Água e Terra** (se já tinha uma, ganha a outra).
-- **4 — Mokuton** (passivo): libera os **Jutsus de Madeira**. Suas criações de madeira têm **+1 Defesa**.
-- **5 — Floresta Viva** (passivo): seus jutsus de Madeira custam **2 PC a menos**. Bestas com Cauda sentem você: **+3 dados** em Pressão de Chakra contra elas e contra Jinchūriki em Manto.
+- **1 — Corpo da Floresta** (passivo): Soma duas vezes o Nível da Disciplina aos seus **Pontos de Chakra** máximos.
+- **2 — Sangue Forte** (passivo): Você recupera 1 Ponto de Vida adicional por dia de descanso e recebe uma quantidade de dados extras igual ao Nível da Disciplina em rolagens para resistir a venenos e fadiga corporal, além de somar 1 ponto na sua Vontade contra a Pressão de Chakra.
+- **3 — Duas Naturezas** (passivo): Você manifesta as afinidades elementais de **Água e Terra** simultaneamente (caso já possua uma delas, recebe a outra sem custo).
+- **4 — Liberação de Madeira (Mokuton)** (passivo): Desbloqueia os Jutsus de Madeira. As barreiras e construtos criados por você recebem 1 ponto adicional de Defesa.
+- **5 — Floresta Viva** (passivo): Os seus jutsus de Madeira custam 2 Pontos de Chakra a menos. As Bestas com Cauda reconhecem a sua presença: você recebe 3 dados adicionais em rolagens de Pressão de Chakra contra elas e contra Jinchūriki em estado de Manto de Chakra.
 
-**Fraqueza — Sangue Cobiçado:** todo vilão quer suas células. Você começa com 1 ponto de **Fama** forçado e inimigos conhecem seu nome.
+**Fraqueza — Sangue Cobiçado:** Facções e renegados perseguem as suas células genéticas. Você inicia o jogo com 1 ponto obrigatório no antecedente Fama, e os inimigos da vila frequentemente reconhecem o seu sobrenome.
 
 ### Jutsus de Clã
-**Prisão de Raízes (Mokuton: Jubaku Eisō)** — Nível 2 · Custo 4 PC
+**Prisão de Raízes (Mokuton: Jubaku Eisō)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Vitalidade Senju 4, Ninjutsu 2.
+- Ações: 1 ação.
+- Parada de dados: Raciocínio + Ninjutsu + 2 − Defesa do alvo.
+- Descrição: Raízes densas irrompem da terra e envolvem os membros do oponente.
+- Efeito: Em Distância Curta, com 1 ou mais sucessos obtidos, o alvo recebe a condição **Imobilizado** por 1 turno por sucesso.
 
-- Requisitos: Senju 4, Ninjutsu 2.
-- Parada: Raciocínio + Ninjutsu + 2 − Defesa do alvo.
-- Descrição: raízes saem do chão e envolvem o alvo.
-- Efeito: com 1+ sucesso, o alvo fica **Imobilizado** por 1 turno por sucesso.
+**Casa de Madeira (Mokuton: Mokujō Heki)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Vitalidade Senju 4, Ninjutsu 3.
+- Ações: 2 ações (ou Reação).
+- Parada de dados: Raciocínio + Ninjutsu.
+- Descrição: Pilares arqueados de madeira compacta formam uma cúpula protetora ao redor do conjurador ou de seus aliados.
+- Efeito: Ergue uma barreira que abriga até cinco indivíduos na mesma zona de Toque, com Defesa 4 e Pontos de Vida iguais aos sucessos multiplicados por 3, com duração até o fim da cena (quando utilizada como Reação, concede 3 pontos de Defesa contra aquele ataque específico).
 
-**Casa de Madeira (Mokuton: Mokujō Heki)** — Nível 3 · Custo 6 PC
+**Clone de Madeira (Mokuton: Moku Bunshin no Jutsu)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Vitalidade Senju 4, Ninjutsu 3.
+- Ações: 2 ações.
+- Parada de dados: Nenhuma.
+- Descrição: Uma réplica sólida gerada diretamente das fibras vegetais do próprio corpo do ninja.
+- Efeito: Cria um clone com autonomia real possuindo 3 Pontos de Vida e Defesa 3. Ele não se desfaz ao sofrer dano leve e pode atuar de maneira independente em missões de espionagem ao longo de vários dias.
 
-- Requisitos: Senju 4, Ninjutsu 3.
-- Parada: Raciocínio + Ninjutsu. Pode ser **Reação**.
-- Descrição: pilares de madeira formam uma cúpula ao redor do grupo.
-- Efeito: barreira para 5 pessoas com **Defesa 4** e PV = sucessos × 3. Dura a cena (como Reação, dá **+3 Defesa** contra o ataque).
-
-**Clone de Madeira (Mokuton: Moku Bunshin)** — Nível 3 · Custo 6 PC
-
-- Requisitos: Senju 4, Ninjutsu 3.
-- Parada: nenhuma.
-- Descrição: um clone de madeira com o seu rosto. Ele não some com um golpe.
-- Efeito: como o Clone das Sombras ([Manual Básico](./manual-basico.md), capítulo 6), mas com **3 PV** e **Defesa 3**. Ele pode ficar como espião por dias.
-
-**Dragão de Madeira (Mokuton: Mokuryū)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Senju 4, Ninjutsu 4.
-- Parada: Destreza + Ninjutsu + 7 − Defesa do alvo.
-- Descrição: um dragão de madeira que enrola e drena o alvo.
-- Efeito: **+7 dados**. Se causar dano, o alvo fica **Imobilizado** e perde **3 PC por turno** enquanto preso.
+**Dragão de Madeira (Mokuton: Mokuryū no Jutsu)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Vitalidade Senju 4, Ninjutsu 4.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 6 − Defesa do alvo.
+- Descrição: Um colossal dragão serpentino de madeira rasteja e avança em direção ao adversário, enroscando-se em sua musculatura.
+- Efeito: Bônus de 6 dados de ataque em Distância Média. Se a técnica causar dano em Pontos de Vida, o alvo recebe a condição **Imobilizado** e perde 3 Pontos de Chakra no início de cada um dos turnos em que permanecer aprisionado.
 
 ---
 
 ## Uzumaki
 **Requisitos:** Vigor 2, Inteligência 2.
 
-### Disciplina: Sangue Uzumaki (níveis 1–5)
-Vida longa, chakra denso e um talento inato para selos.
+### Disciplina: Sangue Uzumaki (Níveis 1 a 5)
+Longevidade impressionante, uma reserva imensa de vitalidade e aptidão inata para as fórmulas de selamento.
 
-- **1 — Longevidade** (passivo): **+Nv Pontos de Vida (PV)** máximos.
-- **2 — Selos sem Papel** (passivo): você faz Fuinjutsu sem tinta nem papel, com **+Nv dados**.
-- **3 — Chakra Denso** (passivo): selos de nível até **Nv − 1** levam 1 ação curta em vez de 1 ação. Seus PC máximos recebem **+Nv**.
-- **4 — Correntes Inatas** (passivo): libera as **Correntes de Selamento** e a Barreira de Correntes. Suas correntes têm Defesa 5.
-- **5 — Mordida de Vida** (passivo): quem morde você e bebe seu chakra cura **Nv PV**. Você perde 1 PV por mordida e envelhece 1 ano.
+- **1 — Longevidade** (passivo): Soma uma quantidade de **Pontos de Vida** máximos igual ao Nível da Disciplina.
+- **2 — Selos sem Papel** (passivo): Você inscreve fórmulas de Fuinjutsu no ar ou em superfícies sem utilizar tinta ou papel, recebendo uma quantidade de dados adicionais igual ao Nível da Disciplina nestas rolagens.
+- **3 — Chakra Denso** (passivo): Técnicas de selamento de nível até o seu Nível da Disciplora menos 1 consomem 1 ação a menos para serem preparadas. A sua reserva máxima de Pontos de Chakra recebe um acréscimo igual ao Nível da Disciplina.
+- **4 — Correntes Inatas** (passivo): Desbloqueia as técnicas Correntes de Selamento e Barreira de Correntes. As suas correntes de chakra manifestam Defesa 5.
+- **5 — Mordida de Cura** (passivo): Qualquer aliado que morder a sua pele e sugar o seu chakra recupera uma quantidade de Pontos de Vida igual ao Nível da Disciplina. Você perde 1 Ponto de Vida a cada mordida concedida e o seu corpo sofre o desgaste equivalente ao envelhecimento natural de um ano.
 
-**Fraqueza — Chakra Pesado:** seu chakra é denso e difícil de moldar: **−1 dado** em Genjutsu e em Henge.
+**Fraqueza — Chakra Pesado:** A densidade excepcional do seu fluxo de energia dificulta manipulações sutis de ilusão: você sofre uma penalidade de 1 dado em testes envolvendo a habilidade Genjutsu e na técnica Transformação.
 
 ### Jutsus de Clã
-**Correntes de Selamento (Kongō Fūsa)** — Nível 4 · Custo 8 PC
+**Correntes de Selamento (Kongō Fūsa)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Sangue Uzumaki 4, Fuinjutsu 4.
+- Ações: 2 ações.
+- Parada de dados: Inteligência + Fuinjutsu + 6 − Defesa de cada alvo.
+- Descrição: Correntes douradas e reluzentes de puro chakra condensado brotam das costas do shinobi para restringir alvos colossais.
+- Efeito: Até três oponentes situados em Distância Curta recebem a condição **Imobilizado** por 1 turno por sucesso obtido. Enquanto estiverem presos, os alvos ficam impedidos de utilizar quaisquer técnicas ligadas à Disciplina Besta com Cauda.
 
-- Requisitos: Uzumaki 4, Fuinjutsu 4.
-- Parada: Inteligência + Fuinjutsu + 4 − Defesa de cada alvo.
-- Descrição: correntes de chakra saem do seu corpo e prendem até uma Besta.
-- Efeito: até 3 alvos ficam **Imobilizados** por 1 turno por sucesso. Alvos presos não usam a Disciplina Besta com Cauda.
+**Barreira de Correntes (Kongō Fūsa Kekkai)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Sangue Uzumaki 4, Fuinjutsu 4.
+- Ações: 2 ações.
+- Parada de dados: Inteligência + Fuinjutsu.
+- Descrição: As correntes metálicas de chakra entrelaçam-se formando uma cúpula impenetrável ao redor do perímetro.
+- Efeito: Ergue uma barreira cobrindo a Distância Curta com Defesa 5 e Pontos de Vida equivalentes aos sucessos multiplicados por 4. Permanece ativa enquanto você mantiver a concentração necessária (consumindo 1 Ponto de Chakra por turno).
 
-**Barreira de Correntes (Kongō Fūsa Kekkai)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Uzumaki 4, Fuinjutsu 4.
-- Parada: Inteligência + Fuinjutsu.
-- Descrição: as correntes fecham uma cúpula. Nada entra, nada sai.
-- Efeito: barreira de 10 m com **Defesa 5** e PV = sucessos × 4. Dura enquanto você se concentrar (1 PC por turno).
-
-**Selo dos Oito Trigramas Uzumaki (Hakke no Fūin Shiki)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Uzumaki 3, Fuinjutsu 5.
-- Parada: Inteligência + Fuinjutsu (Difícil, −2 dados).
-- Descrição: a versão do clã do selo de Besta. Mais forte e sem precisar do Ceifador.
-- Efeito: como o Selo dos Oito Trigramas do capítulo 2, mas custa **2 PV** em vez de 4 PV e **não** exige o Ceifador. Exige 3 turnos.
+**Selo dos Oito Trigramas Uzumaki (Hakke no Fūin Shiki)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Sangue Uzumaki 3, Fuinjutsu 5.
+- Ações: 3 ações (executadas ao longo de três turnos de ritual contínuo).
+- Parada de dados: Inteligência + Fuinjutsu (tarefa Difícil, com penalidade de 2 dados).
+- Descrição: A versão aperfeiçoada do selo matricial de confinamento do clã, capaz de prender entidades monstruosas sem exigir o sacrifício da própria alma.
+- Efeito: Confinamento completo de uma Besta com Cauda em um hospedeiro humano. Consome 2 Pontos de Vida do conjurador e não exige o sacrifício pelo Selo do Ceifador.
 
 ---
 
 ## Hatake
 **Requisitos:** Destreza 2, Controle de Chakra 2.
 
-### Disciplina: Chakra Branco (níveis 1–5)
-Não é um Kekkei Genkai: é o sangue de um clã de guerreiros e o chakra branco que corre nele.
+### Disciplina: Chakra Branco (Níveis 1 a 5)
+A herança de uma linhagem de combatentes implacáveis marcada pelo fluxo de energia pura e prateada que amplifica armamentos.
 
-- **1 — Lâmina Branca** (passivo): qualquer arma na sua mão ganha **+Nv ÷ 2** (arr. cima) dados de ataque e brilha.
-- **2 — Passo do Lobo** (passivo): movimento **20 m** e **+Nv dados** em Atletismo.
-- **3 — Mente que Copia** (passivo): você aprende jutsus que viu usar com **−1 PE por nível** (mínimo 1), sem Sharingan. +Nv dados em Conhecimento Ninja para reconhecer técnicas.
-- **4 — Matilha** (passivo): você tem contrato com os **cães ninja**: chame criaturas de nível até **Nv − 2** como na Disciplina Invocação (capítulo 2), sem precisar dela.
-- **5 — Presa Branca** (passivo): uma vez por cena, você faz **duas ações** num turno.
+- **1 — Lâmina Branca** (passivo): Qualquer arma branca empunhada por você brilha intensamente e recebe uma quantidade de dados de ataque igual a metade do Nível da Disciplina (arredondada para cima).
+- **2 — Passo do Lobo** (passivo): A sua ação de movimento permite cruzar duas zonas de distância sem penalidade, e você recebe dados extras iguais ao Nível da Disciplina na habilidade Atletismo.
+- **3 — Mente Perceptiva** (passivo): Você aprende jutsus que testemunhou em combate com uma redução de 1 Ponto de Experiência por nível da técnica (com custo mínimo de 1 Ponto de Experiência), mesmo sem possuir linhagem ocular. Recebe dados adicionais iguais ao Nível da Disciplina na habilidade Conhecimento Ninja para reconhecer estilos e técnicas.
+- **4 — Matilha Canina** (passivo): Você estabelece um pacto direto com os cães rastreadores ninja: permite conjurar criaturas caninas de nível até o Nível da Disciplina menos 2, seguindo as diretrizes da Disciplina Invocação sem a necessidade de adquiri-la separadamente.
+- **5 — Presa Branca** (passivo): Uma vez por cena, o ninja pode realizar uma ação adicional completa durante o seu turno sem aplicar penalidades na sua parada.
 
-**Fraqueza — Fadiga do Chakra:** seu corpo não aguenta muito. Quando seus PC ficam abaixo de **metade**, você já sofre −1 dado em tudo.
+**Fraqueza — Fadiga de Chakra:** A circulação acelerada de energia desgasta o organismo. Sempre que os seus Pontos de Chakra caírem para menos da metade do valor máximo, você passa a sofrer uma penalidade de 1 dado em todas as ações realizadas.
 
 ### Jutsus de Clã
-**Tantō de Chakra Branco (Hakkō Chakura Tō)** — Nível 2 · Custo 4 PC
+**Tantō de Chakra Branco (Hakkō Chakura Tō)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Chakra Branco 1, Armas Ninja 2, lâmina curta empunhada.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa do alvo.
+- Descrição: O chakra característico da presa branca envolve a lâmina com uma luminosidade afiada e constante.
+- Efeito: Durante toda a cena, a arma concede um bônus de 3 dados nos ataques desferidos em alcance de Toque.
 
-- Requisitos: Hatake 1, Armas Ninja 2, a lâmina do clã.
-- Parada: Destreza + Armas Ninja + 3 − Defesa do alvo (ignora 1 de Defesa).
-- Descrição: a faca curta do Canino Branco, envolta em chakra claro.
-- Efeito: por 1 cena, a lâmina dá **+3 dados** e ignora 1 de Defesa.
+**Presas Perseguidoras (Kuchiyose: Tsuiga no Jutsu)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Chakra Branco 4, Fuinjutsu 1.
+- Ações: 2 ações.
+- Parada de dados: Inteligência + Fuinjutsu + 4 − Defesa do alvo.
+- Descrição: A matilha de cães ninja viaja por baixo da terra orientada pelo odor de sangue e surge em emboscada imobilizando o adversário.
+- Efeito: Contra um alvo previamente ferido na cena e situado em até Distância Longa, a técnica impõe a condição **Imobilizado** por 1 turno por sucesso alcançado.
 
-**Presas Perseguidoras (Kuchiyose: Tsuiga no Jutsu)** — Nível 3 · Custo 6 PC
-
-- Requisitos: Hatake 4, Fuinjutsu 1.
-- Parada: Inteligência + Fuinjutsu + 3 − Defesa do alvo.
-- Descrição: oito cães saem do chão e mordem o alvo pelo cheiro de sangue.
-- Efeito: o alvo que você feriu nesta cena fica **Imobilizado** por 1 turno por sucesso, onde quer que esteja a 100 m.
-
-**Cortador de Relâmpago (Raikiri)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Hatake 2, Mil Pássaros ([Manual Básico](./manual-basico.md), capítulo 6), Relâmpago, Ninjutsu 5.
-- Parada: Destreza + Ninjutsu + 9 − Defesa do alvo (ignora 3 de Defesa, corrida em linha reta).
-- Descrição: o Chidori levado ao limite pelo Ninja que Copia. Dizem que cortou um raio.
-- Efeito: **+9 dados**, ignora 3 de Defesa. Com Sharingan 1 ou Percepção 4, você não sofre o −2 dados do Chidori e pode usar como **Reação** contra quem avança sobre você (uma vez por cena).
+**Cortador de Relâmpago (Raikiri)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Chakra Branco 2, Mil Pássaros, Relâmpago, Ninjutsu 5.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 8 − Defesa do alvo.
+- Descrição: A forma refinada e letal do Chidori moldada com precisão absoluta, emitindo uma descarga azulada concentrada.
+- Efeito: Bônus de 8 dados em alcance de Toque. Caso o usuário possua Sharingan nível 1 ou a habilidade Percepção em valor 4 ou superior, ele não sofre a penalidade visual de avanço e pode conjurar esta técnica gastando a sua Reação contra um oponente que avance em sua direção corporal (limitado a uma vez por cena).
 
 ---
 
 ## Sarutobi
 **Requisitos:** Inteligência 2, Controle de Chakra 2.
 
-### Disciplina: Mestre dos Elementos (níveis 1–5)
-Não é um Kekkei Genkai: é a tradição do clã do Professor. Talento para todos os elementos e o contrato com os macacos.
+### Disciplina: Mestre dos Elementos (Níveis 1 a 5)
+A erudição refinada da linhagem do lendário Professor, marcada pela compreensão profunda de múltiplas naturezas de chakra e a aliança com os primatas guerreiros.
 
-- **1 — Fogo do Macaco** (passivo): **+Nv dados** em jutsus de Fogo.
-- **2 — Segunda Natureza** (passivo): você ganha a afinidade **Terra**.
-- **3 — Economia** (passivo): seus jutsus de elemento custam **1 PC a menos** (mínimo 1).
-- **4 — Contrato dos Macacos** (passivo): libera o **Rei Macaco Enma**. Você chama macacos de nível até Nv − 2 como na Disciplina Invocação (capítulo 2), sem precisar dela.
-- **5 — Professor** (passivo): você conhece as **5 afinidades**. Aprender jutsus de elemento custa −1 PE por nível.
+- **1 — Fogo Sagrado** (passivo): Soma uma quantidade de dados igual ao Nível da Disciplina em todas as técnicas elementais de Fogo.
+- **2 — Segunda Natureza** (passivo): Desperta a afinidade elemental com **Terra** sem custos adicionais.
+- **3 — Economia de Fluxo** (passivo): Todos os seus jutsus que utilizam naturezas elementais têm o seu custo reduzido em 1 Ponto de Chakra (mantendo o custo mínimo de 1 Ponto de Chakra).
+- **4 — Pacto dos Primatas** (passivo): Libera a capacidade de conjurar macacos de combate de nível até o seu Nível da Disciplina menos 2, conforme as regras da Disciplina Invocação, sem a necessidade de possuí-la.
+- **5 — Professor das Artes** (passivo): O ninja domina as **cinco naturezas básicas de chakra** (Fogo, Vento, Relâmpago, Terra e Água). Aprender novas técnicas elementais custa 1 Ponto de Experiência a menos por nível da técnica.
 
-**Fraqueza — Velho Antes do Tempo:** usar dois jutsus na mesma ação (Mão Dupla) custa também **1 PV**.
+**Fraqueza — Desgaste Vital:** Manipular duas naturezas opostas em sequência extrema cobra um pedágio severo da compleição física. Utilizar a técnica Mão Dupla consome 1 Ponto de Vida carnal além do gasto normal de energia.
 
 ### Jutsus de Clã
-**Lâmina Voadora (Hien)** — Nível 2 · Custo 4 PC
+**Lâmina Voadora de Vento (Hien)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Mestre dos Elementos 1, Armas Ninja 2, afinidade Vento.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa do alvo.
+- Descrição: O usuário estende a extensão cortante de suas lâminas de soco canalizando lâminas microscópicas de vento ao redor do metal.
+- Efeito: Durante uma cena inteira, as armas empunhadas alcançam até a Distância Curta e conferem um bônus de 3 dados de ataque.
 
-- Requisitos: Sarutobi 1, Armas Ninja 2, Vento.
-- Parada: Destreza + Armas Ninja + 3 − Defesa do alvo (ignora 2 de Defesa).
-- Descrição: facas de soco com chakra de Vento. A lâmina corta além do metal.
-- Efeito: por 1 cena, suas facas têm alcance 2 m, **+3 dados** e ignoram 2 de Defesa.
+**Cinzas Ardentes do Macaco (Katon: Haisekishō)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Mestre dos Elementos 1, afinidade Fogo, Ninjutsu 3.
+- Ações: 2 ações.
+- Parada de dados: Raciocínio + Ninjutsu na explosão (+4 dados − Defesa de cada alvo).
+- Descrição: O ninja expele uma nuvem densa de cinzas incandescentes que envolve o campo de batalha antes de detonar em chamas através do estalo de dentes.
+- Efeito: Uma nuvem cobrindo a Distância Curta aplica uma penalidade de 2 dados na visão dos inimigos por 1 turno por sucesso. Como ação livre, o usuário pode detonar as partículas, provocando um ataque em área com 4 dados adicionais contra todos os ocupantes da zona.
 
-**Cinzas Ardentes (Katon: Haisekishō)** — Nível 3 · Custo 6 PC
+**Fogo Cruzado (Katon e Doton: Kōsa)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Mestre dos Elementos 2, afinidades Fogo e Terra, Ninjutsu 3.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 4 − Defesa do alvo.
+- Descrição: Disparo combinado onde rochas incandescentes derretem o pavimento abaixo do adversário.
+- Efeito: Bônus de 4 dados em Distância Média. A zona de impacto se converte em lama fervente pela cena, exigindo que quem permaneça nela seja bem-sucedido em Destreza + Atletismo para não receber a condição **Lento**.
 
-- Requisitos: Sarutobi 1, Fogo, Ninjutsu 3.
-- Parada: Raciocínio + Ninjutsu (+4 dados na explosão − Defesa de cada alvo).
-- Descrição: uma nuvem de cinzas quentes. Bata os dentes e ela explode.
-- Efeito: nuvem de 10 m que dá −2 dados de visão por 1 turno por sucesso. Quando você quiser (ação livre), explode com **+4 dados** em **área** para todos dentro.
+**Mão Dupla Elemental (Sōjutsu)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Mestre dos Elementos 3, Ninjutsu 4, Controle de Chakra 4.
+- Ações: 2 ações.
+- Parada de dados: A rolagem individual exigida por cada jutsu executado.
+- Descrição: O shinobi executa selamentos independentes em cada uma das mãos, desferindo duas técnicas simultâneas.
+- Efeito: Permite conjurar **dois jutsus** elementais de nível até 3 na mesma ação, pagando individualmente o custo de Pontos de Chakra de ambos os poderes somados ao custo desta técnica (veja a regra de Desgaste Vital na Fraqueza do clã).
 
-**Fogo Cruzado (Katon e Doton: Kōsa)** — Nível 3 · Custo 6 PC
-
-- Requisitos: Sarutobi 2, Fogo e Terra, Ninjutsu 3.
-- Parada: Destreza + Ninjutsu + 5 − Defesa do alvo.
-- Descrição: fogo e terra juntos. O chão derrete sob o alvo.
-- Efeito: **+5 dados**. O chão vira lama por 1 cena: quem está nela rola Destreza + Atletismo ou fica **Lento**.
-
-**Mão Dupla (Sōjutsu)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Sarutobi 3, Ninjutsu 4, Controle de Chakra 4.
-- Parada: a de cada jutsu.
-- Descrição: dois conjuntos de selos, um em cada mão. Dois jutsus saem juntos.
-- Efeito: lance **2 jutsus** de nível até 3 na mesma ação, pagando os dois (além do custo deste). Veja a Fraqueza.
-
-**Rei Macaco Enma (Kuchiyose: Enkōō Enma)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Sarutobi 4, Fuinjutsu 2.
-- Parada: Inteligência + Fuinjutsu.
-- Descrição: o Rei dos Macacos atende ao clã Sarutobi. Ele luta e vira arma.
-- Efeito: chama **Enma**, uma Invocação de nível 5 (capítulo 2) que também vira o **Bastão Nyoi** (capítulo 5) à sua escolha.
+**Rei Macaco Enma (Kuchiyose: Enkōō Enma)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Mestre dos Elementos 4, Fuinjutsu 2.
+- Ações: 3 ações.
+- Parada de dados: Inteligência + Fuinjutsu.
+- Descrição: Invocação solene do patriarca da tribo dos macacos guerreiros, capaz de lutar corpo a corpo ou transformar o próprio corpo no impenetrável Bastão Nyoi.
+- Efeito: Convoca Enma, uma Invocação de nível 5 que pode alternar para a forma do artefato lendário Bastão Nyoi de acordo com o comando do líder.
 
 ---
 
 ## Kaguya
 **Requisitos:** Força 2, Vigor 3.
 
-### Disciplina: Pulso de Osso (Shikotsumyaku, níveis 1–5)
-O corpo do Kaguya: ossos que crescem, endurecem e se refazem. As Danças são jutsus separados.
+### Disciplina: Pulso de Osso (Shikotsumyaku, Níveis 1 a 5)
+A anomalia ancestral que concede ao corpo controle celular sobre a própria estrutura esquelética, permitindo endurecer, extrair e regenerar ossos à vontade.
 
-- **1 — Ossos Expostos** (passivo): ossos saem da pele quando você quer. Armas naturais com **+2 dados**, não podem ser desarmadas. +1 dado adicional em Taijutsu com elas. Libera as **Danças**.
-- **2 — Pele de Osso** (passivo): uma camada de osso sob a pele. **Defesa +Nv ÷ 2** (arredonde para cima; teto 8).
-- **3 — Ossos Densos** (passivo): mais duros que aço. Suas armas de osso dão **+3 dados** e ignoram 1 de Defesa. Golpes não deixam você **Caído**.
-- **4 — Ossos que se Refazem** (passivo): um osso quebrado ou perdido volta no mesmo turno. Você ganha **+2 PV** máximos.
-- **5 — Corpo de Osso Vivo** (passivo): sua Pele de Osso reduz em **2** qualquer perfuração contra você. Armas de osso dão **+5 dados**.
+- **1 — Ossos Expostos** (passivo): Lâminas e pontas esqueléticas brotam pelos poros sob comando livre. Constituem armas corporais com bônus de 2 dados que jamais podem ser desarmadas, concedendo 1 dado adicional em ações de Taijutsu. Desbloqueia as Danças do clã.
+- **2 — Pele de Osso** (passivo): Uma camada subcutânea calcificada protege os órgãos. Concede um acréscimo de Defesa igual a metade do Nível da Disciplina (arredondada para cima).
+- **3 — Ossos Densos** (passivo): A densidade mineral ultrapassa o aço temperado. As armas esqueléticas passam a fornecer um bônus de 3 dados de ataque. O ninja se torna imune a efeitos que imponham a condição **Caído**.
+- **4 — Regeneração Esquelética** (passivo): Fraturas estruturais e ossos ejetados reconstituem-se no mesmo turno. O personagem recebe 2 Pontos de Vida máximos permanentes adicionais.
+- **5 — Corpo de Osso Vivo** (passivo): A couraça óssea absorve impactos com eficácia total, e as armas corporais do clã passam a fornecer um bônus de 5 dados nos ataques desferidos.
 
-**Fraqueza — Corpo que se Consome:** o pulso de osso devora o próprio corpo. PV que você perde não curam naturalmente: só com Medicina (Difícil, −2 dados) ou 1 semana de descanso por PV.
+**Fraqueza — Degeneração Celular:** O pulso biológico consome aceleradamente o tecido muscular do hospedeiro. O dano sofrido em Pontos de Vida não cicatriza por meios naturais simples, demandando cuidados com a habilidade Medicina (tarefa Difícil, com penalidade de 2 dados) ou uma semana completa de repouso absoluto por Ponto de Vida perdido.
 
 ### Jutsus de Clã
-As Danças são técnicas de Taijutsu: custam PC igual ao nível.
+As Danças são técnicas marciais pertencentes ao ramo de Taijutsu: consomem Pontos de Chakra equivalentes ao seu próprio nível.
 
-**Dedos de Bala (Teshi Sendan)** — Nível 2 · Custo 2 PC
+**Dedos de Bala (Teshi Sendan)** — Nível 2 · Custo 2 Pontos de Chakra
+- Requisitos: Pulso de Osso 1, Armas Ninja 2.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa de cada alvo.
+- Descrição: As falanges ósseas das pontas dos dedos são disparadas como projéteis rotativos de alta penetração.
+- Efeito: Bônus de 3 dados distribuídos contra até três alvos situados em Distância Curta.
 
-- Requisitos: Kaguya 1, Armas Ninja 2.
-- Parada: Destreza + Armas Ninja + 3 − Defesa de cada alvo.
-- Descrição: os ossos das pontas dos dedos saem como balas.
-- Efeito: **+3 dados** em até **3 alvos** a 15 m.
+**Dança do Salgueiro (Yanagi no Mai)** — Nível 2 · Custo 2 Pontos de Chakra
+- Requisitos: Pulso de Osso 1, Taijutsu 2.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Taijutsu + 3 − Defesa do alvo.
+- Descrição: Lâminas afiadas despontam das palmas, cotovelos e joelhos, permitindo manobras acrobáticas imprevisíveis.
+- Efeito: Concede 1 ponto adicional de Defesa pela cena inteira e confere um bônus de 3 dados nos golpes corporais em alcance de Toque.
 
-**Dança do Salgueiro (Yanagi no Mai)** — Nível 2 · Custo 2 PC
+**Dança da Camélia (Tsubaki no Mai)** — Nível 3 · Custo 3 Pontos de Chakra
+- Requisitos: Pulso de Osso 2, Taijutsu 3.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Taijutsu + 4 − Defesa do alvo.
+- Descrição: O ninja remove o osso do próprio braço para empunhá-lo como uma espada esbranquiçada de estocadas vertiginosas.
+- Efeito: Permite desferir **dois ataques** com 4 dados de bônus na mesma ação (o segundo ataque sofre a penalidade padrão de 2 dados a menos), contra o mesmo alvo ou oponentes adjacentes.
 
-- Requisitos: Kaguya 1, Taijutsu 2.
-- Parada: Destreza + Taijutsu + 3 − Defesa do alvo.
-- Descrição: ossos saem dos cotovelos, ombros e joelhos. Você se dobra como um salgueiro ao vento.
-- Efeito: por 1 cena, **Defesa +1** e seus golpes de osso têm **+3 dados** contra quem está adjacente.
+**Dança do Lariço (Karamatsu no Mai)** — Nível 3 · Custo 3 Pontos de Chakra
+- Requisitos: Pulso de Osso 2, Taijutsu 3.
+- Ações: Reação.
+- Parada de dados: Nenhuma.
+- Descrição: Dezenas de costelas e espículas afiadas rompem a pele simultaneamente em giro reativo quando o usuário é atacado.
+- Efeito: Concede 2 pontos adicionais de Defesa contra o ataque sofrido. Se o agressor estiver em alcance de Toque, ele sofre 2 Pontos de Vida de dano imediato, anulando qualquer tentativa de agarramento ou aprisionamento físico.
 
-**Dança da Camélia (Tsubaki no Mai)** — Nível 3 · Custo 3 PC
+**Dança da Clematite (Tessenka no Mai)** — Nível 4 · Custo 4 Pontos de Chakra
+- Requisitos: Pulso de Osso 3, Taijutsu 4, Força 3.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 6 − Defesa do alvo.
+- Descrição: A coluna vertebral é extraída para funcionar como chicote de contenção (Tsuru) antes que o braço forme uma broca monstruosa de impacto (Hana).
+- Efeito: A primeira etapa aplica a condição **Imobilizado** no alvo em Distância Curta se obtiver 1 ou mais sucessos. No turno seguinte ou na ação contínua, o golpe de broca desfere um ataque com 6 dados de bônus contra a vítima atada.
 
-- Requisitos: Kaguya 2, Taijutsu 3.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo (ignora 1 de Defesa).
-- Descrição: você arranca um osso do braço e o usa como espada. Estocadas que não se vê.
-- Efeito: **2 ataques** com **+5 dados** na mesma ação, contra o mesmo alvo ou dois. Ignoram 1 de Defesa.
-
-**Dança do Lariço (Karamatsu no Mai)** — Nível 3 · Custo 3 PC
-
-- Requisitos: Kaguya 2, Taijutsu 3.
-- Parada: nenhuma. Use como **Reação**.
-- Descrição: ossos brotam do corpo inteiro. Quem agarra, se fere.
-- Efeito: por 3 turnos, **+1 Defesa** e quem ataca você corpo a corpo perde **2 PV**. Agarrões e prisões físicas falham.
-
-**Dança da Clematite (Tessenka no Mai)** — Nível 4 · Custo 4 PC
-
-- Requisitos: Kaguya 3, Taijutsu 4, Força 3.
-- Parada: Destreza + Taijutsu + 7 − Defesa do alvo (ignora 3 de Defesa).
-- Descrição: a coluna vira um chicote (Tsuru) e o braço, uma broca de osso (Hana).
-- Efeito: **Tsuru** prende o alvo a 5 m (Imobilizado com 1+ sucesso). No mesmo turno ou no próximo, **Hana** ataca o alvo preso com **+7 dados**, ignorando 3 de Defesa.
-
-**Dança da Samambaia (Sawarabi no Mai)** — Nível 5 · Custo 5 PC
-
-- Requisitos: Kaguya 4, Taijutsu 5.
-- Parada: Destreza + Taijutsu + 8 − Defesa de cada alvo.
-- Descrição: uma floresta de lanças de osso brota do chão e cobre o campo.
-- Efeito: **+8 dados** em **área** de 30 m. Quem sofrer dano fica **Imobilizado** entre os ossos. Você se move dentro deles como se fossem o seu corpo e pode surgir ao lado de qualquer alvo da área.
+**Dança da Samambaia (Sawarabi no Mai)** — Nível 5 · Custo 5 Pontos de Chakra
+- Requisitos: Pulso de Osso 4, Taijutsu 5.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 8 − Defesa de cada alvo.
+- Descrição: Milhares de ossos pontiagudos brotam das profundezas da terra como uma floresta mineral mortal que empala a zona inteira.
+- Efeito: Ataque em área com 8 dados de bônus cobrindo a Distância Média. Inimigos atingidos recebem a condição **Imobilizado** pelas estacas. O usuário pode deslizar pelas estruturas ósseas surgindo imediatamente na zona de Toque de qualquer inimigo situado na área afetada.
 
 ---
 
 ## Yuki
 **Requisitos:** Raciocínio 2, Controle de Chakra 2.
 
-### Disciplina: Hyōton — Gelo (níveis 1–5)
-Água e Vento no mesmo sangue. A Disciplina é o que o frio faz no seu corpo; o que o gelo faz no campo são as técnicas.
+### Disciplina: Liberação de Gelo (Hyōton, Níveis 1 a 5)
+A fusão inata das naturezas de Água e Vento produz um frio sobrenatural que congela a umidade atmosférica instantaneamente.
 
-- **1 — Duas Naturezas** (passivo): você tem as afinidades **Água e Vento**. **+Nv dados** em jutsus de Gelo. Libera os **Jutsus de Gelo**.
-- **2 — Sangue Frio** (passivo): frio não fere você. Em neve ou gelo, **Defesa +1** e movimento normal.
-- **3 — Gelo Duro** (passivo): suas criações de gelo (espelhos, paredes) têm **Defesa +Nv ÷ 2** (arr. cima) e **+Nv PV**.
-- **4 — Reflexo do Frio** (passivo): **Iniciativa +Nv**. Seus jutsus de Gelo custam **1 PC a menos**.
-- **5 — Inverno** (passivo): seu gelo **não derrete** com Fogo de nível menor que Nv. Jutsus de Fogo contra você perdem a vantagem de elemento.
+- **1 — Duas Naturezas** (passivo): Concede as afinidades elementais de **Água e Vento**. O ninja recebe dados adicionais equivalentes ao Nível da Disciplina em jutsus de Gelo e libera as técnicas do clã.
+- **2 — Sangue Glacial** (passivo): O personagem se torna imune a penalidades decorrentes de baixas temperaturas. Em ambientes nevados ou cobertos de gelo, recebe 1 ponto extra de Defesa e não sofre redução de movimento.
+- **3 — Gelo Compacto** (passivo): Todas as estruturas de gelo criadas pelo shinobi recebem um bônus de Defesa igual a metade do Nível da Disciplina (arredondada para cima) e um acréscimo de Pontos de Vida igual ao Nível da Disciplina.
+- **4 — Reflexo Frio** (passivo): Soma o valor do Nível da Disciplina à sua Iniciativa fixa. Os seus jutsus de Gelo passam a custar 1 Ponto de Chakra a menos.
+- **5 — Inverno Absoluto** (passivo): O gelo criado pelo ninja não pode ser derretido por técnicas de Fogo de nível inferior ao seu Nível da Disciplina. Ataques elementais de Fogo contra você perdem a vantagem padrão da roda elemental.
 
-**Fraqueza — Fogo:** ataques de Fogo de nível igual ou maior que a sua Disciplina contra você ganham **+3 dados** e derretem seus espelhos.
+**Fraqueza — Vulnerabilidade a Calor Extremo:** Ataques de Fogo de nível igual ou superior ao seu Nível da Disciplina ganham 2 dados adicionais contra você e fragmentam espelhos de gelo em sua zona.
 
 ### Jutsus de Clã
-**Neve Brilhante (Hyōton: Kōsetsu)** — Nível 2 · Custo 4 PC
+**Neve Ofuscante (Hyōton: Kōsetsu)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Liberação de Gelo 1, Ninjutsu 2.
+- Ações: 1 ação.
+- Parada de dados: Raciocínio + Ninjutsu.
+- Descrição: Cristais reflexivos de gelo formam uma nevasca fina que ofusca os sentidos do oponente.
+- Efeito: Durante toda a cena, os oponentes em Distância Curta sofrem uma penalidade de 2 dados em ataques à distância e em testes de Percepção.
 
-- Requisitos: Yuki 1, Ninjutsu 2.
-- Parada: Raciocínio + Ninjutsu.
-- Descrição: uma névoa de cristais de gelo que cega e corta.
-- Efeito: por 1 cena, inimigos em 20 m têm **−2 dados** em ataques à distância e em Percepção.
+**Espelho de Gelo (Hyōton: Hyōkyō)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Liberação de Gelo 1, Ninjutsu 2.
+- Ações: 1 ação.
+- Parada de dados: Raciocínio + Ninjutsu.
+- Descrição: Painéis translúcidos de gelo cristalino surgem flutuando ao redor do campo de batalha.
+- Efeito: Cria 1 espelho por sucesso obtido, posicionados em até Distância Curta uns dos outros, com duração de 3 turnos. Mover-se entre os próprios espelhos é uma ação livre. Enquanto abrigado dentro de um painel, o ninja recebe 2 pontos extras de Defesa e ataca a partir de seu reflexo.
 
-**Espelho de Gelo (Hyōton: Hyōkyō)** — Nível 2 · Custo 4 PC
+**Mil Agulhas de Morte (Sensatsu Suishō)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Liberação de Gelo 1, Ninjutsu 3, presença de água na zona.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 4 − Defesa de cada alvo.
+- Descrição: Pisoteando a água do solo, o usuário projeta gotas d'água no ar que congelam em milhares de agulhas pontiagudas disparadas em leque.
+- Efeito: Bônus de 4 dados em Distância Curta contra até dois alvos. Se atingir, impõe a condição **Abalado** por 1 turno.
 
-- Requisitos: Yuki 1, Ninjutsu 2.
-- Parada: Raciocínio + Ninjutsu.
-- Descrição: um espelho de gelo no ar. Você entra nele.
-- Efeito: cria até 1 espelho por sucesso a 10 m uns dos outros, por 3 turnos. Mover-se entre os seus espelhos é **ação livre**. Dentro de um espelho você tem **+2 Defesa** e ataca de lá com Armas Ninja.
+**Espelhos Demoníacos de Cristal de Gelo (Makyō Hyōshō)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Liberação de Gelo 3, Ninjutsu 4, Espelho de Gelo.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Armas Ninja + 4 − Defesa do alvo.
+- Descrição: Uma cúpula esférica de 21 espelhos de gelo aprisiona a vítima, enquanto o conjurador ataca a partir do reflexo em velocidade imperceptível.
+- Efeito: Cúpula cobrindo a Distância Curta pela cena inteira. O usuário desferir **dois ataques com senbon por ação** com bônus de 4 dados sem sofrer penalidade por múltiplos ataques. Escapar da estrutura exige um teste de Força + Atletismo (tarefa Muito Difícil, com penalidade de 4 dados) ou a quebra de um painel (cada espelho manifesta Defesa 4 e 6 Pontos de Vida; técnicas de Fogo de nível alto causam dano duplo contra a barreira).
 
-**Mil Agulhas de Água (Sensatsu Suishō)** — Nível 3 · Custo 6 PC
-
-- Requisitos: Yuki 1, Ninjutsu 3, água por perto.
-- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo (ignora 2 de Defesa).
-- Descrição: a água vira mil agulhas que caem de todos os lados.
-- Efeito: **+4 dados** e ignora **2 de Defesa** do alvo.
-
-**Espelhos Demoníacos de Cristal de Gelo (Makyō Hyōshō)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Yuki 3, Ninjutsu 4, Espelho de Gelo.
-- Parada: Destreza + Armas Ninja + 3 − Defesa do alvo (ignora 3 de Defesa).
-- Descrição: 21 espelhos fecham uma cúpula. Você está em todos ao mesmo tempo.
-- Efeito: cúpula de 10 m por 1 cena. Dentro, você faz **2 ataques por ação** com agulhas (**+3 dados**, ignoram **3 de Defesa**). Sair exige Força + Atletismo (Muito difícil, −4 dados) ou quebrar um espelho (4 PV cada, Fogo dobra o dano).
-
-**Inverno Eterno (Hyōton: Eien no Fuyu)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Yuki 5, Ninjutsu 5.
-- Parada: Raciocínio + Ninjutsu.
-- Descrição: a temperatura cai até o ar doer. Tudo congela, menos você.
-- Efeito: área de 30 m por 1 cena. Inimigos têm **−2 dados** em tudo, ficam **Lentos** e perdem **1 PV por turno** (frio). Você e aliados avisados não sofrem nada.
+**Inverno Eterno (Hyōton: Eien no Fuyu)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Liberação de Gelo 5, Ninjutsu 5.
+- Ações: 3 ações.
+- Parada de dados: Raciocínio + Ninjutsu.
+- Descrição: A temperatura ambiente despenca abaixo de zero instantaneamente, cobrindo o quadrante com gelo permanente e paralisando a circulação dos adversários.
+- Efeito: Área de Distância Média pela cena inteira. Inimigos sofrem penalidade de 2 dados em todas as paradas, recebem a condição **Lento** e perdem 1 Ponto de Vida por turno decorrente do choque térmico severo. Aliados previamente sintonizados não são afetados.
 
 ---
 
 ## Hōzuki
 **Requisitos:** Vigor 2, Controle de Chakra 2.
 
-### Disciplina: Corpo Líquido (níveis 1–5)
-Um corpo que é água. Golpes passam; relâmpago dói.
+### Disciplina: Corpo Líquido (Níveis 1 a 5)
+A transformação genética que converte a matéria celular em estado líquido puro sob comando voluntário.
 
-- **1 — Corpo Fluido** (passivo): **Defesa +Nv ÷ 2** (arr. cima; teto 8) contra ataques **físicos**. Não vale contra Relâmpago nem Genjutsu. Libera os **Jutsus de Água do clã**.
-- **2 — Hidratação** (passivo): você não se afoga e respira na água. Em água, recupera **+Nv PC** por hora.
-- **3 — Forma Líquida** (passivo): você passa por frestas e grades como água, sem jutsu. Agarrões não prendem você.
-- **4 — Músculos de Água** (passivo): ação curta: puxe água para os braços. **+Nv ÷ 2** (arr. cima) dados em socos e para escapar por 1 cena.
-- **5 — Grande Hōzuki** (passivo): libera a **Grande Forma de Água**. Em água, você é **invisível** parado e se move 3 vezes mais rápido.
+- **1 — Corpo Fluido** (passivo): Concede um acréscimo de Defesa igual a metade do Nível da Disciplina (arredondada para cima) contra ataques físicos e armas convencionais. Não protege contra ataques de Relâmpago nem ilusões de Genjutsu. Desbloqueia os Jutsus de Água do clã.
+- **2 — Hidratação Contínua** (passivo): O ninja respira normalmente debaixo d'água e não corre risco de afogamento. Quando submerso em fontes líquidas, recupera uma quantidade de Pontos de Chakra extras igual ao Nível da Disciplina por hora de repouso.
+- **3 — Forma Maleável** (passivo): Permite escorrer por frestas estreitas, grades ou fechaduras sem a ativação de técnicas. Manobras corporais de agarramento não surtem efeito contra você.
+- **4 — Músculos de Água** (passivo): Gastando 1 ação, você direciona água para a musculatura: recebe dados extras em socos e em manobras para romper prisões iguais a metade do Nível da Disciplina (arredondada para cima) por toda a cena.
+- **5 — Senhor das Águas** (passivo): Desbloqueia a Grande Forma de Água. Quando imerso em corpos hídricos, torna-se completamente imperceptível se permanecer imóvel e pode cruzar até três zonas de distância por ação de movimento.
 
-**Fraqueza — Secar:** sem água por perto ou em lugar seco, **−2 dados** em tudo. Ataques de **Relâmpago** contra você ganham **+3 dados** e ignoram o bônus de Defesa desta Disciplina.
+**Fraqueza — Desidratação e Eletricidade:** Ambientes áridos ou desérticos impõem uma penalidade de 2 dados em todas as suas rolagens. Ataques baseados no elemento **Relâmpago** recebem 3 dados adicionais contra o seu personagem e ignoram o bônus de Defesa conferido por esta Disciplina.
 
 ### Jutsus de Clã
-**Hidrificação (Suika no Jutsu)** — Nível 2 · Custo 4 PC
+**Técnica de Hidrificação (Suika no Jutsu)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Corpo Líquido 1, Ninjutsu 2.
+- Ações: Reação.
+- Parada de dados: Nenhuma.
+- Descrição: A fração do corpo sob mira se liquefaz no instante exato do impacto, fazendo o aço ou golpe transpassar inofensivamente.
+- Efeito: Anula inteiramente o dano de um ataque físico corporal ou com arma branca (limitado a uma vez por cena). Não surte efeito contra descargas de Relâmpago ou técnicas elementais diretas.
 
-- Requisitos: Hōzuki 1, Ninjutsu 2.
-- Parada: nenhuma. Use como **Reação** (uma vez por cena).
-- Descrição: a parte do corpo atingida vira água. A lâmina passa.
-- Efeito: você ignora **um ataque físico** por completo. Não vale contra Relâmpago nem jutsus de elemento.
+**Pistola de Água (Suiton: Mizudeppō)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Corpo Líquido 1, Ninjutsu 3.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Ninjutsu + 4 − Defesa do alvo.
+- Descrição: Uma gota altamente pressurizada é ejetada da ponta do dedo indicador como um projétil balístico subsônico.
+- Efeito: Bônus de 4 dados em Distância Média. Se causar 2 ou mais Pontos de Vida de dano, derruba o alvo na condição **Caído**.
 
-**Canhão de Água (Suiton: Mizudeppō)** — Nível 3 · Custo 6 PC
+**Braços de Água Gigantes (Suiwan no Jutsu)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Corpo Líquido 3, Taijutsu 3.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 4 − Defesa do alvo.
+- Descrição: Os braços aumentam de volume drenando água externa para golpear com força de aríete.
+- Efeito: Durante a cena, seus ataques desarmados alcançam a Distância Curta com 4 dados de bônus e podem aprisionar o alvo na condição **Imobilizado** caso causem 2 ou mais Pontos de Vida de dano.
 
-- Requisitos: Hōzuki 1, Ninjutsu 3.
-- Parada: Destreza + Ninjutsu + 5 − Defesa do alvo (ignora 1 de Defesa).
-- Descrição: uma gota de água disparada do dedo, rápida como bala.
-- Efeito: **+5 dados** a 30 m, ignora 1 de Defesa.
+**Grande Tubarão de Água (Suiton: Daikōdan no Jutsu)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Corpo Líquido 2, Ninjutsu 4, presença de fonte de água.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 6 − Defesa de cada alvo.
+- Descrição: Um tubarão colossal de água engole a investida do adversário, ampliando a sua massa ao tragar jutsus em seu trajeto.
+- Efeito: Ataque em área na Distância Curta com 6 dados de bônus. Alaga a zona de impacto até o término do combate, impondo a condição **Lento** a oponentes que não caminhem sobre a água.
 
-**Braços de Água (Suiwan)** — Nível 3 · Custo 6 PC
-
-- Requisitos: Hōzuki 3, Taijutsu 3.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo.
-- Descrição: os braços incham de água e esticam.
-- Efeito: por 1 cena, seus socos alcançam 5 m com **+5 dados** e podem **agarrar** (Imobilizado com 2+ sucessos).
-
-**Grande Tubarão de Água (Suiton: Daikōdan)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Hōzuki 2, Ninjutsu 4, muita água por perto.
-- Parada: Destreza + Ninjutsu + 6 − Defesa de cada alvo.
-- Descrição: um tubarão de água maior que uma casa.
-- Efeito: **+6 dados** em **área** de 10 m. O chão alaga por 1 cena.
-
-**Grande Forma de Água (Ōmizu Hōzuki)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Hōzuki 5, Ninjutsu 5, muita água por perto.
-- Parada: Raciocínio + Ninjutsu + 9 − Defesa do alvo.
-- Descrição: você se derrama e vira uma massa de água do tamanho de uma casa.
-- Efeito: por 1 cena, **PV dobrados**, imune a ataques físicos sem chakra e seus golpes têm **+9 dados**. Quem você envolve (1+ sucesso) fica **Imobilizado** e se afoga: perde **3 PV por turno**. Relâmpago contra você ganha +4 dados.
-
----
-
-## Clãs Raros (só com o Narrador)
-**Ōtsutsuki**, **Terumī** (Lava e Vapor) e ramos esquecidos existem para vilões e campanhas épicas. O Narrador cria a Disciplina com a régua do **[Manual Básico](./manual-basico.md)** (capítulo 5) e os Jutsus de Clã com o **capítulo 4** deste manual.
+**Grande Forma de Água (Ōmizu Hōzuki)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Corpo Líquido 5, Ninjutsu 5, abundância de água no ambiente.
+- Ações: 3 ações.
+- Parada de dados: Raciocínio + Ninjutsu + 8 − Defesa do alvo.
+- Descrição: O ninja se dissolve inteiramente para assumir a forma de uma criatura monstruosa de água com a envergadura de um prédio.
+- Efeito: Durante uma cena, os seus Pontos de Vida são duplicados e o personagem se torna imune a ataques físicos mundanos desprovidos de chakra, com seus golpes corporais recebendo 8 dados adicionais. Alvos envolvidos pelo monstro (obtendo 1 ou mais sucessos) recebem a condição **Imobilizado** e sofrem afogamento de 2 Pontos de Vida por turno. Técnicas de Relâmpago desferidas contra esta forma recebem 4 dados de ataque extras.
 
 ---
 
 # Capítulo 2: Disciplinas Avançadas
 
-Estas Disciplinas seguem a **Régua de Poder** e as regras de compra do **capítulo 5 do [Manual Básico](./manual-basico.md)**: níveis novos custam **nível × 4 PE**, e as **Técnicas** abaixo de cada uma são compradas e usadas como jutsus normais (**nível × 3 PE**). Todas exigem um mestre, contrato ou evento em jogo aprovado pelo Narrador.
+Estas Disciplinas seguem a Régua de Poder e as normas de evolução do capítulo 5 do [Manual Básico](./manual-basico.md): a aquisição de novos níveis custa o **novo nível multiplicado por 4 Pontos de Experiência**, enquanto as **Técnicas** vinculadas a cada poder são adquiridas como jutsus regulares (**nível da técnica multiplicado por 3 Pontos de Experiência**). Todas demandam mestres consagrados, contratos formais ou eventos decisivos validados pelo Narrador.
 
 ---
 
 ## Portões Internos (Hachimon)
-**Requisitos:** Vigor 4, Taijutsu 3, mestre de Taijutsu.
+**Requisitos:** Vigor 4, Taijutsu 3, tutela de um mestre de Taijutsu.
 
-Esta Disciplina tem **8 níveis** em vez de 5. O limite é **Chakra − 2** (Chakra 10 = Portão 8). Abrir um Portão é **ação curta**. Cada Portão **soma** com os anteriores e dura **Nv** turnos (Nv = Portões que você sabe abrir). Ao fechar, você perde os **PV** listados.
+Esta Disciplina apresenta **8 níveis** em vez dos 5 tradicionais. O limite de abertura é igual ao valor do seu **Chakra menos 2** (um personagem com Chakra 10 é capaz de atingir o Oitavo Portão). A abertura de um Portão consome **1 ação**. O poder de cada Portão se **acumula** com os efeitos dos portões precedentes e permanece sustentado por uma quantidade de turnos igual ao número de portões dominados pelo ninja. Ao se encerrarem, o corpo recebe o dano direto listado em Pontos de Vida carnais.
 
-| Portão | Nome | Custo ao abrir (PC) | Efeito (soma com os anteriores) | PV perdidos ao fechar |
+| Portão | Nome | Custo de Abertura | Efeito Cumulativo Sustentado | Dano Sofrido ao Fechar |
 |---|---|---|---|---|
-| 1 | Abertura (Kaimon) | 0 | +1 dado em Taijutsu. Libera a **Lótus Primária**. | 0 |
-| 2 | Descanso (Kyūmon) | 0 | Recupera 2 PV ao abrir. +1 dado em Atletismo. | 0 |
-| 3 | Vida (Seimon) | 2 PC | +2 dados em Taijutsu. Pele vermelha. Libera a **Lótus Reversa**. | 2 PV |
-| 4 | Dor (Shōmon) | 2 PC | +2 dados em Taijutsu. Os músculos rasgam sem dor. | 2 PV |
-| 5 | Limite (Tomon) | 2 PC | +2 dados em Taijutsu. Defesa +2. | 3 PV |
-| 6 | Visão (Keimon) | 4 PC | +3 dados em Taijutsu. Libera o **Pavão da Manhã**. Água ao redor ferve. | 4 PV |
-| 7 | Espanto (Kyōmon) | 4 PC | +3 dados em Taijutsu. Libera o **Tigre do Meio-Dia**. Suor verde. | 5 PV |
-| 8 | Morte (Shimon) | 6 PC | +6 dados em Taijutsu e ignora 3 de Defesa. Libera o **Elefante da Noite**. | **Morte** ao fim da duração. |
+| 1 | Abertura (Kaimon) | 0 Pontos de Chakra | +1 dado em Taijutsu. Desbloqueia a Lótus Primária. | 0 Pontos de Vida |
+| 2 | Descanso (Kyūmon) | 0 Pontos de Chakra | Recupera 2 Pontos de Vida ao abrir. +1 dado em Atletismo. | 0 Pontos de Vida |
+| 3 | Vida (Seimon) | 2 Pontos de Chakra | +1 dado em Taijutsu (+2 total). Pele avermelhada. Desbloqueia a Lótus Reversa. | 2 Pontos de Vida |
+| 4 | Dor (Shōmon) | 2 Pontos de Chakra | +1 dado em Taijutsu (+3 total). Circulação muscular extrema. | 2 Pontos de Vida |
+| 5 | Limite (Tomon) | 2 Pontos de Chakra | +1 dado em Taijutsu (+4 total). +1 de Defesa. | 3 Pontos de Vida |
+| 6 | Visão (Keimon) | 4 Pontos de Chakra | +1 dado em Taijutsu (+5 total). Desbloqueia o Pavão da Manhã. Vórtice de ar abrasador. | 4 Pontos de Vida |
+| 7 | Espanto (Kyōmon) | 4 Pontos de Chakra | +1 dado em Taijutsu (+6 total). Desbloqueia o Tigre Diurno. Emissão de suor azul brilhante. | 5 Pontos de Vida |
+| 8 | Morte (Shimon) | 6 Pontos de Chakra | +2 dados em Taijutsu (+8 total). Desbloqueia o Elefante da Noite e Guy Noturno. Vapor carmesim. | **Morte inevitável** ao término da cena. |
 
-**Fraqueza:** com qualquer Portão aberto, você **não pode usar Ninjutsu nem Genjutsu**. Os PV perdidos ao fechar se curam só com uma semana de descanso por PV.
+**Fraqueza — Bloqueio Circulatório:** Com qualquer Portão aberto, o usuário fica **impossibilitado de moldar Ninjutsu ou Genjutsu**. Os Pontos de Vida perdidos pelo fechamento dos portões não se recuperam por jutsus médicos simples, demandando uma semana de descanso hospitalar por Ponto de Vida sacrificado.
 
 ### Técnicas
-Técnicas dos Portões são Taijutsu: custam PC igual ao nível.
+As técnicas dos Portões são manifestações de Taijutsu: custam Pontos de Chakra equivalentes ao seu próprio nível.
 
-**Lótus Primária (Omote Renge)** — Nível 3 · Custo 3 PC
+**Lótus Primária (Omote Renge)** — Nível 3 · Custo 3 Pontos de Chakra
+- Requisitos: Taijutsu 3, Primeiro Portão aberto.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 4 − Defesa do alvo (alvo suspenso no ar).
+- Descrição: Envolve o oponente em bandagens no ar e mergulha em parafuso esmagando o crânio do adversário no pavimento.
+- Efeito: Bônus de 4 dados em alcance de Toque. O alvo recebe a condição **Caído**. O usuário perde 1 Ponto de Vida por desgaste biomecânico e fica impedido de realizar técnicas marciais no turno seguinte.
 
-- Requisitos: Taijutsu 3, Portões 1.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo (ignora 1 de Defesa, alvo no ar).
-- Descrição: você prende o alvo com bandagens e gira os dois contra o chão.
-- Efeito: **+5 dados**, ignora 1 de Defesa. Você perde 1 PV e **não usa técnicas** no próximo turno.
+**Lótus Reversa (Ura Renge)** — Nível 4 · Custo 4 Pontos de Chakra
+- Requisitos: Taijutsu 4, Terceiro Portão aberto, Lótus Primária.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 6 − Defesa do alvo.
+- Descrição: Sucessão ultrarrápida de colisões multidirecionais no ar encerrada por um impacto violento com corda de chakra contra o solo.
+- Efeito: Bônus de 6 dados em alcance de Toque. O alvo recebe as condições **Caído** e **Lento**. Os músculos do usuário se rompem, provocando a perda de 2 Pontos de Vida imediatos.
 
-**Lótus Reversa (Ura Renge)** — Nível 4 · Custo 4 PC
+**Pavão da Manhã (Asa Kujaku)** — Nível 4 · Custo 4 Pontos de Chakra
+- Requisitos: Taijutsu 4, Sexto Portão aberto.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 5 − Defesa de cada alvo.
+- Descrição: Rajada contínua de socos em velocidade cega cuja fricção com a atmosfera inflama em projéteis de chamas puras.
+- Efeito: Bônus de 5 dados em área na Distância Curta. Aplica a condição **Queimando** em todos os atingidos. O usuário perde 2 Pontos de Vida pelo calor muscular.
 
-- Requisitos: Taijutsu 4, Portões 3, Lótus Primária.
-- Parada: Destreza + Taijutsu + 7 − Defesa do alvo (ignora 2 de Defesa).
-- Descrição: dezenas de golpes num segundo. O último joga o alvo ao chão.
-- Efeito: **+7 dados**, ignora 2 de Defesa. Seus músculos rasgam: você perde 2 PV ao fim do turno.
+**Tigre Diurno (Hirudora)** — Nível 5 · Custo 5 Pontos de Chakra
+- Requisitos: Taijutsu 5, Sétimo Portão aberto.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 8 − Defesa do alvo.
+- Descrição: Um golpe marcial com a palma focada que comprime o ar na forma de um tigre colossal cuja expansão gera uma onda de choque explosiva.
+- Efeito: Bônus de 8 dados em Distância Média. Por não se tratar de uma técnica de Ninjutsu, barreiras de chakra ou poderes de absorção não surtem efeito protetor contra esta técnica. O usuário perde 3 Pontos de Vida.
 
-**Pavão da Manhã (Asa Kujaku)** — Nível 4 · Custo 4 PC
-
-- Requisitos: Taijutsu 4, Portões 6.
-- Parada: Destreza + Taijutsu + 7 − Defesa de cada alvo.
-- Descrição: socos tão rápidos que pegam fogo pelo atrito.
-- Efeito: **+7 dados** em **área** (todos a 3 m na sua frente). Causa Queimando.
-
-**Tigre do Meio-Dia (Hirudora)** — Nível 5 · Custo 5 PC
-
-- Requisitos: Taijutsu 5, Portões 7.
-- Parada: Destreza + Taijutsu + 9 − Defesa do alvo (ignora 3 de Defesa, alcance 20 m).
-- Descrição: a pressão do ar comprimida num soco toma a forma de um tigre.
-- Efeito: **+9 dados**, ignora 3 de Defesa. Não é jutsu de elemento: barreiras não funcionam contra ele.
-
-**Elefante da Noite (Sekizō)** — Nível 5 · Custo 5 PC
-
-- Requisitos: Taijutsu 5, Portões 8.
-- Parada: Destreza + Taijutsu + 9 − Defesa do alvo (ignora 3 de Defesa).
-- Descrição: cinco socos consecutivos, cada um atravessando o anterior.
-- Efeito: faça **dois ataques completos** com **+9 dados** (ignorando 3 de Defesa) na mesma ação. Ao fim da cena, o Portão 8 cobra sua vida. O golpe final deste caminho é **Guy da Noite (Yagai)**: um único chute com **+12 dados** (ignora 3 de Defesa) que destrói a sua perna para sempre.
+**Elefante da Noite (Sekizō)** — Nível 5 · Custo 5 Pontos de Chakra
+- Requisitos: Taijutsu 5, Oitavo Portão aberto.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 8 − Defesa do alvo.
+- Descrição: Sucessão de cinco canhões contínuos de vácuo pressurizado que esmagam o oponente em profundidade na terra.
+- Efeito: Desfere **dois ataques completos** com 8 dados de bônus cada na mesma ação. Ao final da cena, o Oitavo Portão encerra a vida do personagem. O ato derradeiro deste caminho é o **Guy Noturno (Yagai)**: um avanço com bônus de 10 dados que entorta o espaço, destruindo permanentemente a estrutura física do usuário e decretando a sua morte.
 
 ---
 
 ## Besta com Cauda (Jinchūriki)
-**Requisitos:** uma Besta selada em você ao nascer ou por ritual. Só com o Narrador.
+**Requisitos:** Confinamento ritual de uma Besta com Cauda no nascimento ou por selamento maior. Requer autorização formal do Narrador.
 
 ### Fúria
-Você tem uma trilha de **Fúria** de 0 a 10. Ela sobe 1 cada vez que você perde PV num ataque ou falha num teste de Vontade, e sobe o valor listado em cada Técnica da Besta. Ela desce 1 por hora de calma, ou 1 quando um aliado acalma você (Carisma + Empatia, Difícil −2 dados, 1 ação).
+O personagem administra uma trilha de **Fúria** graduada de 0 a 10. A trilha sobe 1 ponto a cada vez que o ninja sofre dano em combate ou falha em um teste de Vontade, somando também os pontos indicados pelas técnicas da Besta. Ela reduz em 1 ponto a cada hora de calmaria mental, ou quando um companheiro acalma o hospedeiro através de um teste de Carisma + Empatia (tarefa Difícil, com penalidade de 2 dados, consumindo 1 ação).
 
-- **Fúria 6 ou mais:** no início de cada turno, role **Vontade** (Difícil, −2 dados). Se falhar, a Besta age por você neste turno (o Narrador controla: ela ataca o mais próximo).
-- **Fúria 10:** você perde o controle até o fim da cena, com a forma mais alta que souber. Ao voltar, perde 3 PV e a Fúria vai a 0.
+- **Fúria 6 a 9:** No início de cada turno próprio, realize um teste de **Vontade** (tarefa Difícil, com penalidade de 2 dados). Em caso de falha, a Besta assume o controle corporal na rodada, sendo manipulada pelo Narrador para investir contra o ser mais próximo.
+- **Fúria 10:** Perda total de controle pela cena, manifestando a forma mais avançada dominada. Ao término da cena, o ninja retoma a consciência com a perda de 3 Pontos de Vida e a Fúria é zerada.
 
-### Disciplina (níveis 1–5)
-A Disciplina é o **laço** com a Besta: quanto chakra ela deixa passar e quanto do seu corpo ela aguenta.
+### Disciplina (Níveis 1 a 5)
+Mede o vínculo e a permeabilidade de chakra entre o shinobi e a criatura mitológica confinada.
 
-- **1 — Chakra Emprestado** (passivo): **+2 PV** máximos. Uma vez por cena, suba 1 Fúria para recuperar **Nv × 2 PC**.
-- **2 — Manto** (passivo): libera o **Manto de Chakra**. Dentro do Manto, você regenera **1 PV** a cada 2 turnos.
-- **3 — Caudas** (passivo): o Manto chega a **Nv − 1 caudas**; cada cauda dá +1 dado em ataques físicos (já contado no Manto). Libera o **Manto Avançado**.
-- **4 — Corpo da Besta** (passivo): libera a **Forma Parcial**. Dentro de qualquer forma, **Defesa +1**. Fúria sobe 1 a menos por cena.
-- **5 — Um com a Besta** (passivo): libera a **Bomba da Besta** e a **Forma Completa**. Você conversa com a Besta; se ela gostar de você, a rolagem de Fúria 6+ não existe mais.
+- **1 — Chakra Emprestado** (passivo): Soma 2 Pontos de Vida máximos permanentes. Uma vez por cena, você pode avançar 1 ponto na sua trilha de Fúria para recuperar uma quantidade de Pontos de Chakra igual ao Nível da Disciplina multiplicado por 2.
+- **2 — Manto Escarlate** (passivo): Desbloqueia a técnica Manto de Chakra. Sob este manto, o ninja regenera 1 Ponto de Vida a cada duas rodadas decorridas.
+- **3 — Caudas de Energia** (passivo): O manto projeta caudas funcionais até o seu Nível da Disciplina menos 1. Desbloqueia o Manto Avançado.
+- **4 — Forma Monstruosa** (passivo): Desbloqueia a Forma Parcial. Sob qualquer transformação da besta, soma 1 ponto de Defesa. A Fúria avança 1 ponto a menos por combate.
+- **5 — Aliança Perfeita** (passivo): Desbloqueia a Bomba da Besta e a Forma Completa. O ninja dialoga em harmonia com a entidade; caso conquiste a cooperação da criatura, os testes de perda de controle em Fúria 6 ou superior deixam de existir.
 
-**Fraqueza:** vilas e pessoas temem você (−2 dados em Carisma com desconhecidos que sabem). Selos de supressão (Gogyō Fūin, Kongō Fūsa, Mokuton) trancam toda a Disciplina.
+**Fraqueza — Rejeição Social e Supressão:** O estigma atrai desconfiança civil (penalidade de 2 dados em testes de Carisma com indivíduos conscientes da sua condição). Técnicas e barreiras de supressão (Selo dos Cinco Elementos, Correntes de Selamento ou a Liberação de Madeira) bloqueiam a utilização desta Disciplina.
 
 ### Técnicas
-**Manto de Chakra (Bijū no Koromo)** — Nível 2 · Custo 4 PC (+1 Fúria)
+**Manto de Chakra (Bijū no Koromo)** — Nível 2 · Custo 4 Pontos de Chakra (+1 ponto na trilha de Fúria)
+- Requisitos: Besta com Cauda 2.
+- Ações: 1 ação.
+- Parada de dados: Nenhuma.
+- Descrição: Uma bolha borbulhante e avermelhada de chakra denso recobre o corpo, manifestando orelhas e uma cauda pontiaguda.
+- Efeito: Por uma quantidade de turnos igual ao Nível da Disciplina, concede 2 dados extras em ataques físicos e adiciona 1 ponto de Defesa.
 
-- Requisitos: Jinchūriki 2.
-- Parada: nenhuma. Ação curta.
-- Descrição: chakra vermelho cobre a pele. Uma cauda balança atrás.
-- Efeito: por Nv turnos, **+2 dados** em ataques físicos, **Defesa +1**, 1 cauda.
+**Manto Avançado (Bijū no Koromo: Sanbi)** — Nível 3 · Custo 6 Pontos de Chakra (+1 ponto na trilha de Fúria)
+- Requisitos: Besta com Cauda 3.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 4 − Defesa do alvo.
+- Descrição: O manto escurece e manifesta três ou mais caudas sólidas, projetando membros de energia que agarram alvos distantes.
+- Efeito: Concede 2 pontos extras de Defesa e estende o alcance corporal para Distância Curta com 4 dados de bônus, permitindo impor a condição **Imobilizado** com 2 ou mais sucessos obtidos.
 
-**Manto Avançado (Bijū no Koromo: Sanbi)** — Nível 3 · Custo 6 PC (+1 Fúria)
+**Forma Parcial da Besta (Bubun Bijū-ka)** — Nível 4 · Custo 8 Pontos de Chakra (+2 pontos na trilha de Fúria)
+- Requisitos: Besta com Cauda 4.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Taijutsu + 6 − Defesa de cada alvo.
+- Descrição: A carne se dissolve em uma couraça esquelética densa de chakra com as proporções de uma fortificação.
+- Efeito: Duração igual ao Nível da Disciplina em turnos. Concede 2 pontos de Defesa, 4 Pontos de Vida temporários e ataques em área na zona de Toque com 6 dados de bônus. A Fúria avança 1 ponto por turno enquanto esta forma estiver ativa.
 
-- Requisitos: Jinchūriki 3.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo.
-- Descrição: até três caudas. Braços de chakra se esticam e agarram.
-- Efeito: como o Manto, mas **Defesa +2**, braços de chakra com alcance 3 m e **+5 dados**, e você pode **agarrar** a 3 m (Imobilizado com 2+ sucessos).
+**Bomba da Besta com Cauda (Bijūdama)** — Nível 5 · Custo 10 Pontos de Chakra (+3 pontos na trilha de Fúria)
+- Requisitos: Besta com Cauda 5, Forma Parcial ou Completa ativa.
+- Ações: 3 ações (exige 1 turno prévio de concentração caso executado na Forma Parcial).
+- Parada de dados: Destreza + Ninjutsu + 8 − Defesa de cada alvo.
+- Descrição: Uma esfera negra supercomprimida de chakra positivo e negativo que é engolida e disparada como uma detonação monumental.
+- Efeito: Bônus de 8 dados em área cobrindo a Distância Média, arrasando o terreno da cena inteira.
 
-**Forma Parcial (Bubun Bijū-ka)** — Nível 4 · Custo 8 PC (+2 Fúria)
-
-- Requisitos: Jinchūriki 4.
-- Parada: Destreza + Taijutsu + 7 − Defesa de cada alvo.
-- Descrição: a pele some; sobra um corpo de chakra e osso do tamanho de uma casa.
-- Efeito: por Nv turnos, **Defesa +3** (teto 8), **+5 PV** temporários, golpes com **+7 dados** em **área** (adjacentes). Fúria sobe 1 por turno nesta forma.
-
-**Bomba da Besta (Bijūdama)** — Nível 5 · Custo 10 PC (+3 Fúria)
-
-- Requisitos: Jinchūriki 5, Forma Parcial ou Completa ativa.
-- Parada: Destreza + Ninjutsu + 9 − Defesa de cada alvo (ignora 3 de Defesa), 2 turnos de preparo (1 com Forma Completa).
-- Descrição: chakra positivo e negativo comprimidos numa esfera preta. Depois, luz.
-- Efeito: **+9 dados** em **área** de 30 m (sem o −1 de área), ignora 3 de Defesa. Destrói o terreno.
-
-**Forma Completa (Bijū-ka)** — Nível 5 · Custo 10 PC (+3 Fúria)
-
-- Requisitos: Jinchūriki 5.
-- Parada: nenhuma. 1 ação.
-- Descrição: a Besta inteira, com você no centro.
-- Efeito: por Nv turnos, use a ficha da **Besta com Cauda** do capítulo 6 (25 PV, Defesa 7, parada de ataque 18 dados, 2 ações). Ao fim, você fica Exausto. Fúria sobe 1 por turno.
-
-### Selos de Besta e Jutsus Proibidos
-Estes Fuinjutsus são comprados como jutsus normais ([Manual Básico](./manual-basico.md), capítulo 6) e lidam com Bestas com Cauda ou marcas proibidas.
-
-**Selo de Quatro Símbolos (Shishō Fūin)** — Nível 4 · Custo 8 PC (+2 PV)
-
-- Requisitos: Fuinjutsu 4, Chakra 7.
-- Parada: Inteligência + Fuinjutsu (Muito difícil, −4 dados).
-- Descrição: a base de todos os selos de Besta. Guarda um poder enorme num corpo ou objeto.
-- Efeito: sela um ser de nível até 4 (Invocação, marionete humana, metade de uma Besta) num alvo.
-
-**Selo Amaldiçoado (Juin Jutsu)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Fuinjutsu 4, permissão do Narrador, uma mordida.
-- Parada: Inteligência + Fuinjutsu; o alvo rola Vigor + Controle de Chakra (Muito difícil, −4 dados) para sobreviver.
-- Descrição: uma marca que empresta poder em troca do corpo e da vontade.
-- Efeito: o marcado ganha **+2 dados em tudo físico e Defesa +1** quando ativa o selo (2 PC), mas sobe 1 em uma trilha de **Corrupção** (0 a 10) por uso. Em 10, ele pertence a quem fez o selo. O Narrador controla.
-
-**Selo dos Oito Trigramas (Hakke no Fūin Shiki)** — Nível 5 · Custo 10 PC (+4 PV)
-
-- Requisitos: Fuinjutsu 5, Chakra 9.
-- Parada: Inteligência + Fuinjutsu (Muito difícil, −4 dados).
-- Descrição: o selo que guarda uma Besta inteira e deixa parte do chakra fluir para o hospedeiro.
-- Efeito: cria um Jinchūriki (Disciplina Besta com Cauda). Com a ajuda do **Ceifador**, custa a vida.
+**Forma Completa da Besta (Bijū-ka)** — Nível 5 · Custo 10 Pontos de Chakra (+3 pontos na trilha de Fúria)
+- Requisitos: Besta com Cauda 5.
+- Ações: 3 ações.
+- Parada de dados: Nenhuma.
+- Descrição: A liberação irrestrita da entidade titânica original em sua plenitude física sobre o campo de batalha.
+- Efeito: Pelo Nível da Disciplina em turnos, assuma as características de combate da Besta com Cauda (Defesa 7, 25 Pontos de Vida e parada básica de 16 dados para agir com 2 ações por rodada). Ao retornar à forma humana, o ninja recebe a condição **Exausto**. A Fúria sobe 1 ponto por turno.
 
 ---
 
 ## Senjutsu (Energia Natural)
-**Requisitos:** Chakra 5, Controle de Chakra 3, treino com um Sábio (sapos, cobras ou lesmas).
+**Requisitos:** Chakra 5, Controle de Chakra 3, aprendizado em um dos Três Grandes Retiros Animais (Monte Myōboku, Caverna Ryūchi ou Floresta Shikkotsu).
 
-### Disciplina (níveis 1–5)
-- **1 — Sentir a Natureza** (passivo): **+Nv dados** em Percepção para notar chakra. Parado e em silêncio, você junta **1 ponto de Natureza** por turno (máximo **Nv × 2**). Natureza some ao fim da cena.
-- **2 — Corpo Sábio** (passivo): libera o **Modo Sábio**. Ele dura **Nv turnos**.
-- **3 — Equilíbrio** (passivo): seu Modo Sábio não deixa traços animais. Você pode juntar Natureza **enquanto um aliado ou clone fica parado por você**.
-- **4 — Golpe de Sábio** (passivo): em Modo Sábio, seus Taijutsus e Ninjutsus ganham **+2 dados** extras e ignoram 2 de Defesa.
-- **5 — Sentido de Sábio** (passivo): em Modo Sábio você sente qualquer chakra a 1 km e, uma vez por cena, cancela um Genjutsu em você sem rolagem. O Modo Sábio dura a cena.
+### Disciplina (Níveis 1 a 5)
+A absorção e harmonização da energia do ambiente natural somada à energia espiritual e física do próprio corpo.
 
-**Fraqueza:** se você junta Natureza enquanto se move, role Vontade (Difícil, −2 dados). Se falhar, você vira pedra por 1 turno (Defesa 8, mas não age).
+- **1 — Sentir a Natureza** (passivo): Recebe uma quantidade de dados adicionais igual ao Nível da Disciplina em Percepção para rastrear chakra. Permanecendo imóvel durante o combate, você acumula **1 ponto de Energia Natural** por ação gasta (com teto máximo igual ao Nível da Disciplina multiplicado por 2). A Energia Natural se dissipa ao término da cena.
+- **2 — Modo Sábio Básico** (passivo): Desbloqueia o Modo Sábio. A transformação permanece ativa por uma quantidade de turnos igual ao Nível da Disciplina.
+- **3 — Equilíbrio Sábio** (passivo): O seu Modo Sábio não exibe deformidades anatômicas grosseiras. Você pode acumular Energia Natural enquanto um aliado ou clone de chakra permanecer parado no cenário absorvendo por você.
+- **4 — Força Natural** (passivo): Enquanto sustentado no Modo Sábio, todos os seus golpes de Taijutsu e Ninjutsu recebem 2 dados adicionais permanentes.
+- **5 — Sensibilidade Transcendental** (passivo): Sob o Modo Sábio, você detecta presenças de chakra em Distância Extrema e pode, uma vez por cena, cancelar um Genjutsu ativo sobre você sem a necessidade de rolagem de dados. O Modo Sábio passa a durar a cena inteira.
+
+**Fraqueza — Petrificação:** Tentar acumular Energia Natural em movimento exige um teste imediato de Vontade (tarefa Difícil, com penalidade de 2 dados). Uma falha faz a sobrecarga de pedra tomar as extremidades do corpo, deixando o personagem petrificado por 1 turno (recebendo Defesa 8, mas ficando completamente impossibilitado de agir).
 
 ### Técnicas
-**Modo Sábio (Sennin Mōdo)** — Nível 3 · Custo 3 Natureza
-
+**Modo Sábio (Sennin Mōdo)** — Nível 3 · Custo 3 pontos de Energia Natural
 - Requisitos: Senjutsu 2.
-- Parada: nenhuma. Ação curta.
-- Descrição: a energia natural entra e os olhos mudam.
-- Efeito: por Nv turnos, **+Nv ÷ 2** (arr. cima) dados em todas as paradas físicas e de Ninjutsu, **Defesa +Nv ÷ 2** (teto 8), e seus Taijutsus acertam a 2 m.
+- Ações: 1 ação.
+- Parada de dados: Nenhuma.
+- Descrição: As marcas faciais dos animais sagrados se desenham ao redor dos olhos com o despertar da energia natural.
+- Efeito: Por turnos iguais ao Nível da Disciplina, concede dados adicionais em paradas físicas e de Ninjutsu iguais a metade do Nível da Disciplina (arredondada para cima), acrescenta metade do Nível da Disciplina na sua Defesa e estende os golpes de Taijutsu para Distância Curta através do fluxo de ar natural.
 
-**Punho de Sapo (Kawazu Kumite)** — Nível 3 · Custo 3 PC
-
+**Punho do Sapo (Kawazu Kumite)** — Nível 3 · Custo 3 Pontos de Chakra
 - Requisitos: Senjutsu 3, Taijutsu 3, Modo Sábio ativo.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo (ignora 2 de Defesa).
-- Descrição: a energia natural ao redor do corpo golpeia antes do punho.
-- Efeito: **+5 dados**, acerta até 3 m e ignora 2 de Defesa de quem não sente chakra natural.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Taijutsu + 4 − Defesa do alvo.
+- Descrição: O campo invisível de energia natural que circunda o membro atinge o oponente mesmo que o punho físico erre a rota.
+- Efeito: Bônus de 4 dados em Distância Curta. Alvos sem percepção de chakra natural sofrem uma penalidade de 2 pontos na sua Defesa contra esta investida.
 
-**Arte Sábia: Grande Esfera Espiral (Senpō: Ōdama Rasengan)** — Nível 5 · Custo 10 PC
+**Arte Sábia: Grande Esfera Espiral (Senpō: Ōdama Rasengan)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Senjutsu 4, Esfera Espiral, Modo Sábio ativo.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 8 − Defesa de cada alvo.
+- Descrição: Um Rasengan descomunal e denso inflado com energia da natureza que oblitera construções e linhas defensivas.
+- Efeito: Bônus de 8 dados em área cobrindo a Distância Curta. Arremessa sobreviventes para a zona seguinte na condição **Caído**.
 
-- Requisitos: Senjutsu 4, Rasengan, Modo Sábio ativo.
-- Parada: Destreza + Ninjutsu + 9 − Defesa de cada alvo (ignora 2 de Defesa).
-- Descrição: um Rasengan do tamanho de uma casa, feito de energia natural.
-- Efeito: **+9 dados** em **área** de 5 m (sem o −1 de área), ignora 2 de Defesa.
-
-**Canção dos Sapos (Magen: Gama Rinshō)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Genjutsu 5, Senjutsu 3, dois sapos sábios ao seu lado.
-- Parada: Manipulação + Genjutsu + 5 − Vontade de cada alvo que ouve (100 m).
-- Descrição: a canção dos sábios prende corpo e mente. Até os deuses ficam em pedra.
-- Efeito: quem sofrer 1+ sucesso fica **Paralisado** pela cena. Só sai se levar dano ou se a canção parar. Leva 2 turnos para começar a cantar.
+**Ilusão Demoníaca: Canção dos Sapos (Magen: Gama Rinshō)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Genjutsu 5, Senjutsu 3, suporte de dois sapos sábios anciãos ao lado.
+- Ações: 3 ações (demanda dois turnos de harmonia melódica prévia).
+- Parada de dados: Manipulação + Genjutsu + 5 − Vontade de cada alvo.
+- Descrição: Um dueto musical dissonante emitido pelos sapos que invade o canal auditivo, confinando os alvos em um templo ilusório imobilizante.
+- Efeito: Alvos situados até Distância Longa que sofram 1 ou mais sucessos recebem a condição **Paralisado** pela cena inteira, só despertando caso sofram dano físico direto ou a cantoria seja interrompida.
 
 ---
 
 ## Invocação (Kuchiyose)
-**Requisitos:** Chakra 3, Fuinjutsu 2, contrato de sangue com uma tribo animal.
+**Requisitos:** Chakra 3, Fuinjutsu 2, contrato formal de sangue com uma espécie animal.
 
-### Disciplina (níveis 1–5)
-A Disciplina é o **contrato** e o laço com a tribo. Chamar é uma técnica.
+### Disciplina (Níveis 1 a 5)
+O vínculo espiritual e contratual estabelecido entre o shinobi e um clã animal guerreiro.
 
-- **1 — Contrato** (passivo): você pode chamar criaturas de nível até **Nv**. **+Nv ÷ 2** (arr. cima) dados em Liderança com a sua tribo.
-- **2 — Laço** (passivo): a criatura fica **Nv turnos** a mais. Criaturas de nível até 2 obedecem sem rolagem.
-- **3 — Casa da Tribo** (passivo): libera a **Invocação Reversa**: você pode ir até a casa da tribo e voltar.
-- **4 — Chamado Rápido** (passivo): chamar é **ação curta**. A criatura chega com Iniciativa igual à sua.
-- **5 — Voz do Chefe** (passivo): você pode chamar o **chefe da tribo** (nível 5). Ele fica a cena inteira. Uma vez por sessão, ele atende mesmo sem PC: você paga 2 PV.
+- **1 — Vínculo de Sangue** (passivo): Permite invocar animais de nível até o seu Nível da Disciplina. Concede dados extras iguais a metade do Nível da Disciplina (arredondada para cima) em testes de Carisma + Liderança para coordenar a espécie.
+- **2 — Aliança Firme** (passivo): As criaturas permanecem ativas em cena por uma quantidade de turnos adicionais igual ao Nível da Disciplina. Espécimes de nível até 2 obedecem a comandos sem necessidade de testes sociais.
+- **3 — Trânsito Espiritual** (passivo): Desbloqueia a técnica Invocação Reversa, permitindo viajar com segurança até a morada sagrada da tribo.
+- **4 — Convocação Instantânea** (passivo): Invocar um animal consome 1 ação em vez do custo padrão. O espécime chega ao combate compartilhando a sua Iniciativa fixa.
+- **5 — Aliança com o Patriarca** (passivo): Permite convocar o chefe soberano da espécie (nível 5), permanecendo pela cena inteira. Uma vez por sessão, ele pode ser chamado sem o gasto de Pontos de Chakra, mediante o custo de 2 Pontos de Vida carnais.
 
-**Dar ordens:** criaturas de nível 3 ou mais têm vontade própria. Ordens difíceis pedem Carisma + Liderança (Difícil, −2 dados). O chefe só vem se gostar de você.
+**Comandando criaturas:** Criaturas de nível 3 ou superior manifestam inteligência e personalidades marcantes. Instruções perigosas exigem sucesso em Carisma + Liderança (tarefa Difícil, com penalidade de 2 dados). O patriarca atende apenas a ninjas que tenham conquistado o seu respeito.
 
-| Nível da criatura | Exemplo | PV | Defesa | Vontade | Parada de ataque (já com bônus) |
+| Nível do Animal | Exemplo Típico | Pontos de Vida | Defesa | Vontade | Parada de Ataque (já ajustada) |
 |---|---|---|---|---|---|
-| 1 | Sapo mensageiro, cão rastreador | 4 | 2 | 2 | 6 dados |
-| 2 | Cobra grande, falcão | 7 | 3 | 3 | 8 dados |
-| 3 | Lesma média, lobo-chefe | 10 | 4 | 4 | 10 dados |
-| 4 | Sapo guerreiro, cobra gigante | 14 | 5 | 5 | 13 dados |
-| 5 | Chefe da tribo (Gamabunta, Manda, Katsuyu) | 18 | 6 | 6 | 16 dados |
+| 1 | Sapo mensageiro, cão espião | 4 | 2 | 2 | 5 dados |
+| 2 | Serpente de emboscada, falcão | 7 | 3 | 3 | 7 dados |
+| 3 | Lesma média, lobo de ataque | 10 | 4 | 4 | 9 dados |
+| 4 | Sapo couraçado, serpente gigante | 14 | 5 | 5 | 11 dados |
+| 5 | Patriarca ancestral (Gamabunta, Manda, Katsuyu) | 18 | 6 | 6 | 14 dados |
 
-| Tribo | Local | Dom da tribo |
+| Clã Animal | Habitat | Habilidade Especial do Clã |
 |---|---|---|
-| Sapos (Monte Myōboku) | Senjutsu | Usam Suiton e óleo. Ensinam Modo Sábio. |
-| Cobras (Caverna Ryūchi) | Veneno | Mordida com veneno de Qualidade = nível. |
-| Lesmas (Floresta Shikkotsu) | Cura | Curam 1 PV por turno em quem tocam; podem se dividir para cobrir um grupo. |
-| Cães | Rastreio | +3 dados em rastrear. Falam. |
-| Falcões | Céu | Voam. Carregam até 2 pessoas no nível 4. |
-| Macacos | Arma | O chefe vira um bastão de Qualidade 5 (nível 5). |
+| Sapos (Monte Myōboku) | Senjutsu | Técnicas de Água e óleo inflamável. Ensinam a moldar Energia Natural. |
+| Serpentes (Caverna Ryūchi) | Veneno | Mordida condutora de veneno de Qualidade igual ao nível da criatura. |
+| Lesmas (Floresta Shikkotsu) | Medicina | Curam 1 Ponto de Vida por turno por contato; fragmentam-se para socorrer grupos. |
+| Cães Rastreadores | Faro | Bônus de 3 dados para seguir rastros olfativos. Capacidade de fala. |
+| Falcões Guerreiros | Voo | Capacidade de transporte aéreo; conduzem até dois passageiros no nível 4. |
+| Primatas | Construto | O patriarca pode transformar seu corpo no Bastão Nyoi de Qualidade 5. |
 
-**Fraqueza:** se a criatura morrer na sua missão, a tribo corta o contrato até você provar valor.
+**Fraqueza — Quebra de Juramento:** Se um animal convocado tombar morto sob sua liderança negligente, o clã rompe relações até que o ninja realize uma missão de penitência aprovada pelo Narrador.
 
 ### Técnicas
-**Invocação (Kuchiyose no Jutsu)** — Nível 1 · Custo = nível da criatura × 2 PC
+**Invocação (Kuchiyose no Jutsu)** — Nível 1 · Custo: nível do animal multiplicado por 2 Pontos de Chakra
+- Requisitos: Invocação 1, sangue fresco.
+- Ações: 2 ações (ou 1 ação com Invocação nível 4).
+- Parada de dados: Inteligência + Fuinjutsu.
+- Descrição: O ninja espalha sangue na palma, bate a mão contra a terra e abre uma matriz geométrica que rompe em fumaça.
+- Efeito: A criatura surge na mesma zona e combate sob sua direção na ordem de sua Iniciativa pelos turnos designados.
 
-- Requisitos: Invocação 1, sangue. Compra-se **uma vez**; a criatura chamada tem nível até o seu Nv em Invocação.
-- Parada: Inteligência + Fuinjutsu. Falha = nada vem.
-- Descrição: a palma no chão, o selo se espalha, a fumaça sobe.
-- Efeito: a criatura aparece ao seu lado e fica **Nv turnos** (ou a cena, se for o chefe). Ela age na sua Iniciativa com os valores da tabela.
-
-**Invocação Reversa (Gyaku Kuchiyose)** — Nível 3 · Custo 6 PC
-
+**Invocação Reversa (Gyaku Kuchiyose no Jutsu)** — Nível 3 · Custo 6 Pontos de Chakra
 - Requisitos: Invocação 3.
-- Parada: nenhuma. Pode ser usada como **Reação**, uma vez por sessão.
-- Descrição: a tribo puxa você para casa.
-- Efeito: você (e quem você toca) some e aparece na casa da tribo. Voltar leva 1 dia ou um novo Kuchiyose.
+- Ações: 1 ação (ou Reação em momentos críticos, limitado a uma vez por sessão).
+- Parada de dados: Nenhuma.
+- Descrição: O pacto puxa o corpo do invocador instantaneamente para a segurança do território da tribo animal.
+- Efeito: O ninja e aliados em contato físico somem do local, despertando no santuário sagrado da espécie.
 
-**Bala de Óleo em Chamas (Gamayu Endan)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Invocação 4 (Sapos), Fogo, um sapo de nível 4 ou mais presente.
-- Parada: Destreza + Ninjutsu + 7 − Defesa de cada alvo.
-- Descrição: o sapo cospe óleo; você acende. Um rio de fogo.
-- Efeito: **+7 dados** em **área** (cone de 20 m). Queimando por 2 PV.
+**Bala de Óleo em Chamas (Gamayu Endan)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Invocação 4 (Sapos), afinidade Fogo, sapo de nível 4 ou superior presente.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 6 − Defesa de cada alvo.
+- Descrição: O sapo gigante cospe uma torrente densa de óleo que é inflamada pelo sopro de fogo do ninja.
+- Efeito: Bônus de 6 dados em área cobrindo a Distância Média. Aplica a condição **Queimando** severa (perda de 2 Pontos de Vida por turno).
 
 ---
 
 ## Mestre de Marionetes (Kugutsu)
 **Requisitos:** Destreza 3, Raciocínio 3, Conhecimento Ninja 2.
 
-Uma marionete é um corpo de madeira com **espaços** para armas e truques. Ela age na sua Iniciativa com a **sua** parada (`Destreza + Armas Ninja + bônus do truque − Defesa do alvo`). Manter marionetes ativas custa **1 PC por marionete por cena**.
+Uma marionete constitui um boneco mecânico de madeira dotado de **espaços** para armas secretas. Ela combate guiada pelos fios com a parada do operador (`Destreza + Armas Ninja + bônus do mecanismo − Defesa do alvo`). Manter marionetes em combate exige o gasto de **1 Ponto de Chakra por boneco por cena**.
 
-| Tipo de marionete | PV | Defesa | Espaços | Custo (Qualidade) |
+| Tipo de Estrutura | Pontos de Vida | Defesa | Espaços de Carga | Acesso em Recursos |
 |---|---|---|---|---|
-| Leve | 4 | 2 | 2 | 2 |
-| Padrão | 7 | 3 | 3 | 3 |
-| Pesada | 10 | 4 | 4 | 4 |
-| Humana (feita de um corpo) | 8 | 3 | 4 + usa 1 jutsu que o corpo sabia | 5 e permissão |
+| Marionete Leve | 4 | 2 | 2 espaços | Recursos 2 |
+| Marionete Padrão | 7 | 3 | 3 espaços | Recursos 3 |
+| Marionete Blindada | 10 | 4 | 4 espaços | Recursos 4 |
+| Marionete Humana (cadáver) | 8 | 3 | 4 espaços + 1 jutsu original do corpo | Recursos 5 (com aprovação) |
 
-**Truques de espaço (1 espaço cada):** lâmina (+3 dados), lâmina com veneno, lança-agulhas (+2 dados, 3 alvos), escudo (+1 Defesa), fumaça, corda de chakra (prende), corpo oco (esconde uma pessoa).
+**Mecanismos de Carga (1 espaço cada):** Lâminas retráteis (+2 dados de ataque), lâminas envenenadas, lançador de agulhas (+2 dados em até 3 alvos), escudo de placas (+1 de Defesa), bomba de fumaça embutida, fios de aço para imobilização, compartimento oco para transporte.
 
-### Disciplina (níveis 1–5)
-- **1 — Fios de Chakra** (passivo): você controla **1 marionete** a 20 m. **+Nv ÷ 2** (arr. cima) dados em Armas Ninja com marionete.
-- **2 — Muitos Fios** (passivo): controla até **Nv marionetes**. Alcance 50 m.
-- **3 — Fios Finos** (passivo): seus fios são quase invisíveis: notar e cortar exige Percepção + Prontidão (Muito difícil, −4 dados). Libera a **Prisão de Fios**.
-- **4 — Corpo Oco** (passivo): você luta de dentro de uma marionete: soma **+2 à sua Defesa** (teto 8) e a marionete perde PV antes de você.
-- **5 — Cem Mãos** (passivo): libera o **Teatro dos Cem**. Suas marionetes agem com **+1 ação curta** por turno.
+### Disciplina (Níveis 1 a 5)
+- **1 — Fios de Chakra** (passivo): Controla 1 marionete ativa até Distância Curta. Recebe dados adicionais iguais a metade do Nível da Disciplina (arredondada para cima) em Armas Ninja com marionetes.
+- **2 — Múltiplos Fios** (passivo): Permite controlar um número de marionetes simultâneas igual ao Nível da Disciplina, com alcance ampliado para Distância Média.
+- **3 — Fios Invisíveis** (passivo): Os filamentos de chakra tornam-se imperceptíveis: localizá-los ou cortá-los demanda um teste de Percepção + Prontidão (tarefa Muito Difícil, com penalidade de 4 dados). Desbloqueia a Prisão de Fios.
+- **4 — Condução Interna** (passivo): Permite combater abrigado dentro de uma marionete oca: soma 2 pontos à sua Defesa e a carcaça mecânica absorve o dano em seus Pontos de Vida antes de atingir o condutor.
+- **5 — Centena Mecânica** (passivo): Desbloqueia o Teatro das Cem Marionetes. Suas marionetes ativas realizam seus comandos com fluidez máxima.
 
-**Fraqueza:** sem marionete, você não tem bônus. Se os fios forem cortados, a marionete cai 1 turno.
+**Fraqueza — Dependência de Mecanismos:** Desprovido de suas peças de madeira, o ninja perde todos os benefícios da Disciplina. Fios cortados deixam a marionete desativada e inerte por 1 rodada inteira.
 
 ### Técnicas
-**Prisão de Fios (Chakura no Ito Shibari)** — Nível 3 · Custo 6 PC
+**Prisão de Fios de Chakra (Chakura no Ito Shibari)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Mestre de Marionetes 3.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa do alvo.
+- Descrição: Filamentos de chakra são laçados nas articulações de um adversário para controlá-lo como um boneco humano.
+- Efeito: Aplica a condição **Imobilizado** e permite forçar o alvo a realizar movimentos simples (largar itens, andar) por 1 turno por sucesso alcançado.
 
-- Requisitos: Marionetes 3.
-- Parada: Destreza + Armas Ninja + 3 − Defesa do alvo.
-- Descrição: os fios prendem uma pessoa como se fosse boneco.
-- Efeito: o alvo fica **Imobilizado** e você pode mover o corpo dele (fazê-lo andar, largar a arma) por 1 turno por sucesso.
+**Dez Marionetes Brancas de Chikamatsu (Shirohigi: Jikki Chikamatsu no Shū)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Mestre de Marionetes 4, posse da coleção histórica de dez marionetes.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Armas Ninja + 6 − Defesa do alvo.
+- Descrição: Dez obras-primas lendárias operadas pelos dez dedos que combinam ataques cooperativos devastadores.
+- Efeito: Atua como uma formação unificada sob as regras de Bando: manifesta 10 Pontos de Vida e ataca com sua parada regular acrescida de 6 dados de bônus durante uma cena inteira.
 
-**Dez Marionetes de Chikamatsu (Shirohigi: Jikki Chikamatsu no Shū)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Marionetes 4, as dez marionetes (Antecedente Equipamento 4 ou Herança 3).
-- Parada: Destreza + Armas Ninja + 8 − Defesa do alvo.
-- Descrição: dez obras-primas trabalham juntas como uma só.
-- Efeito: por 1 cena, controle 10 marionetes padrão. Use as regras de **Bando** ([Manual Básico](./manual-basico.md), capítulo 10): 10 PV, parada de ataque com os seus dados +8.
-
-**Teatro dos Cem (Akahigi: Hyakki no Sōen)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Marionetes 5, Corpo Oco, as cem marionetes.
-- Parada: Destreza + Armas Ninja.
-- Descrição: cem marionetes humanas saem do seu peito. Uma vila cai.
-- Efeito: por 1 cena, controle 100 marionetes leves em até 10 Bandos. Cada Bando tem 10 PV e ataca com parada de **12 dados**.
+**Teatro das Cem Marionetes (Akahigi: Hyakki no Sōen)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Mestre de Marionetes 5, núcleo de chakra condutor, posse de cem marionetes.
+- Ações: 3 ações.
+- Parada de dados: Destreza + Armas Ninja + 8 − Defesa de cada alvo.
+- Descrição: Uma revoada de cem bonecos de manto vermelho controlados simultaneamente por filamentos que brotam do próprio peito do condutor.
+- Efeito: Controla um exército mecânico operando como múltiplos Bandos somando até 100 integrantes, capazes de cercar fortificações inteiras por uma cena com bônus de 8 dados em ataques coordenados.
 
 ---
 
 ## Mestre de Venenos
 **Requisitos:** Inteligência 3, Medicina 2, Conhecimento Ninja 2.
 
-### Disciplina (níveis 1–5)
-- **1 — Imunidade** (passivo): você resiste a venenos de Qualidade até **Nv** sem rolagem.
-- **2 — Preparo** (passivo): você produz **Nv doses** de veneno de Qualidade até 3 por dia sem custo.
-- **3 — Veneno Afiado** (passivo): quem tenta resistir aos seus venenos sofre **−Nv ÷ 2** (arr. cima) dados adicionais na parada.
-- **4 — Veneno Vivo** (passivo): seu veneno age **Nv turnos a mais**, mesmo após o antídoto.
-- **5 — Antídoto Universal** (passivo): você cria antídoto para qualquer veneno em 1 turno com Medicina (Difícil, −2 dados). Libera o Toque Mortal.
+### Disciplina (Níveis 1 a 5)
+A maestria científica na destilação, inoculação e neutralização de toxinas biológicas letais.
 
-**Fraqueza:** se alguém da sua equipe for ferido pelo seu veneno, você perde 2 PC.
+- **1 — Imunidade Adquirida** (passivo): O organismo do ninja resiste a venenos de Qualidade até o Nível da Disciplina sem a necessidade de testes.
+- **2 — Destilação Própria** (passivo): Produz diariamente um número de doses de veneno de Qualidade até 3 igual ao Nível da Disciplina sem custos de recursos.
+- **3 — Toxina Virulenta** (passivo): Inimigos que tentam resistir às suas fórmulas sofrem uma penalidade em dados igual a metade do Nível da Disciplina (arredondada para cima) em sua rolagem de resistência.
+- **4 — Ação Prolongada** (passivo): Suas substâncias tóxicas continuam ativas por uma quantidade de turnos adicionais igual ao Nível da Disciplina, mesmo após a administração de antídotos comuns.
+- **5 — Antídoto Universal** (passivo): O especialista é capaz de sintetizar o antídoto de qualquer toxina em 1 turno mediante teste de Inteligência + Medicina (tarefa Difícil, com penalidade de 2 dados). Desbloqueia o Toque Mortal.
+
+**Fraqueza — Contaminação Culposa:** Caso um parceiro de equipe seja acidentalmente atingido por suas próprias substâncias, o choque de foco consome 2 Pontos de Chakra do usuário.
 
 ### Técnicas
-**Névoa Tóxica (Dokugiri)** — Nível 3 · Custo 6 PC
+**Névoa Venenosa (Dokugiri)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Mestre de Venenos 2, Ninjutsu 2.
+- Ações: 2 ações.
+- Parada de dados: Raciocínio + Ninjutsu.
+- Descrição: O usuário sopra uma densa cortina roxa de partículas tóxicas que invade as vias respiratórias.
+- Efeito: Cria uma nuvem na Distância Curta que dura uma quantidade de turnos igual ao Nível da Disciplina. Quem respirar em seu interior deve resistir imediatamente a um veneno de Qualidade 3.
 
-- Requisitos: Venenos 2, Ninjutsu 2.
-- Parada: Raciocínio + Ninjutsu.
-- Descrição: você sopra uma nuvem roxa.
-- Efeito: nuvem de 5 m por Nv turnos. Quem respira precisa resistir a veneno de Qualidade 3.
-
-**Toque Mortal (Dokushu)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Venenos 5, Taijutsu 3.
-- Parada: Destreza + Taijutsu.
-- Descrição: a própria pele exala veneno.
-- Efeito: por Nv turnos, qualquer golpe seu aplica veneno de Qualidade 5. Quem toca você também sofre.
+**Toque da Morte Silenciosa (Dokushu)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Mestre de Venenos 5, Taijutsu 3.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Taijutsu + 6 − Defesa do alvo.
+- Descrição: As glândulas da pele transpiram uma secreção invisível e fulminante que destrói o sistema nervoso ao menor contato carnal.
+- Efeito: Durante turnos iguais ao Nível da Disciplina, qualquer golpe em alcance de Toque aplica a condição **Envenenado** com Qualidade 5 imediata. Inimigos que tocarem a sua pele desprotegida sofrem a mesma contaminação.
 
 ---
 
 # Capítulo 3: Combinação de Afinidades (Kekkei Genkai Raros)
 
-Ter duas afinidades elementais ([Manual Básico](./manual-basico.md), capítulo 7) não mistura os elementos sozinho: você precisa da **Disciplina** que une as duas naturezas num novo elemento (**Kekkei Genkai**).
+Possuir duas afinidades elementais não permite misturá-las automaticamente: isso demanda a **Disciplina** específica que harmoniza as naturezas simultâneas em um elemento inédito (**Kekkei Genkai**).
 
-Estes poderes pedem as **duas afinidades**, **Chakra 5** e **permissão do Narrador** (ou o Antecedente Herança ●●●●). São Disciplinas: compre os níveis como as outras (nível × 4 PE). As técnicas se compram como jutsus (nível × 3 PE).
+Estes poderes exigem a posse das **duas afinidades elementais**, **Chakra em valor 5** e a **aprovação expressa do Narrador** (ou o antecedente Herança em 4 pontos). Tratam-se de Disciplinas completas: novos níveis custam o novo nível multiplicado por 4 Pontos de Experiência, enquanto as técnicas ligadas a elas custam o nível do jutsu multiplicado por 3 Pontos de Experiência.
 
-| Combinação | Elemento (Kekkei Genkai) | Onde encontrar |
+| Junção Elemental | Natureza Rara Resultante | Origem |
 |---|---|---|
-| **Água + Vento** | Gelo (Hyōton) | Clã **Yuki** (capítulo 1) |
-| **Água + Terra** | Madeira (Mokuton) | Clã **Senju** (capítulo 1) ou abaixo (implante) |
-| **Vento + Terra** | Magnetismo (Jiton) | Abaixo |
-| **Terra + Relâmpago** | Explosão (Bakuton) | Abaixo |
-| **Fogo + Terra** | Lava (Yōton) | Clã raro **Terumī** (crie com o capítulo 4) |
-
-**Fraqueza comum:** um Kekkei Genkai raro atrai caçadores de linhagem. Seu nome vira alvo.
+| **Água + Vento** | Liberação de Gelo (Hyōton) | Clã **Yuki** (Capítulo 1) |
+| **Água + Terra** | Liberação de Madeira (Mokuton) | Clã **Senju** (Capítulo 1) ou enxerto celular |
+| **Vento + Terra** | Liberação de Magnetismo (Jiton) | Apresentado abaixo |
+| **Terra + Relâmpago** | Liberação de Explosão (Bakuton) | Apresentado abaixo |
+| **Fogo + Terra** | Liberação de Lava (Yōton) | Desenvolvido com as regras do Capítulo 4 |
 
 ---
 
-## Liberação de Madeira (Mokuton)
-**Requisitos:** Água + Terra e implante de células Senju (role Vigor + Controle de Chakra, Muito difícil −4 dados, para sobreviver). **Senju não compram esta Disciplina:** a Disciplina Senju já é o Mokuton. Para os requisitos das técnicas abaixo, Senju usam o nível de Senju no lugar de Mokuton.
+## Liberação de Madeira por Enxerto (Mokuton)
+**Requisitos:** Afinidades Água e Terra somadas a enxerto de células Senju (exige aprovação em teste de Vigor + Controle de Chakra com penalidade de 4 dados para não falecer na rejeição). Membros do clã Senju utilizam a sua própria Disciplina nativa.
 
-### Disciplina (níveis 1–5)
-- **1 — Dedo Verde** (passivo): você faz crescer plantas pequenas. Suas Suiton e Doton custam **1 PC a menos**.
-- **2 — Madeira Firme** (passivo): suas criações de madeira têm **Defesa +1** e **+Nv PV**.
-- **3 — Raízes Famintas** (passivo): alvo preso por sua madeira perde **Nv PC** por turno.
-- **4 — Calma da Floresta** (passivo): você acalma Bestas com Cauda: **+3 dados** em Pressão de Chakra contra elas e contra Jinchūriki em Manto.
-- **5 — Floresta Viva** (passivo): seus jutsus de Madeira custam **2 PC a menos**. Libera o Nascimento da Floresta.
+### Disciplina (Níveis 1 a 5)
+- **1 — Germinação Espiritual** (passivo): Permite manipular vegetação rasteira. Suas técnicas elementais de Água e Terra custam 1 Ponto de Chakra a menos.
+- **2 — Resistência Vegetal** (passivo): Suas construções de madeira recebem 1 ponto extra de Defesa e somam Pontos de Vida adicionais iguais ao Nível da Disciplina.
+- **3 — Drenagem de Raízes** (passivo): Qualquer adversário atado por sua madeira perde Pontos de Chakra iguais ao Nível da Disciplina por turno.
+- **4 — Pacificação de Bestas** (passivo): Concede 3 dados adicionais em rolagens de Pressão de Chakra contra Bestas com Cauda e Jinchūriki em Manto.
+- **5 — Floresta Ancestral** (passivo): Suas técnicas de Madeira custam 2 Pontos de Chakra a menos. Desbloqueia o Renascimento da Floresta Profunda.
 
 ### Técnicas
-Você usa os **Jutsus de Madeira do clã Senju** (capítulo 1) como se tivesse Senju 4, e mais estas:
+**Renascimento da Floresta Profunda (Mokuton: Jukai Kōtan)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Liberação de Madeira 5, Ninjutsu 5.
+- Ações: 3 ações.
+- Parada de dados: Raciocínio + Ninjutsu + 7 − Defesa de cada alvo.
+- Descrição: O chão racha enquanto raízes e árvores centenárias brotam aceleradamente em escala colossal, transformando o cenário em uma densa floresta viva.
+- Efeito: Cobre toda a Distância Média pela cena inteira com bônus de 7 dados em área. Oponentes atingidos recebem a condição **Imobilizado** em meio aos troncos.
 
-**Nascimento da Floresta (Mokuton: Jukai Kōtan)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Mokuton 5, Ninjutsu 5.
-- Parada: Raciocínio + Ninjutsu + 6 − Defesa de cada alvo.
-- Descrição: árvores do tamanho de torres nascem em segundos.
-- Efeito: área de 50 m vira floresta por 1 cena. Ataque com **+6 dados** em área ao nascer, e quem sofrer dano fica **Imobilizado**.
-
-**Estátua dos Mil Braços (Mokuton: Shinsūsenju)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Mokuton 5, Senjutsu 3, Modo Sábio ativo.
-- Parada: Destreza + Ninjutsu + 9 − Defesa de cada alvo.
-- Descrição: um buda de madeira com mil mãos. Cada mão é um golpe.
-- Efeito: **+9 dados** em **área** de 50 m (sem o −1 de área). Uma vez por sessão.
+**Estátua dos Mil Braços Verdadeiros (Mokuton: Shinsūsenju)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Liberação de Madeira 5, Senjutsu 3, Modo Sábio ativo.
+- Ações: 3 ações.
+- Parada de dados: Destreza + Ninjutsu + 8 − Defesa de cada alvo.
+- Descrição: Uma estátua monumental de madeira com proporções montanhosas emerge exibindo milhares de braços articulados que desabam em bombardeio contínuo.
+- Efeito: Bônus de 8 dados em área cobrindo a Distância Longa, alterando permanentemente a topografia da região. Limitado a uma conjuração por sessão.
 
 ---
 
-## Liberação Magnética (Jiton)
-**Requisitos:** Vento + Terra.
+## Liberação de Magnetismo (Jiton)
+**Requisitos:** Afinidades Vento e Terra.
 
-### Disciplina (níveis 1–5)
-- **1 — Mão Invisível** (passivo): você move areia ou pó de ferro com a mente, até **Nv × 10 kg**, a 20 m.
-- **2 — Escudo de Areia** (passivo): a areia se move sozinha. **Defesa +Nv ÷ 2** (arr. cima; teto 8).
-- **3 — Armas que Voltam** (passivo): suas armas de metal voltam para a mão como ação livre.
-- **4 — Areia Pesada** (passivo): seus jutsus de areia ignoram **2 de Defesa**. Você flutua sobre uma nuvem de areia (movimento 20 m, voo baixo).
-- **5 — Oceano de Areia** (passivo): você controla toda a areia a 100 m. Libera o Funeral de Areia.
+### Disciplina (Níveis 1 a 5)
+- **1 — Indução de Partículas** (passivo): Permite mover mentalmente areia mineralizada ou pó de ferro em até Distância Curta, sustentando cargas de até o Nível da Disciplina multiplicado por 10 quilogramas.
+- **2 — Barreira Eletromagnética** (passivo): Partículas metálicas flutuam reativamente ao seu redor, concedendo um bônus de Defesa igual a metade do Nível da Disciplina (arredondada para cima).
+- **3 — Polaridade Cinética** (passivo): Armas de ferro e aço arremessadas retornam imediatamente para as mãos do ninja como ação livre.
+- **4 — Densidade Magnética** (passivo): Seus ataques de areia metálica aplicam a condição **Abalado** aos alvos atingidos. O ninja pode flutuar sobre uma plataforma de areia, cruzando duas zonas por ação de movimento.
+- **5 — Domínio do Minério** (passivo): Controle pleno de substâncias magnetizáveis até Distância Longa. Desbloqueia o Funeral de Areia.
 
 ### Técnicas
-**Caixão de Areia (Sabaku Kyū)** — Nível 3 · Custo 6 PC
+**Caixão de Areia (Sabaku Kyū)** — Nível 3 · Custo 6 Pontos de Chakra
+- Requisitos: Liberação de Magnetismo 2, Ninjutsu 3.
+- Ações: 2 ações.
+- Parada de dados: Raciocínio + Ninjutsu + 4 − Defesa do alvo.
+- Descrição: Uma torrente densa de areia sobe pelas pernas do adversário e envolve o seu corpo em uma couraça impenetrável.
+- Efeito: Bônus de 4 dados em Distância Curta. Se obtiver 1 ou mais sucessos, aplica a condição **Imobilizado** por 1 turno por sucesso alcançado.
 
-- Requisitos: Jiton 2, Ninjutsu 3.
-- Parada: Raciocínio + Ninjutsu + 3 − Defesa do alvo.
-- Descrição: a areia sobe pelas pernas e fecha o corpo.
-- Efeito: **+3 dados** e, com 1+ sucesso, o alvo fica **Imobilizado** por 1 turno por sucesso.
+**Chuva de Areia de Ferro (Satetsu Shigure)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Liberação de Magnetismo 4, Ninjutsu 4.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: O pó de ferro magnetizado se fragmenta em incontáveis projéteis pontiagudos que caem como tempestade balística sobre o quadrante.
+- Efeito: Ataque em área na Distância Curta com bônus de 5 dados. Inimigos atingidos recebem a condição **Lento**.
 
-**Chuva de Ferro (Satetsu Shigure)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Jiton 4, Ninjutsu 4.
-- Parada: Destreza + Ninjutsu + 6 − Defesa de cada alvo (ignora 2 de Defesa).
-- Descrição: pó de ferro vira mil agulhas que caem do céu.
-- Efeito: **+6 dados** em **área** de 10 m, ignora 2 de Defesa.
-
-**Funeral de Areia (Sabaku Sōsō)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Jiton 5, Caixão de Areia, alvo Imobilizado em areia.
-- Parada: Destreza + Ninjutsu + 9 − Defesa do alvo (ignora 3 de Defesa).
-- Descrição: a mão fecha. A areia também.
-- Efeito: **+9 dados**, ignora 3 de Defesa.
+**Funeral de Areia (Sabaku Sōsō)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Liberação de Magnetismo 5, alvo sob a condição Imobilizado por técnica de areia.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 8 − Defesa do alvo.
+- Descrição: O conjurador cerra a mão espalmada, e a carcaça mineral que envolve o oponente implode com violência esmagadora.
+- Efeito: Bônus de 8 dados em Distância Curta contra o alvo aprisionado, pulverizando defesas corporais convencionais.
 
 ---
 
-## Liberação Explosiva (Bakuton)
-**Requisitos:** Terra + Relâmpago.
+## Liberação de Explosão (Bakuton)
+**Requisitos:** Afinidades Terra e Relâmpago.
 
-### Disciplina (níveis 1–5)
-- **1 — Toque Instável** (passivo): objetos pequenos que você toca explodem quando quiser (+2 dados, 1 m). **+Nv ÷ 2** (arr. cima) dados em Armas Ninja com etiquetas.
-- **2 — Pele à Prova** (passivo): suas próprias explosões não ferem você.
-- **3 — Argila Viva** (passivo): você molda **Nv criaturas** de argila explosiva por dia, sem custo. Libera as Técnicas de argila.
-- **4 — Onda de Choque** (passivo): suas explosões ignoram **2 de Defesa**.
-- **5 — Arte** (passivo): o raio das suas explosões dobra. Libera a C3.
+### Disciplina (Níveis 1 a 5)
+- **1 — Carga Instável** (passivo): Pequenos objetos tocados tornam-se armadilhas detonáveis por comando mental (+2 dados de ataque). Concede dados extras iguais a metade do Nível da Disciplina (arredondada para cima) em Armas Ninja com etiquetas explosivas.
+- **2 — Isolamento de Choque** (passivo): As próprias detonações do usuário não provocam dano em seu corpo ou roupas.
+- **3 — Moldagem de Argila** (passivo): O ninja é capaz de esculpir criaturas de argila explosiva diariamente sem custos adicionais. Desbloqueia as técnicas de argila.
+- **4 — Concussão Amplificada** (passivo): Todas as detonações criadas pelo personagem impõem a condição **Caído** a alvos que sofram dano em Pontos de Vida.
+- **5 — Vértice Artístico** (passivo): O raio de alcance das suas explosões em área é ampliado em uma zona de distância. Desbloqueia a técnica C3.
 
 ### Técnicas
-**Argila C1 (Kibaku Nendo: C1)** — Nível 2 · Custo 4 PC
+**Criaturas de Argila C1 (Kibaku Nendo: C1)** — Nível 2 · Custo 4 Pontos de Chakra
+- Requisitos: Liberação de Explosão 3.
+- Ações: 1 ação.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa de cada alvo.
+- Descrição: Pequenos pássaros ou aranhas de argila rastejam e voam em direção ao oponente antes de explodirem.
+- Efeito: Dispara até três pequenas esculturas contra alvos situados em Distância Curta com bônus de 3 dados de ataque.
 
-- Requisitos: Bakuton 3.
-- Parada: Destreza + Armas Ninja + 2 − Defesa de cada alvo.
-- Descrição: pássaros e aranhas pequenos de argila.
-- Efeito: até 3 criaturas que voam ou andam até o alvo (20 m) e explodem com **+2 dados** em **área** de 2 m cada.
+**Dragão Alado C2 (Kibaku Nendo: C2)** — Nível 4 · Custo 8 Pontos de Chakra
+- Requisitos: Liberação de Explosão 4, Ninjutsu 4.
+- Ações: 2 ações.
+- Parada de dados: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: Um dragão voador de argila que transporta o usuário pelo ar enquanto cospe projéteis explosivos contínuos.
+- Efeito: Durante uma cena, o ninja voa cruzando duas zonas de distância por ação de movimento. Uma vez por rodada, pode disparar bombas com bônus de 5 dados em área na Distância Curta.
 
-**Dragão C2 (Kibaku Nendo: C2 Doragon)** — Nível 4 · Custo 8 PC
-
-- Requisitos: Bakuton 4, Ninjutsu 4.
-- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
-- Descrição: um dragão de argila que voa com você nas costas e cospe bombas.
-- Efeito: por 1 cena, você voa (movimento 30 m). Uma vez por turno, dispare uma bomba com **+5 dados** em **área** de 5 m.
-
-**Grande Explosão C3 (Kibaku Nendo: C3)** — Nível 5 · Custo 10 PC
-
-- Requisitos: Bakuton 5.
-- Parada: Destreza + Ninjutsu + 9 − Defesa de cada alvo (1 turno de preparo).
-- Descrição: uma estátua cai do céu. Depois, a cratera.
-- Efeito: **+9 dados** em **área** de 50 m (sem o −1 de área). Você precisa estar a 100 m. Uma vez por sessão.
+**Grande Explosão C3 (Kibaku Nendo: C3)** — Nível 5 · Custo 10 Pontos de Chakra
+- Requisitos: Liberação de Explosão 5.
+- Ações: 3 ações (demanda 1 turno de preparo prévio).
+- Parada de dados: Destreza + Ninjutsu + 8 − Defesa de cada alvo.
+- Descrição: Uma estátua maciça de argila com desenho estilizado é jogada de grandes altitudes, explodindo em um cogumelo destrutivo que devasta vilas inteiras.
+- Efeito: Bônus de 8 dados em área cobrindo a Distância Longa. O conjurador deve estar posicionado a pelo menos uma zona de distância da borda para não ser atingido. Limitado a uma utilização por sessão.
 
 ---
 
 # Capítulo 4: Criando suas Técnicas
 
-Você pode criar jutsus novos e novas Disciplinas. Use os **Pontos de Efeito** abaixo. O Narrador aprova.
+Jogadores e Narradores podem elaborar jutsus inéditos e novas Disciplinas. Para estruturar o poder, utilize o sistema de **Pontos de Efeito**. A versão final deve sempre ser apresentada e aprovada pelo Narrador.
 
-## Orçamento
+## Orçamento por Nível
 
-| Nível | Pontos de Efeito | Bônus de Ataque máximo | Custo em PC (jutsu) | Custo em PE |
+| Nível | Pontos de Efeito Disponíveis | Bônus de Ataque Máximo | Custo em Pontos de Chakra | Custo em Pontos de Experiência |
 |---|---|---|---|---|
-| 1 | 3 | +2 dados | 2 PC | 3 |
-| 2 | 4 | +3 dados | 4 PC | 6 |
-| 3 | 5 | +5 dados | 6 PC | 9 |
-| 4 | 6 | +7 dados | 8 PC | 12 |
-| 5 | 7 | +9 dados | 10 PC | 15 |
+| Nível 1 | 3 pontos | +2 dados | 2 Pontos de Chakra | 3 Pontos de Experiência |
+| Nível 2 | 4 pontos | +3 dados | 4 Pontos de Chakra | 6 Pontos de Experiência |
+| Nível 3 | 5 pontos | +4 dados | 6 Pontos de Chakra | 9 Pontos de Experiência |
+| Nível 4 | 6 pontos | +6 dados | 8 Pontos de Chakra | 12 Pontos de Experiência |
+| Nível 5 | 7 pontos | +8 dados | 10 Pontos de Chakra | 15 Pontos de Experiência |
 
-Técnicas de Taijutsu custam **PC igual ao nível**. Disciplinas usam a mesma tabela e a Régua de Poder ([Manual Básico](./manual-basico.md), capítulo 5).
+Técnicas de Taijutsu custam **Pontos de Chakra iguais ao seu nível**. O desenvolvimento de Disciplinas consome os mesmos parâmetros seguindo a Régua de Poder do capítulo 5 do [Manual Básico](./manual-basico.md).
 
-## Efeitos (gastam pontos)
+## Efeitos (Consomem Pontos de Efeito)
 
-| Efeito | Pontos |
+| Efeito Mecânico | Custo em Pontos |
 |---|---|
-| Ataque que causa dano (soma o Bônus de Ataque da tabela) | 2 |
-| +1 dado extra no bônus (máx. +1, nunca acima de +9) | 2 |
-| Ignora 1 de Defesa (máx. 3) | 1 por ponto |
-| Área (bônus de ataque −1) | 1 |
-| Até 3 alvos | 1 |
-| Alcance longo (30 m) | 1 |
-| Aplica condição: Caído, Lento, Abalado | 1 |
-| Aplica condição: Imobilizado, Cego, Surdo | 2 |
-| Aplica condição: Paralisado, Dormindo | 3 |
-| Dura 1 turno por sucesso | 1 |
-| Dura a cena | 2 |
-| Usa Reação (defesa) | 1 |
-| Cria barreira (Defesa 4, PV = sucessos × 2) | 2 |
-| Cura 1 PV por sucesso | 2 |
-| Drena 1 PC por sucesso | 2 |
-| Dá +1 dado em uma ação (máx. +2) | 1 por dado |
-| Dá +1 Defesa ou +1 Vontade (máx. +3) | 1 por ponto |
-| Não precisa de selos | 1 |
-| Ação curta em vez de ação | 2 |
+| Ataque que provoca dano em Pontos de Vida (concede o bônus de dados básico do nível) | 2 pontos |
+| Concede 1 dado adicional de ataque (respeitando o teto máximo de +8 dados do sistema) | 2 pontos |
+| Ataque com alcance em área (já inclui a redução padrão de 1 dado na parada) | 1 ponto |
+| Capacidade de atingir até 3 oponentes separados na mesma rolagem | 1 ponto |
+| Alcance em Distância Média ou Longa | 1 ponto |
+| Aplica uma condição leve: Caído, Lento ou Abalado | 1 ponto |
+| Aplica uma condição grave: Imobilizado, Cego ou Surdo | 2 pontos |
+| Aplica uma condição crítica: Paralisado ou Dormindo | 3 pontos |
+| Duração de 1 turno por sucesso alcançado | 1 ponto |
+| Duração sustentada pela cena inteira | 2 pontos |
+| Utilização como Reação protetora | 1 ponto |
+| Criação de barreira protetora (com Defesa 4 e Pontos de Vida iguais aos sucessos multiplicados por 2) | 2 pontos |
+| Cura 1 Ponto de Vida por sucesso obtido | 2 pontos |
+| Drena 1 Ponto de Chakra do alvo por sucesso obtido | 2 pontos |
+| Fornece 1 dado adicional em uma tarefa específica (máximo de 2 dados extras) | 1 ponto por dado |
+| Adiciona 1 ponto de Defesa ou Vontade temporária (máximo de 3 pontos adicionais) | 1 ponto por valor |
+| Não necessita de selos manuais para canalização | 1 ponto |
+| Redução no custo de tempo da técnica em 1 ação | 2 pontos |
 
-## Limitações (devolvem pontos)
+## Limitações (Concedem Pontos de Efeito Extras)
 
-| Limitação | Pontos |
+| Limitação Estabelecida | Pontos Devolvidos |
 |---|---|
-| Precisa de fonte (água, nuvens, instrumento) | +1 |
-| Precisa de toque | +1 |
-| Precisa de 2 turnos para preparar | +1 |
-| Precisa de outro ninja | +1 |
-| Custa 1 PV ao usuário | +2 |
-| Uma vez por cena | +1 |
-| Só funciona em alvo com condição (Caído, no ar) | +1 |
+| Demanda fonte externa existente no cenário (água corrente, nuvens carregadas, solo específico) | +1 ponto |
+| Demanda alcance restrito a Toque físico direto | +1 ponto |
+| Demanda 1 turno completo de concentração preparatória prévia | +1 ponto |
+| Demanda cooperação sincronizada de outro companheiro treinado | +1 ponto |
+| Sacrifica 1 Ponto de Vida carnal do usuário na ativação | +2 pontos |
+| Uso restrito a apenas uma vez por cena de combate | +1 ponto |
+| Funciona unicamente contra alvos sob condição prévia (no ar, sob solo molhado, paralisados) | +1 ponto |
 
-## Regras
-- O total de pontos **não pode passar** o orçamento. Pontos sobrando se perdem.
-- **Nenhum jutsu ignora toda a Defesa.** Máximo de perfuração: 3.
-- O bônus de ataque nunca passa de **+9 dados**.
-- Criar um jutsu em jogo leva **sessões de treino** iguais ao nível. O Narrador pode pedir uma rolagem de Inteligência + Ninjutsu por sessão.
-- Jutsus de elemento exigem a afinidade. Jutsus de clã exigem a Disciplina do clã.
-
-## Exemplo
-**Lança de Água (Suiton: Suisō)**, nível 2 (4 pontos): ataque que causa dano (2) + ignora 1 de Defesa (1) + alcance longo (1) = 4. Limitação: precisa de fonte (+1) → sobra 1 ponto para "aplica Caído". Custo: 4 PC. Parada: `Destreza + Ninjutsu + 3 − Defesa do alvo` (ignora 1 de Defesa, 30 m, derruba).
+## Diretrizes de Criação
+- O total gasto **não pode ultrapassar** os pontos de efeito do nível escolhido. Pontos não aproveitados são descartados.
+- **Nenhum poder ou jutsu ignora a Defesa.** O sistema de combate baseia-se na estabilidade da Defesa fixa.
+- O bônus máximo de dados de qualquer jutsu no sistema é de **+8 dados**.
+- A criação de uma técnica inédita exige sessões de treino dedicadas iguais ao nível pretendido, podendo o Narrador requerer testes de Inteligência + Ninjutsu ao final de cada arco.
 
 ---
 
 # Capítulo 5: Artefatos
 
-Artefatos são itens de **Qualidade 5** ([Manual Básico](./manual-basico.md), capítulo 8). Eles têm história, requisitos e um efeito especial. Não se compram. Ganham-se em missão, por herança ou roubo. O Narrador decide quando um aparece.
+Artefatos consistem em armamentos e relíquias lendárias de **Qualidade 5**. Eles possuem relevância histórica, requisitos rigorosos de manejo e capacidades singulares. Não podem ser comprados com pontos mundanos, sendo conquistados através de campanhas decisivas, heranças familiares ou saques históricos.
 
 ## As Sete Espadas da Névoa
 
 **Cutelo Decapitador (Kubikiribōchō)**
-
 - Requisitos: Força 4, Armas Ninja 3.
-- Parada: Destreza + Armas Ninja + 5 − Defesa do alvo (ignora 1 de Defesa).
-- Descrição: a espada de Zabuza. Um cutelo enorme que bebe sangue para se consertar.
-- Efeito: **+5 dados**, ignora 1 de Defesa. Quando causa dano a um alvo com sangue, a espada **se cura** e você recupera **1 PC por sucesso**. A lâmina também serve de escudo: **+1 Defesa** se você não atacou neste turno.
+- Parada de dados: Destreza + Armas Ninja + 4 − Defesa do alvo.
+- Descrição: A gigantesca espada lâmina-larga de Zabuza Momochi, dotada do poder de absorver ferro do sangue das vítimas para restaurar fraturas em seu metal.
+- Efeito: Bônus de 4 dados em Toque. Sempre que inflige dano em Pontos de Vida contra seres biológicos, a arma repara danos estruturais. O tamanho maciço da lâmina confere 1 ponto adicional de Defesa.
 
 **Pele de Tubarão (Samehada)**
-
-- Requisitos: Chakra 7, Armas Ninja 3. A espada escolhe o dono: ela morde quem não gosta.
-- Parada: Destreza + Armas Ninja + 4 − Defesa do alvo (ignora 2 de Defesa).
-- Descrição: a espada viva de Kisame, coberta de escamas. Ela come chakra.
-- Efeito: **+4 dados**, não corta: **rasga** (ignora 2 de Defesa). A cada acerto, o alvo perde **PC igual aos sucessos** e você recebe metade. Samehada **devora** jutsus: use sua Reação contra um Ninjutsu para somar **+4 na sua Defesa** e absorver metade do custo em PC do jutsu. Com 20 PC devorados na cena, passa a **+6 dados**.
+- Requisitos: Chakra 7, Armas Ninja 3. A arma manifesta senciência própria e repele portadores indesejados através de espinhos no cabo.
+- Parada de dados: Destreza + Armas Ninja + 4 − Defesa do alvo.
+- Descrição: Uma criatura em formato de montante envolta em faixas que dilacera através de escamas predatórias e se alimenta da energia dos inimigos.
+- Efeito: Bônus de 4 dados em Toque. A cada acerto que cause dano, o alvo perde Pontos de Chakra equivalentes aos sucessos obtidos, e o portador recupera metade desse valor. Como Reação, o ninja pode interceptar um Ninjutsu somando 2 pontos à sua Defesa e absorvendo metade do custo de Pontos de Chakra gasto pelo agressor na técnica.
 
 **Agulha de Costura (Nuibari)**
-
 - Requisitos: Destreza 4, Armas Ninja 3.
-- Parada: Destreza + Armas Ninja + 3 − Defesa de cada alvo (ignora 3 de Defesa).
-- Descrição: uma espada fina como agulha com um fio que não se rompe.
-- Efeito: **+3 dados**, ignora 3 de Defesa. Atravessa até **3 alvos em linha**. Os alvos que perderem PV ficam **costurados** juntos (Imobilizados até cortarem o fio com Força + Atletismo, Muito difícil −4 dados).
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa de cada alvo.
+- Descrição: Uma espada fina e longa como uma agulha de alfaiate, conectada a um carretel de arame de aço inquebrável.
+- Efeito: Bônus de 3 dados perfurando até três oponentes situados em linha contínua em Distância Curta. Inimigos que sofram dano em Pontos de Vida ficam atados na condição **Imobilizado** até que cortem os fios através de um teste de Força + Atletismo (tarefa Muito Difícil, com penalidade de 4 dados).
 
 **Racha-Elmo (Kabutowari)**
-
 - Requisitos: Força 4, Armas Ninja 3.
-- Parada: Destreza + Armas Ninja + 5 − Defesa do alvo (ignora 3 de Defesa).
-- Descrição: um machado e um martelo ligados por corrente. Quebra qualquer defesa.
-- Efeito: **+5 dados**, ignora 3 de Defesa. Com 3+ sucessos, **quebra** a armadura, a barreira ou o Susanoo do alvo: esse bônus de Defesa some até o fim da cena.
+- Parada de dados: Destreza + Armas Ninja + 4 − Defesa do alvo.
+- Descrição: Um conjunto de machado largo e martelo maciço interligados por corrente, projetado para esmagar qualquer barreira.
+- Efeito: Bônus de 4 dados em Toque. Conquistando 3 ou mais sucessos em uma investida contra um alvo protegido por armaduras pesadas, barreiras de terra ou Susanoo, o bônus de proteção temporária daquele anteparo é anulado até o término da cena.
 
 **Espada Explosiva (Shibuki)**
-
 - Requisitos: Armas Ninja 3, Fuinjutsu 1.
-- Parada: Destreza + Armas Ninja + 4 − Defesa do alvo (+6 em área de 2 m ao gastar etiqueta).
-- Descrição: um rolo de etiquetas explosivas corre pela lâmina.
-- Efeito: **+4 dados**. Cada golpe pode gastar 1 etiqueta para subir a **+6 dados** em **área** de 2 m (você está fora do raio). Carrega 10 etiquetas; recarregar leva 1 turno.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa do alvo.
+- Descrição: Uma lâmina equipada com uma bobina contínua de pergaminhos carregados de etiquetas detonadoras.
+- Efeito: Bônus básico de 3 dados. O usuário pode gastar etiquetas integradas para elevar o ataque para 5 dados de bônus em área cobrindo a zona de Toque. A bobina carrega até dez cargas por missão.
 
-**Presas (Kiba)**
+**Presas de Relâmpago (Kiba)**
+- Requisitos: Afinidade Relâmpago, Armas Ninja 3.
+- Parada de dados: Destreza + Armas Ninja + 3 − Defesa do alvo.
+- Descrição: Um par de espadas gêmeas condutoras de eletricidade pura consideradas as lâminas mais afiadas já forjadas.
+- Efeito: Bônus de 3 dados em cada investida. Aplica o choque característico do elemento Relâmpago: o oponente atingido perde a sua Reação na rodada. Permite canalizar jutsus de Relâmpago diretamente pela lâmina, conferindo 2 dados adicionais à técnica.
 
-- Requisitos: Relâmpago, Armas Ninja 3.
-- Parada: Destreza + Armas Ninja + 4 − Defesa do alvo.
-- Descrição: duas espadas gêmeas que cortam com relâmpago. As mais afiadas que existem.
-- Efeito: **+4 dados** cada, dano de **Relâmpago** (atordoa: o alvo perde a Reação). Você ataca com as duas numa ação com −1 dado. Pode canalizar um Raiton seu pela lâmina: +2 dados nele.
-
-**Linguado (Hiramekarei)**
-
+**Linguado Duplo (Hiramekarei)**
 - Requisitos: Chakra 7, Armas Ninja 3.
-- Parada: Destreza + Armas Ninja + bônus − Defesa do alvo.
-- Descrição: uma espada em bandagens que guarda chakra e vira a arma que você precisa.
-- Efeito: ela guarda até 10 PC que você deposita fora de combate. Gaste 2 PC guardados para dar forma por 1 turno: **martelo** (+6 dados), **lâminas gêmeas** (dois ataques com +4 dados), **escudo** (+2 Defesa).
+- Parada de dados: Destreza + Armas Ninja + bônus da forma − Defesa do alvo.
+- Descrição: Uma lâmina dupla larga em bandagens com dois orifícios que armazena chakra para remodelar a sua geometria em combate.
+- Efeito: Armazena até 10 Pontos de Chakra depositados previamente pelo usuário. Gastando 2 Pontos de Chakra armazenados, o portador molda a arma por 1 turno em: **Martelo Colossal** (+5 dados e derruba na condição Caído), **Lâminas Gêmeas** (dois ataques na mesma ação com +3 dados) ou **Escudo Amplo** (+2 pontos de Defesa).
 
-## Outros Artefatos
+## Outras Relíquias do Mundo Ninja
 
-**Leque de Guerra (Gunbai)**
-
-- Requisitos: Chakra 7, Vento.
-- Parada: Destreza + Armas Ninja + 4 − Defesa de cada alvo (área, vento).
-- Descrição: o leque de Madara. Devolve o que lhe atiram.
-- Efeito: use sua **Reação** e 2 PC contra um Ninjutsu de nível até 4: você anula o jutsu contra você e o **devolve** ao lançador com a parada dele.
+**Leque de Guerra Uchiha (Gunbai)**
+- Requisitos: Chakra 7, afinidade Vento.
+- Parada de dados: Destreza + Armas Ninja + 4 − Defesa do alvo.
+- Descrição: O leque cerimonial esculpido em carvalho sagrado de Madara Uchiha, capaz de canalizar rajadas violentas e rebater ninjutsus.
+- Efeito: Gastando a sua Reação e 2 Pontos de Chakra contra uma técnica de Ninjutsu de nível até 4, o usuário dissipa o ataque contra o seu corpo e rebate a técnica integralmente de volta contra o conjurador original.
 
 **Leque de Folha de Bananeira (Bashōsen)**
-
 - Requisitos: Chakra 9.
-- Parada: Destreza + Ninjutsu + 7 − Defesa do alvo.
-- Descrição: um dos Tesouros do Sábio. Cria qualquer um dos cinco elementos.
-- Efeito: cada abanada lança um jutsu de elemento de nível 4 (**+7 dados**) **sem precisar da afinidade**. Custa 4 PC e **1 PV** por uso: o leque drena a vida.
+- Parada de dados: Destreza + Ninjutsu + 6 − Defesa do alvo.
+- Descrição: Uma das cinco relíquias sagradas forjadas pelo Sábio dos Seis Caminhos, capaz de disparar qualquer natureza elemental.
+- Efeito: Ao abanar o artefato, o usuário desfere um ataque com 6 dados de bônus baseado em qualquer um dos cinco elementos básicos sem necessitar da afinidade correspondente. Custa 4 Pontos de Chakra e consome 1 Ponto de Vida carnal a cada utilização devido ao dreno massivo de vitalidade.
 
 **Jarro de Âmbar (Kohaku no Jōhei)**
-
 - Requisitos: Chakra 9, Fuinjutsu 4.
-- Parada: Presença + Fuinjutsu + 4 − Vontade do alvo.
-- Descrição: um jarro que sela quem responde ao próprio nome.
-- Efeito: diga o nome do alvo. Se ele responder ou reagir ao nome e você obtiver 1+ sucesso, ele é **selado** dentro do jarro até ser solto. Funciona até em Bestas. Uma vez por sessão.
+- Parada de dados: Presença + Fuinjutsu + 4 − Vontade do alvo.
+- Descrição: O recipiente colossal do Sábio que aprisiona instantaneamente qualquer ser que responda ao chamado de sua voz.
+- Efeito: O usuário pronuncia o nome do oponente. Caso o alvo emita qualquer resposta vocal ou reação verbal e o atacante obtenha 1 ou mais sucessos, a vítima é sugada e selada no interior do jarro indefinidamente, surtindo efeito inclusive contra Bestas com Cauda. Limitado a uma ativação por sessão.
 
-**Bastão Nyoi (Kongōnyoi, forma de Enma)**
-
-- Requisitos: contrato com os Macacos, Invocação 5.
-- Parada: Destreza + Armas Ninja + 5 − Defesa do alvo.
-- Descrição: o Rei dos Macacos vira um bastão que cresce e não quebra.
-- Efeito: **+5 dados**, alcance até 10 m. Soma **+2 na sua Defesa** como Reação. O bastão fala e dá conselhos (+1 dado em Raciocínio para táticas).
+**Bastão Nyoi (Kongōnyoi)**
+- Requisitos: Pacto com os Primatas, Invocação 5.
+- Parada de dados: Destreza + Armas Ninja + 4 − Defesa do alvo.
+- Descrição: O corpo impenetrável de Enma transformado em um bastão adamantino que estica a sua extensão sob comando mental.
+- Efeito: Bônus de 4 dados alcançando até Distância Curta. Usado como Reação, soma 2 pontos à Defesa do portador. A arma conversa ativamente, conferindo 1 dado adicional em tarefas de Raciocínio tático.
 
 ---
 
 # Capítulo 6: Guia do Narrador
 
-## Como pensar o jogo
-- **Chakra é a régua.** Um inimigo com Chakra 2 acima do grupo é um chefe. Com 2 abaixo, é capanga.
-- **Uma rolagem resolve tudo.** Nunca role esquiva ou absorção para os inimigos: apenas subtraia a **Defesa** ou a **Vontade** do alvo da parada de quem ataca e role uma única vez.
-- **Dê PE sempre.** 5 por sessão é o piso. O jogo foi feito para crescer rápido.
-- **Diga não ao bônus infinito.** Se um jogador cria algo que dá mais que +9 dados, ignora mais que 3 de Defesa ou passa do teto 8 de Defesa/Vontade, está errado.
-- **Deixe o Grau ser título.** Promova quando fizer sentido na história, não quando a ficha "merece".
+## Princípios de Condução
+- **O Chakra é a métrica narrativa central.** Um antagonista posicionado 2 pontos de Chakra acima da média do grupo constitui uma ameaça de nível Chefe. Com 2 pontos abaixo, comporta-se como tropa descartável.
+- **Resolução ágil em Rolagem Única.** Jamais requisite rolagens de esquiva ou absorção passiva para os Personagens do Narrador: subtraia a Defesa ou a Vontade da vítima da parada total do atacante e role os dados uma única vez.
+- **Progressão constante.** Distribua Pontos de Experiência ao final de cada sessão (5 pontos como piso garantido). O sistema foi concebido para um avanço rápido e heroico.
+- **Respeito absoluto aos limites numéricos.** Nenhuma técnica pode conceder mais que 8 dados de bônus, e a Defesa nunca pode ser perfurada ou ignorada por regras absolutas.
+- **Grau como honraria narrativa.** Promova personagens a Chunin ou Jounin de acordo com suas conquistas na crônica, e não meramente por estatísticas na ficha.
 
-## Fichas rápidas de PN (Personagens do Narrador)
-Cada PN tem apenas os valores necessários para o Combate de Rolagem Única ([Manual Básico](./manual-basico.md), capítulo 10): a **Parada de ataque** já inclui o bônus da arma ou jutsu padrão dele. Subtraia a **Defesa** do jogador e role!
+## Tabela de Personagens do Narrador Prontos
+Estes perfis simplificados contêm apenas os dados necessários para o combate imediato. A parada de ataque já contabiliza os armamentos e habilidades usuais. Subtraia a Defesa do jogador e role a parada final.
 
-| PN | Chakra | Parada de ataque | Defesa | Vontade | Iniciativa | PV | PC | Jutsus e truques |
+| Perfil de Ameaça | Chakra | Parada de Ataque Pronta | Defesa | Vontade | Iniciativa | Pontos de Vida | Pontos de Chakra | Ações por Rodada |
 |---|---|---|---|---|---|---|---|---|
-| Bandido | 1 | 5 dados | 2 | 2 | 3 | 3 | 3 | Faca. Use em Bando. |
-| Genin | 3 | 7 dados | 3 | 3 | 4 | 9 | 10 | 2 jutsus de nível 1. |
-| Chunin | 5 | 10 dados | 4 | 4 | 6 | 10 | 17 | 1 jutsu de nível 3, 2 de nível 2. |
-| Jounin | 7 | 13 dados | 5 | 5 | 7 | 11 | 25 | 1 jutsu de nível 4, Disciplina nível 3. |
-| ANBU | 8 | 14 dados | 6 | 5 | 8 | 11 | 28 | Sombra 4, 2 jutsus de nível 4. |
-| Renegado S | 9 | 16 dados | 6 | 6 | 9 | 12 | 32 | 1 jutsu de nível 5, Disciplina 5. 2 ações. |
-| Kage | 10 | 18 dados | 7 | 7 | 10 | 13 | 35 | 2 jutsus de nível 5, 2 Disciplinas 5. 2 ações, 2 Reações. |
-| Besta com Cauda (solta) | 10 | 20 dados | 7 | 7 | 8 | 25 | 50 | Bijūdama em área, ignora 3 de Defesa. 2 ações. Só se vence com selo. |
+| Bandido / Capanga | 1 | 5 dados | 2 | 2 | 3 | 3 | 3 | 3 ações (ideal para atuar em Bando) |
+| Genin de Patrulha | 3 | 7 dados | 3 | 3 | 4 | 9 | 10 | 3 ações, 1 Reação |
+| Chunin Competente | 5 | 10 dados | 4 | 4 | 6 | 10 | 17 | 3 ações, 1 Reação |
+| Jounin de Elite | 7 | 12 dados | 5 | 5 | 7 | 11 | 25 | 3 ações, 1 Reação |
+| Agente ANBU | 8 | 13 dados | 6 | 5 | 8 | 11 | 28 | 3 ações, 1 Reação |
+| Renegado de Grau S | 9 | 15 dados | 6 | 6 | 9 | 12 | 31 | 3 ações, 1 Reação |
+| Kage da Vila | 10 | 17 dados | 7 | 7 | 10 | 13 | 34 | 4 ações, 2 Reações |
+| Besta com Cauda Livre | 10 | 18 dados | 7 | 7 | 8 | 25 | 50 | 4 ações, 2 Reações (demanda selamento) |
 
-**Ajustar:** +1 Chakra = +1 dado de ataque e +3 PC. Para um chefe, dê **duas ações** e uma fraqueza.
+**Ajuste Rápido:** A cada ponto de Chakra adicional, some 1 dado na parada de ataque e 3 Pontos de Chakra na reserva. Para criar um Chefe de cena memorável, conceda 1 ação e 1 Reação extras por rodada.
 
-## Dar PE
-Cada sessão: **5 PE fixos** por jogar. Até **+5** de bônus:
+## Distribuição de Pontos de Experiência
+Ao término de cada sessão, atribua **5 Pontos de Experiência fixos** pela presença. Conceda até **+5 pontos adicionais** conforme os méritos alcançados:
 
-| Motivo | PE |
+| Conquista Narrativa | Pontos de Experiência Concedidos |
 |---|---|
-| A missão foi cumprida | +1 |
-| O jogador interpretou o Nindo e isso custou algo | +1 |
-| Uma ideia do jogador mudou a cena | +1 |
-| O grupo trabalhou em equipe | +1 |
-| Fim de um arco | +1 |
+| Os objetivos da missão foram plenamente cumpridos | +1 Ponto de Experiência |
+| O jogador interpretou o seu Caminho Ninja (Nindo) sofrendo consequências reais | +1 Ponto de Experiência |
+| Uma dedução ou iniciativa tática engenhosa transformou a cena | +1 Ponto de Experiência |
+| Os personagens atuaram em coesão e sacrifício mútuo de equipe | +1 Ponto de Experiência |
+| Conclusão decisiva de um arco de história principal | +1 Ponto de Experiência |
 
-Máximo **10 PE por sessão**. Nunca dê 0: quem veio jogar, cresce.
+O ganho máximo situa-se em **10 Pontos de Experiência por sessão**.
 
-## Dificuldades (Modificadores na Parada)
+## Tabela de Dificuldades da Parada de Dados
 
-| Situação | Modificador na parada |
+| Complexidade da Tarefa | Modificador Aplicado na Parada |
 |---|---|
-| Fácil | +2 dados |
-| Normal | 0 |
-| Difícil | −2 dados |
-| Muito difícil | −4 dados |
-| Quase impossível | −6 dados |
+| Ação Fácil | +2 dados na parada |
+| Ação Normal | 0 (sem modificadores) |
+| Ação Difícil | −2 dados na parada |
+| Ação Muito Difícil | −4 dados na parada |
+| Ação Quase Impossível | −6 dados na parada |
 
-Lembre: o alvo no dado é sempre **8+** (com explosão no 10), e **1 sucesso basta** fora de combate.
-
-## Quando alguém morre
-Morte acontece: 3 pontos de dano além de 0 PV. Antes disso, dê escolhas: gastar 3 PC (Último fôlego), um aliado médico, uma rendição. Se morreu, o jogador cria um novo ninja com **o mesmo total de PE** do grupo menos 10%.
-
-## Ritmo de uma sessão
-1. **Abertura** (15 min): onde paramos, o que o grupo quer.
-2. **Preparo** (30 min): plano, compras, rolagens sociais.
-3. **Missão** (2 h): 1 ou 2 combates rápidos, 1 cena de investigação ou social.
-4. **Fecho** (15 min): PE, ganchos.
-
-## Erros comuns
-- **Pedir rolagem de defesa ou absorção.** Nunca role defesa: apenas subtraia a Defesa (ou Vontade) do alvo da parada do atacante.
-- **Mudar o número-alvo do dado.** O sucesso é sempre **8, 9 ou 10**. Se algo é difícil, tire dados da parada antes de rolar.
-- **Esquecer o custo em PC.** Cobre antes de rolar. Os PC acabam: isso é o jogo.
-- **Vilão com jutsu de nível 5 na sessão 2.** O grupo não tem resposta. Use Chakra do vilão = grupo + 2, no máximo.
-- **Dar "nível" a tudo.** Jutsus e Disciplinas têm nível. Itens têm Qualidade. Antecedentes têm pontos. Missões têm Classe.
+Lembre-se sempre de que o alvo de cada dado de dez lados é o resultado **8, 9 ou 10** (com explosão nos resultados 10), sendo que **1 único sucesso é suficiente** para garantir a resolução favorável de qualquer teste fora de combate.
 
 ---
 
-*Fim do Manual Avançado. Que a Vontade do Fogo guie sua mesa.*
+*Fim do Manual Avançado. Que a Vontade do Fogo guie a sua mesa.*
