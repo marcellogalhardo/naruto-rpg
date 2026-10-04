@@ -57,7 +57,7 @@
 Para evitar confusão, este manual usa:
 
 - **Nível** só para **jutsus** e **Disciplinas** (1 a 5). Os dois usam a mesma escala e o mesmo limite (o Chakra).
-- **Qualidade** para equipamento (0 a 5).
+- **Qualidade** para equipamento (0 a 5). **Recursos** é o seu acesso a equipamento (0 a 5).
 - **Pontos (●)** para Antecedentes (0 a 5).
 - **Classe** para missões (D a S).
 
@@ -70,7 +70,7 @@ Este capítulo tem **todas as regras de cálculo** do jogo. O sistema usa as reg
 ## Como rolar (Regra do 8)
 1. Escolha um **Atributo** e uma **Habilidade** que combinam com a ação e some os dois valores.
 2. Aplique os **modificadores** (bônus de arma, jutsu, dificuldade ou a Defesa/Vontade do alvo). Toda a conta é feita **antes** de os dados caírem na mesa.
-3. Se a parada cair a **0 ou menos**, a ação é impossível no momento (**falha automática** — não há "dado de sorte").
+3. Se a parada cair a **0 ou menos**, a ação **falha**, a menos que você gaste **1 PC por dado** para voltar a ter dados (até 1 dado).
 4. Role os d10 restantes. Cada dado com **8, 9 ou 10** vale **1 sucesso**.
 5. **Explosão do 10:** cada dado que mostrar **10** conta 1 sucesso e permite rolar **+1 dado extra**. Se o dado extra tirar 8+, some mais 1 sucesso (e se tirar 10, explode de novo).
 6. Fora de combate, **1 sucesso basta** para conseguir o que você quer. Em combate, **cada sucesso causa 1 ponto de dano (1 PV)** direto no alvo.
@@ -87,6 +87,20 @@ Circunstâncias **nunca** mudam o número-alvo do dado (que é sempre 8) nem exi
 | Difícil | −2 dados |
 | Muito difícil | −4 dados |
 | Quase impossível | −6 dados |
+
+### Quanto foi bem
+Os sucessos mostram **a qualidade**, não se você passou ou falhou. **1 sucesso** basta para conseguir. Quanto mais, melhor:
+
+| Sucessos | Resultado |
+|---|---|
+| 1 | Conseguiu, no limite. |
+| 3 | Conseguiu bem. O Narrador dá um detalhe extra. |
+| 5 ou mais | **Sucesso excepcional.** +2 dados na próxima ação ligada a esta, ou uma vantagem grande. |
+
+### Tarefas longas
+Para tarefas demoradas (arrombar um cofre, decifrar um selo, escalar uma torre), o Narrador define uma **meta de sucessos**: **4** (curta), **8** (média) ou **12** (longa). Cada rolagem é um intervalo (1 turno em cena, ou 10 minutos fora dela) e os sucessos **se acumulam**. Em um intervalo com 0 sucesso, o Narrador marca **1 complicação**. Com 3 complicações, a tarefa falha.
+
+
 
 ## Falha
 - **Falha:** nenhum dado mostrou 8 ou mais (0 sucessos). A ação não funciona ou traz uma complicação na cena.
@@ -126,7 +140,7 @@ Valem de 1 a 5. Todos os atributos têm uso em jogo. Nenhum é "o mais important
 ### Corpo
 - **Força:** músculos. Dá o **bônus de socos e chutes** (`+Força ÷ 2`, arr. cima, máx. +3 dados). Usada para levantar, quebrar, escalar e **escapar de prisões** (Força + Atletismo).
 - **Destreza:** agilidade e precisão. Usada em **todos os ataques** (Taijutsu, Armas Ninja e jutsus de projétil) e entra na **Defesa**.
-- **Vigor:** resistência física. Soma aos **Pontos de Vida (PV)** (`7 + Vigor`), entra na **Defesa** e serve para resistir a veneno, fadiga e abrir os **Portões**.
+- **Vigor:** resistência física. Soma aos **Pontos de Vida (PV)** (`7 + Vigor + Chakra ÷ 2 (arr. cima)`), entra na **Defesa** e serve para resistir a veneno, fadiga e abrir os **Portões**.
 
 ### Mente
 - **Percepção:** sentidos. Define a **Iniciativa fixa** (`Percepção + Prontidão`). Usada para notar emboscadas, mirar em alvos ocultos e sentir chakra.
@@ -259,7 +273,7 @@ Subir de Grau acontece em jogo (exame, promoção, feito heroico). Um ninja pode
 ## Pontos de Vida (PV)
 Os **Pontos de Vida (PV)** medem quanto castigo físico seu corpo aguenta.
 
-**Pontos de Vida (PV) = 7 + Vigor.**
+**Pontos de Vida (PV) = 7 + Vigor + Chakra ÷ 2 (arr. cima).**
 
 - Cada sucesso obtido por um inimigo num ataque tira **1 PV** seu.
 - Enquanto você tiver **1 PV ou mais**, age sem penalidades de ferimento.
@@ -277,7 +291,7 @@ A Defesa une sua esquiva, seu vigor e sua armadura num único número que reduz 
 
 **Defesa = (maior entre Destreza e Vigor + Esquiva) ÷ 2 (arredonde para cima) + armadura + poderes.**
 
-- **Teto: 8.** Nenhum bônus acumulado faz a Defesa passar de 8.
+- **Sem teto, mas sem pilhas.** A Defesa soma a base, a armadura e os poderes passivos. Os bônus **temporários** (Defesa Total, Esquiva ativa, jutsus defensivos) **não se somam entre si**: contra cada ataque, vale **só o maior**.
 - **Perfuração:** efeitos que "ignoram Defesa" ignoram no máximo **3** pontos da Defesa do alvo.
 - **Esquiva ativa (Reação):** uma vez por rodada, você pode gastar sua **Reação** para ganhar **+2 de Defesa** contra um ataque. Não há rolagem.
 - Um alvo **surpreso**, **Imobilizado** (contra quem o prende) ou **Paralisado** perde sua Defesa de esquiva/vigor: fica apenas com o bônus da **armadura** (se estiver vestindo uma).
@@ -287,7 +301,6 @@ A Vontade é a força da sua mente e do seu espírito. Ela reduz a parada de dad
 
 **Vontade = (Raciocínio + Presença) ÷ 2 (arredonde para cima) + poderes.**
 
-- **Teto: 8.**
 - Não existem "pontos temporários de Vontade": toda resistência ou esforço extra usa seus **Pontos de Chakra (PC)**.
 - Quando uma regra pede para **rolar Vontade** sozinho (como resistir à Fúria ou à Maldição do Ódio), role uma parada de dados igual ao seu valor de **Vontade**.
 
@@ -309,16 +322,16 @@ Cada sucesso (8+) nos dados rolados tira **1 PV** do alvo.
 
 | Fonte | Bônus de Ataque |
 |---|---|
-| Soco ou chute | +Força ÷ 2 (arr. cima), máximo +3 dados |
-| Arma | veja o capítulo 8 (Kunai +2, Katana +4) |
+| Soco ou chute | +Força ÷ 2 (arr. cima), máximo +2 dados |
+| Arma | veja o capítulo 8 (Kunai +1, Katana +3). Bônus da arma + Qualidade: máximo **+5** |
 | Jutsu ou poder de nível 1 | +2 dados |
 | Nível 2 | +3 dados |
-| Nível 3 | +5 dados |
-| Nível 4 | +7 dados |
-| Nível 5 | +9 dados |
+| Nível 3 | +4 dados |
+| Nível 4 | +6 dados |
+| Nível 5 | +8 dados |
 
 - Jutsus de **área** têm **−1 dado** no bônus (já incluído nas descrições).
-- Nenhum jutsu ultrapassa **+9 dados** de bônus.
+- Cada ponto de Defesa **ignorado** conta como **+1 dado** do bônus. O total (dados + Defesa ignorada) respeita o limite do nível: +2, +3, +4, +6, +8. Nenhum jutsu passa de **+8**.
 
 ---
 
@@ -326,13 +339,14 @@ Cada sucesso (8+) nos dados rolados tira **1 PV** do alvo.
 
 | Valor | Fórmula |
 |---|---|
-| Pontos de Vida (PV) | 7 + Vigor |
+| Pontos de Vida (PV) | 7 + Vigor + Chakra ÷ 2 (arr. cima) |
 | Pontos de Chakra (PC) | Chakra × 3 + Controle de Chakra |
 | Nível máximo | Chakra ÷ 2 (arredonde para cima) |
-| Defesa (Resistência Física) | (maior entre Destreza e Vigor + Esquiva) ÷ 2 (p/ cima) + armadura + poderes, teto 8 |
-| Vontade (Resistência Mental) | (Raciocínio + Presença) ÷ 2 (p/ cima) + poderes, teto 8 |
+| Defesa (Resistência Física) | (maior entre Destreza e Vigor + Esquiva) ÷ 2 (p/ cima) + armadura + poderes |
+| Vontade (Resistência Mental) | (Raciocínio + Presença) ÷ 2 (p/ cima) + poderes |
 | Iniciativa (Ordem fixa) | Percepção + Prontidão |
-| Ataque Físico / Elemental | Atributo + Habilidade + Bônus − Defesa do alvo (cada sucesso = 1 PV) |
+| Ações por turno | 3, mais 1 Reação |
+| Ataque Físico / Elemental | Atributo + Habilidade + Bônus − Defesa do alvo (cada sucesso = 1 PV). 2º ataque do turno −2 dados, 3º −4 |
 | Ataque Mental (Genjutsu) | Atributo + Habilidade + Bônus − Vontade do alvo (1+ sucesso = aplica efeito) |
 
 ---
@@ -451,7 +465,7 @@ O olho. Ele vê, lê e copia. Ele não ataca: os jutsus abaixo atacam.
 - **5 — Mangekyō Eterno (Fūmetsu)** (passivo): exige os olhos de um parente de sangue. Cura todo o **Desgaste Ocular** e você não rola mais para ele.
 
 #### Desgaste Ocular
-Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Susanoo exige o teste todo turno.
+Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (Difícil, −2 dados). O Susanoo exige o teste todo turno.
 
 - **Falha:** +1 Desgaste.
 - Cada ponto de Desgaste dá **−1 dado** em tudo que usa visão.
@@ -464,6 +478,7 @@ Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Su
 **Dragão de Fogo pelo Fio (Katon: Ryūka no Jutsu)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Sharingan 1, Fogo, Ninjutsu 2, um fio ou arame preso ao alvo.
+- Ações: 1 ação.
 - Parada: Destreza + Ninjutsu + 3 − Defesa do alvo.
 - Descrição: o fogo corre pelo arame até o alvo. Não há como errar o caminho.
 - Efeito: **+3 dados**. O alvo preso pelo arame **não pode usar Esquiva ativa**. Queimando.
@@ -471,13 +486,15 @@ Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Su
 **Genjutsu do Sharingan (Genjutsu: Sharingan)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Sharingan 2, Genjutsu 3, contato visual.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 2 − Vontade do alvo.
 - Descrição: um olhar e o alvo já está dentro da ilusão.
-- Efeito: o alvo fica **Paralisado** por 1 turno por sucesso **ou** obedece a uma ordem simples ("durma", "ataque-o") por 1 turno. Use como ação curta.
+- Efeito: com 2+ sucessos, o alvo fica **Paralisado** por 1 turno por sucesso (com 1 sucesso, só **Abalado**) **ou** obedece a uma ordem simples ("durma", "ataque-o") por 1 turno. Use como ação curta.
 
 **Grande Aniquilação de Fogo (Katon: Gōka Mekkyaku)** — Nível 4 · Custo 8 PC
 
 - Requisitos: Sharingan 2, Fogo, Ninjutsu 4.
+- Ações: 2 ações.
 - Parada: Destreza + Ninjutsu + 6 − Defesa de cada alvo.
 - Descrição: uma parede de fogo que engole o campo inteiro.
 - Efeito: **+6 dados** em **área** (cone de 20 m). Só um Suiton de nível 4 ou mais apaga.
@@ -485,6 +502,7 @@ Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Su
 **Amaterasu** — Nível 5 · Custo 10 PC
 
 - Requisitos: Mangekyō (Sharingan 4), Ninjutsu 5.
+- Ações: 3 ações.
 - Parada: Destreza + Ninjutsu + 7 − Defesa do alvo (alcance: onde o olho vê).
 - Descrição: as chamas negras do céu. Queimam até acabar o que tocam.
 - Efeito: **+7 dados** e o alvo fica **Queimando por 2 PV** (em vez de 1) por turno. Água não apaga: só Selar Fogo (capítulo 6) ou arrancar a parte queimada. Desgaste Ocular.
@@ -492,6 +510,7 @@ Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Su
 **Tsukuyomi** — Nível 5 · Custo 10 PC
 
 - Requisitos: Mangekyō (Sharingan 4), Genjutsu 5, contato visual.
+- Ações: 3 ações.
 - Parada: Manipulação + Genjutsu + 5 − Vontade do alvo.
 - Descrição: três dias de tortura dentro de um segundo.
 - Efeito: cada sucesso tira **1 PV** direto do alvo e ele fica **Paralisado** por 2 turnos. Desgaste Ocular.
@@ -499,13 +518,15 @@ Cada vez que usar um poder do Mangekyō, role **Vigor + Vontade** (dif. 3). O Su
 **Susanoo** — Nível 5 · Custo 10 PC (+2 PC por turno)
 
 - Requisitos: Mangekyō (Sharingan 4), Ninjutsu 5, Amaterasu e Tsukuyomi.
-- Parada: Destreza + Ninjutsu + 9 − Defesa do alvo para atacar.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 8 − Defesa do alvo para atacar.
 - Descrição: um guerreiro de chakra ao redor do corpo. Escudo e espada ao mesmo tempo.
-- Efeito: dura enquanto você pagar 2 PC por turno. **+3 Defesa** (teto 8) e um ataque por turno com **+9 dados** a 10 m. Desgaste Ocular todo turno.
+- Efeito: dura enquanto você pagar 2 PC por turno. **+3 Defesa** e um ataque por turno com **+8 dados** a 10 m. Desgaste Ocular todo turno.
 
 **Izanagi** — Nível 5 · Custo 10 PC
 
 - Requisitos: Mangekyō (Sharingan 4), Fuinjutsu 3.
+- Ações: Reação.
 - Parada: nenhuma. Use como **Reação**.
 - Descrição: por um instante, você decide o que é real. O golpe nunca aconteceu.
 - Efeito: anula **um golpe**, mesmo mortal. O olho usado **cega para sempre**: −1 Percepção permanente e você perde um nível de Sharingan. Uma vez por olho.
@@ -521,7 +542,7 @@ O olho branco vê tudo, inclusive o chakra dentro das pessoas. O **Punho Gentil*
 - **1 — Olho Branco** (1 PC por cena): visão de 360°. Você nunca é atacado pelas costas nem surpreendido por algo visível. **+Nv dados** em Percepção.
 - **2 — Ver o Chakra** (passivo): com o olho ativo, você vê os PC e as afinidades de quem olha. Seus Taijutsus **drenam PC** do alvo igual aos sucessos obtidos, além do dano em PV (Punho Gentil).
 - **3 — Alcance** (passivo): vê através de paredes a **Nv × 100 m**. Henge e Bunshin não enganam você.
-- **4 — Fechar Pontos** (passivo): cada Taijutsu seu que causa dano tira **1 dado** do alvo em jutsus até o fim da cena (acumula até Nv).
+- **4 — Fechar Pontos** (passivo): cada Taijutsu seu que causa dano tira **1 dado** do alvo em jutsus até o fim da cena (acumula até Nv ÷ 2, arr. cima).
 - **5 — Visão Absoluta** (passivo): vê até 10 km. Ignora Furtividade, Henge e Genjutsu visual.
 
 **Fraqueza — Ponto Cego:** há um ponto cego atrás da nuca. Um atacante que **saiba disso** (Inteligência + Conhecimento Ninja, Difícil −2 dados) ignora o nível 1 contra você.
@@ -532,6 +553,7 @@ Técnicas de Punho Gentil são Taijutsu: custam PC igual ao nível.
 **Palma de Ar dos Oito Trigramas (Hakke Kūshō)** — Nível 2 · Custo 2 PC
 
 - Requisitos: Byakugan 1, Taijutsu 2.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 3 − Defesa do alvo.
 - Descrição: um golpe de palma que empurra o ar com chakra.
 - Efeito: Taijutsu à distância (10 m) com **+3 dados**. O alvo atingido é jogado 3 m para trás.
@@ -539,23 +561,26 @@ Técnicas de Punho Gentil são Taijutsu: custam PC igual ao nível.
 **Rotação Celestial (Hakkeshō Kaiten)** — Nível 3 · Custo 3 PC
 
 - Requisitos: Byakugan 2, Taijutsu 3.
+- Ações: Reação.
 - Parada: nenhuma. Use como **Reação**.
 - Descrição: você gira e solta chakra por todos os pontos. Uma cúpula que repele tudo.
-- Efeito: até o seu próximo turno, **+3 Defesa** (teto 8) contra tudo, inclusive área. Quem ataca você corpo a corpo perde **2 PV**.
+- Efeito: até o seu próximo turno, **+3 Defesa** contra tudo, inclusive área. Quem ataca você corpo a corpo perde **2 PV**.
 
 **Sessenta e Quatro Palmas (Hakke Rokujūyon Shō)** — Nível 3 · Custo 3 PC
 
 - Requisitos: Byakugan 2, Taijutsu 3.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo.
+- Ações: 1 ação.
+- Parada: Destreza + Taijutsu + 4 − Defesa do alvo.
 - Descrição: sessenta e quatro toques nos pontos de chakra, em segundos.
-- Efeito: **+5 dados**. O alvo perde **PC igual ao dobro dos sucessos** (além dos PV).
+- Efeito: **+4 dados**. O alvo perde **PC igual ao dobro dos sucessos** (além dos PV).
 
 **Cento e Vinte e Oito Palmas (Hakke Hyakunijūhachi Shō)** — Nível 4 · Custo 4 PC
 
 - Requisitos: Byakugan 3, Taijutsu 4, Sessenta e Quatro Palmas.
-- Parada: Destreza + Taijutsu + 7 − Defesa do alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 6 − Defesa do alvo.
 - Descrição: o dobro de toques. Todos os pontos fechados.
-- Efeito: **+7 dados**. Se causar pelo menos 1 PV de dano, o alvo **não usa jutsus** até o fim da cena.
+- Efeito: **+6 dados**. Para cada PV de dano, o alvo **não usa jutsus por 1 turno** (máx. 3 turnos).
 
 ---
 
@@ -577,6 +602,7 @@ O segredo Nara: a própria sombra obedece. A Disciplina diz **até onde** e **qu
 **Imitação de Sombra (Kagemane no Jutsu)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Nara 1, Ninjutsu 2.
+- Ações: 1 ação.
 - Parada: Raciocínio + Ninjutsu + 2 − Defesa do alvo.
 - Descrição: sua sombra toca a do alvo. Agora ele faz o que você faz.
 - Efeito: com 1+ sucesso, o alvo fica **Imobilizado** e imita seus gestos por 1 turno por sucesso. Manter custa concentração.
@@ -584,6 +610,7 @@ O segredo Nara: a própria sombra obedece. A Disciplina diz **até onde** e **qu
 **Armadilha de Sombra (Kage Wana)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Nara 1, Ninjutsu 2.
+- Ações: 1 ação.
 - Parada: Raciocínio + Ninjutsu ao preparar.
 - Descrição: você deixa uma sombra parada no chão, esperando.
 - Efeito: quem pisar fica **Imobilizado** se falhar em Percepção + Prontidão (subtraindo os seus sucessos). Dura a cena.
@@ -591,20 +618,23 @@ O segredo Nara: a própria sombra obedece. A Disciplina diz **até onde** e **qu
 **Estrangulamento de Sombra (Kage Kubishibari no Jutsu)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Nara 2, Ninjutsu 3, alvo preso por Imitação de Sombra.
+- Ações: 2 ações.
 - Parada: nenhuma.
 - Descrição: a sombra sobe pelo corpo e aperta o pescoço.
-- Efeito: o alvo preso perde **2 PV** por turno enquanto a prisão durar.
+- Efeito: o alvo preso perde **1 PV** por turno (**2 PV** com Nara 4) enquanto a prisão durar.
 
 **Costura de Sombra (Kage Nui no Jutsu)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Nara 2, Ninjutsu 3.
-- Parada: Destreza + Ninjutsu + 4 − Defesa de cada alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 3 − Defesa de cada alvo.
 - Descrição: a sombra vira lanças que saltam e perfuram.
-- Efeito: até **3 ataques** com **+4 dados** cada dentro do alcance da sua sombra.
+- Efeito: até **3 ataques** com **+3 dados** cada (o 2º com −2 dados e o 3º com −4) dentro do alcance da sua sombra.
 
 **Reunião de Sombras (Kage Yose no Jutsu)** — Nível 4 · Custo 8 PC
 
 - Requisitos: Nara 3, Ninjutsu 4.
+- Ações: 2 ações.
 - Parada: Raciocínio + Ninjutsu.
 - Descrição: a sombra vira mãos finas que pegam, puxam e empunham.
 - Efeito: por 1 turno por sucesso, sua sombra manipula objetos no alcance (lança kunai, arma armadilhas, puxa aliados) como se fossem suas mãos, e pode atacar com arma uma vez por turno sem gastar sua ação.
@@ -619,7 +649,7 @@ O corpo Akimichi transforma caloria em chakra e chakra em tamanho.
 
 - **1 — Calorias em Chakra** (passivo): **+Nv** nos PC máximos. Uma vez por cena, perca 1 PV para recuperar 3 PC.
 - **2 — Corpo Expansível** (passivo): libera os **Jutsus de Expansão**. Expandido, seus braços alcançam **Nv m**.
-- **3 — Pele Grossa** (passivo): **+1 Defesa**; +2 no nível 5 (teto 8).
+- **3 — Pele Grossa** (passivo): **+1 Defesa**; +2 no nível 5.
 - **4 — Força de Gigante** (passivo): quando expandido, some **+Nv ÷ 2** (arr. cima) dados a socos e para escapar de prisões.
 - **5 — Asas de Borboleta** (passivo): libera a **Bomba Borboleta**. As Três Pílulas custam 1 PV a menos.
 
@@ -629,6 +659,7 @@ O corpo Akimichi transforma caloria em chakra e chakra em tamanho.
 **Expansão (Baika no Jutsu)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Akimichi 2, Ninjutsu 1.
+- Ações: 1 ação.
 - Parada: nenhuma.
 - Descrição: você dobra de tamanho em um instante.
 - Efeito: por 1 cena, **+2 dados** em ataques de soco e para escapar de prisões, e **+2 PV** temporários.
@@ -636,6 +667,7 @@ O corpo Akimichi transforma caloria em chakra e chakra em tamanho.
 **Tanque de Carne (Nikudan Sensha)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Akimichi 2, Taijutsu 2, Expansão ativa.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 3 − Defesa de cada alvo.
 - Descrição: você vira uma bola e rola sobre tudo.
 - Efeito: **+3 dados** em **linha** de 20 m (todos na linha). Você termina onde parar. Quem sofrer dano fica Caído.
@@ -643,6 +675,7 @@ O corpo Akimichi transforma caloria em chakra e chakra em tamanho.
 **Muralha Humana (Nikudan Kabe)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Akimichi 2.
+- Ações: Reação.
 - Parada: nenhuma. Use como **Reação**.
 - Descrição: você cresce e entra na frente do golpe.
 - Efeito: você recebe o ataque no lugar de um aliado adjacente, com **+2 na sua Defesa**.
@@ -650,13 +683,15 @@ O corpo Akimichi transforma caloria em chakra e chakra em tamanho.
 **Expansão Parcial (Bubun Baika no Jutsu)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Akimichi 2, Ninjutsu 2.
-- Parada: Destreza + Taijutsu + 5 − Defesa do alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 4 − Defesa do alvo.
 - Descrição: só o braço cresce, e cresce muito.
-- Efeito: por 1 cena, seus socos alcançam 10 m com **+5 dados** e podem **agarrar** (Imobilizado se causar 2+ PV).
+- Efeito: por 1 cena, seus socos alcançam 10 m com **+4 dados** e podem **agarrar** (Imobilizado se causar 2+ PV).
 
 **Três Pílulas Coloridas (Sanshoku no Gan'yaku)** — Nível 3 · Custo 0
 
 - Requisitos: Akimichi 2, Medicina 1 para preparar.
+- Ações: 2 ações.
 - Parada: nenhuma.
 - Descrição: pílulas verde, amarela e vermelha. Cada uma arranca mais força do corpo.
 - Efeito: 3 pílulas por missão. Cada uma dá **+1 nível na Disciplina Akimichi** por 1 cena e tira 1 PV ao engolir. A vermelha tira 3 PV e libera a Bomba Borboleta mesmo sem Akimichi 5.
@@ -664,16 +699,18 @@ O corpo Akimichi transforma caloria em chakra e chakra em tamanho.
 **Super Expansão (Chō Baika no Jutsu)** — Nível 4 · Custo 8 PC
 
 - Requisitos: Akimichi 4, Ninjutsu 3.
-- Parada: Destreza + Taijutsu + 7 − Defesa de cada alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 6 − Defesa de cada alvo.
 - Descrição: do tamanho de uma casa. Os pés pisam exércitos.
-- Efeito: por 1 cena, **+2 Defesa** (teto 8), **+4 PV** temporários, socos com **+7 dados** em **área** (todos adjacentes). Movimento 20 m.
+- Efeito: por 1 cena, **+2 Defesa**, **+4 PV** temporários, socos com **+5 dados** em **área** (todos adjacentes). Movimento 20 m.
 
 **Bomba Borboleta (Chōdan Bakugeki)** — Nível 5 · Custo 10 PC (+2 PV)
 
 - Requisitos: Akimichi 5 (ou a pílula vermelha), Taijutsu 4.
-- Parada: Destreza + Taijutsu + 9 − Defesa do alvo (ignora 3 de Defesa).
+- Ações: 3 ações.
+- Parada: Destreza + Taijutsu + 5 − Defesa do alvo (ignora 3 de Defesa).
 - Descrição: todo o chakra do corpo queima nas costas como asas. Um soco.
-- Efeito: **+9 dados**, ignora 3 de Defesa. Você perde 2 PV e fica Exausto ao fim da cena.
+- Efeito: **+5 dados**, ignora 3 de Defesa (+8 efetivos). Você perde 2 PV e fica Exausto ao fim da cena.
 
 ---
 
@@ -695,6 +732,7 @@ Uma mente que toca outras mentes. A Disciplina é a sensibilidade; os jutsus sã
 **Troca de Mentes (Shintenshin no Jutsu)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Yamanaka 2, Genjutsu 2.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 2 − Vontade do alvo.
 - Descrição: sua mente sai do corpo e entra no alvo. O corpo que ficou cai.
 - Efeito: você controla o alvo por 1 turno por sucesso. Dano que o alvo sofre, você sofre pela metade. Se falhar, sua mente volta só no próximo turno: seu corpo tem Defesa 0 até lá.
@@ -702,6 +740,7 @@ Uma mente que toca outras mentes. A Disciplina é a sensibilidade; os jutsus sã
 **Confusão Mental (Shinranshin no Jutsu)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Yamanaka 2, Genjutsu 3.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 2 − Vontade do alvo.
 - Descrição: você não toma o corpo: só desvia a mão.
 - Efeito: com 1+ sucesso, o alvo **ataca o aliado mais próximo** no próximo turno dele.
@@ -709,6 +748,7 @@ Uma mente que toca outras mentes. A Disciplina é a sensibilidade; os jutsus sã
 **Cura Mental (Shinten Kaifuku)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Yamanaka 1, Empatia 2.
+- Ações: 2 ações.
 - Parada: Manipulação + Empatia (toque).
 - Descrição: você entra na mente do aliado e expulsa o que não é dele.
 - Efeito: com 1+ sucesso, remove Genjutsu, medo ou controle mental de um aliado.
@@ -716,6 +756,7 @@ Uma mente que toca outras mentes. A Disciplina é a sensibilidade; os jutsus sã
 **Leitura de Memórias (Kioku Yomitori)** — Nível 4 · Custo 8 PC
 
 - Requisitos: Yamanaka 3, Investigação 2, alvo preso ou inconsciente.
+- Ações: 2 ações.
 - Parada: Inteligência + Investigação + 2 − Vontade do alvo.
 - Descrição: você folheia a mente como um livro.
 - Efeito: lê memórias de até 1 dia por sucesso (ou um tema específico). Leva 1 turno por dia lido. Um Mestre de Selos 3 pode trancar memórias contra isso.
@@ -723,6 +764,7 @@ Uma mente que toca outras mentes. A Disciplina é a sensibilidade; os jutsus sã
 **Transferência Coletiva (Shinten Denshin)** — Nível 5 · Custo 10 PC
 
 - Requisitos: Yamanaka 5, Liderança 3.
+- Ações: 3 ações.
 - Parada: Manipulação + Liderança.
 - Descrição: a voz de um Yamanaka chega a um exército inteiro ao mesmo tempo.
 - Efeito: por 1 cena, você liga até sucessos × 10 pessoas. Elas falam pela mente e ganham +1 dado em ações coordenadas (Flanquear, Ajudar).
@@ -739,7 +781,7 @@ Faro, instinto e um cão que é parte de você.
 - **2 — Laço** (passivo): você e o cão compartilham Iniciativa (a maior) e podem **trocar a Reação** entre si. Libera os **Jutsus de Presa**.
 - **3 — Corpo de Fera** (passivo): garras e dentes naturais com **+3 dados** de bônus. Movimento **+5 m**.
 - **4 — Cão Veterano** (passivo): seu cão passa a **8 PV**, parada de ataque **9 dados**, **Defesa 5**, e pode usar o Clone Homem-Fera sozinho.
-- **5 — Sangue de Lobo** (passivo): libera a **Fusão de Lobo**. Em Quatro Patas, você tem **+Nv ÷ 2** Defesa (arr. cima, teto 8).
+- **5 — Sangue de Lobo** (passivo): libera a **Fusão de Lobo**. Em Quatro Patas, você tem **+Nv ÷ 2** Defesa.
 
 **Fraqueza — Nariz Sensível:** cheiros fortes (fumaça, gás, perfume) causam **−2 dados** em tudo por 1 turno.
 
@@ -749,6 +791,7 @@ Técnicas de Presa são Taijutsu: custam PC igual ao nível.
 **Marcação (Dōbutsu Shirushi)** — Nível 1 · Custo 1 PC
 
 - Requisitos: Inuzuka 1, Sobrevivência 1.
+- Ações: 1 ação.
 - Parada: Percepção + Sobrevivência.
 - Descrição: você e seu cão gravam o cheiro do alvo.
 - Efeito: você rastreia o alvo por 1 dia sem rolagem, a até 1 km por sucesso.
@@ -756,6 +799,7 @@ Técnicas de Presa são Taijutsu: custam PC igual ao nível.
 **Quatro Patas (Shikyaku no Jutsu)** — Nível 2 · Custo 2 PC
 
 - Requisitos: Inuzuka 2, Taijutsu 2.
+- Ações: 1 ação.
 - Parada: nenhuma.
 - Descrição: você se agacha e vira fera: olhos fendidos, unhas longas.
 - Efeito: por 1 cena, **movimento dobrado**, **Defesa +1** e garras com **+1 dado** extra de bônus.
@@ -763,13 +807,15 @@ Técnicas de Presa são Taijutsu: custam PC igual ao nível.
 **Presa Dupla (Gatsūga)** — Nível 2 · Custo 2 PC
 
 - Requisitos: Inuzuka 2, Taijutsu 2, Quatro Patas ativo, seu cão ao lado.
-- Parada: Destreza + Taijutsu + 3 − Defesa do alvo.
+- Ações: 1 ação.
+- Parada: Destreza + Taijutsu + 2 − Defesa do alvo.
 - Descrição: você e o cão giram como duas brocas.
-- Efeito: **2 ataques** com **+3 dados** cada, contra o mesmo alvo ou dois.
+- Efeito: **2 ataques** com **+2 dados** cada (o 2º com **−2 dados**), contra o mesmo alvo ou dois.
 
 **Clone Homem-Fera (Jūjin Bunshin)** — Nível 3 · Custo 3 PC
 
 - Requisitos: Inuzuka 2, Ninjutsu 1.
+- Ações: 1 ação.
 - Parada: nenhuma.
 - Descrição: o cão fica igual a você. Ninguém sabe quem morde.
 - Efeito: por 1 cena, seu cão tem a sua aparência e usa **a sua parada** de Taijutsu. Vocês dois ganham **+1 Defesa**.
@@ -777,16 +823,18 @@ Técnicas de Presa são Taijutsu: custam PC igual ao nível.
 **Presa sobre Presa (Garōga)** — Nível 4 · Custo 4 PC
 
 - Requisitos: Inuzuka 4, Taijutsu 4, Presa Dupla.
-- Parada: Destreza + Taijutsu + 7 − Defesa de cada alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 6 − Defesa de cada alvo.
 - Descrição: duas brocas viram um só furacão de garras.
-- Efeito: **+7 dados** em **linha** de 15 m. Quem sofrer dano fica Caído.
+- Efeito: **+6 dados** em **linha** de 15 m. Quem sofrer dano fica Caído.
 
 **Fusão de Lobo (Jinjū Konbi Henge: Sōtōrō)** — Nível 5 · Custo 5 PC
 
 - Requisitos: Inuzuka 5, Taijutsu 4.
-- Parada: Destreza + Taijutsu + 9 − Defesa do alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 5 − Defesa do alvo.
 - Descrição: você e o cão viram um lobo de duas cabeças do tamanho de uma casa.
-- Efeito: por 3 turnos, PV dos dois somados, **+9 dados** nos ataques, **Defesa +3** (teto 8). Garōga nesta forma ignora 3 de Defesa.
+- Efeito: por 3 turnos, PV dos dois somados, **+5 dados** nos ataques, **Defesa +3**. Garōga nesta forma ignora 3 de Defesa.
 
 ---
 
@@ -808,6 +856,7 @@ Seu corpo é a colmeia. Os insetos vivem do seu chakra e morrem por você.
 **Insetos Rastreadores (Kikaichū Tsuiseki)** — Nível 1 · Custo 2 PC
 
 - Requisitos: Aburame 1, Investigação 1.
+- Ações: 1 ação.
 - Parada: Inteligência + Investigação.
 - Descrição: uma fêmea pousa no alvo. Os machos sentem o cheiro dela a quilômetros.
 - Efeito: com 1+ sucesso, você encontra o alvo em qualquer lugar por 1 semana.
@@ -815,6 +864,7 @@ Seu corpo é a colmeia. Os insetos vivem do seu chakra e morrem por você.
 **Nuvem de Insetos (Kikaichū no Jutsu)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Aburame 1, Ninjutsu 2.
+- Ações: 1 ação.
 - Parada: Raciocínio + Ninjutsu.
 - Descrição: milhares de insetos saem das suas mangas.
 - Efeito: todos em 5 m perdem **2 PC** por turno, por 1 turno por sucesso. Aliados avisados não são tocados.
@@ -822,13 +872,15 @@ Seu corpo é a colmeia. Os insetos vivem do seu chakra e morrem por você.
 **Escudo de Insetos (Mushi Tate)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Aburame 2, Ninjutsu 2.
+- Ações: Reação.
 - Parada: nenhuma. Use como **Reação**.
 - Descrição: o enxame se fecha como parede na sua frente.
-- Efeito: **+3 Defesa** (teto 8) contra 1 ataque. Se o ataque for jutsu, os insetos comem metade do custo em PC e devolvem a você.
+- Efeito: **+3 Defesa** contra 1 ataque. Se o ataque for jutsu, os insetos comem metade do custo em PC e devolvem a você.
 
 **Clone de Insetos (Mushi Bunshin no Jutsu)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Aburame 2, Ninjutsu 3.
+- Ações: 2 ações.
 - Parada: nenhuma.
 - Descrição: insetos formam uma cópia perfeita de você.
 - Efeito: um clone real com 1 PV. Quando é atingido, se desfaz em enxame e **drena 3 PC** do atacante.
@@ -836,6 +888,7 @@ Seu corpo é a colmeia. Os insetos vivem do seu chakra e morrem por você.
 **Esfera de Insetos (Mushidama)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Aburame 2, Ninjutsu 3.
+- Ações: 2 ações.
 - Parada: Raciocínio + Ninjutsu + 3 − Defesa do alvo.
 - Descrição: milhares de insetos cercam o alvo e comem o chakra dele.
 - Efeito: com 1+ sucesso, o alvo fica **Imobilizado** por 1 turno por sucesso e perde **3 PC por turno**.
@@ -843,9 +896,10 @@ Seu corpo é a colmeia. Os insetos vivem do seu chakra e morrem por você.
 **Insetos Nano (Rinkaichū)** — Nível 5 · Custo 10 PC
 
 - Requisitos: Aburame 5, Medicina 2.
-- Parada: Destreza + Taijutsu + 7 − Defesa do alvo (ignora 3 de Defesa, toque).
+- Ações: 3 ações.
+- Parada: Destreza + Taijutsu + 5 − Defesa do alvo (ignora 3 de Defesa, toque).
 - Descrição: insetos pequenos demais para ver. Eles destroem as células ao toque.
-- Efeito: **+7 dados**, ignora 3 de Defesa, e o alvo fica **Envenenado** (Qualidade 5). Quem toca a sua pele sem luvas sofre o mesmo. Só um Aburame ou Medicina 5 retira.
+- Efeito: **+5 dados**, ignora 3 de Defesa (+8 efetivos), e o alvo fica **Envenenado** (Qualidade 5). Quem toca a sua pele sem luvas sofre o mesmo. Só um Aburame ou Medicina 5 retira.
 
 ---
 
@@ -907,6 +961,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Corte Duplo (Nitō Giri)** — Nível 2 · Custo 2 PC
 
 - Requisitos: Kenjutsu 1, Armas Ninja 2.
+- Ações: 1 ação.
 - Parada: Destreza + Armas Ninja + bônus da espada − Defesa de cada alvo.
 - Descrição: um giro, dois cortes.
 - Efeito: ataque **dois alvos** ao alcance na mesma ação.
@@ -914,16 +969,18 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Lâmina de Elemento (Chakura Nagashi)** — Nível 3 · Custo 3 PC
 
 - Requisitos: Kenjutsu 2, afinidade.
-- Parada: Destreza + Armas Ninja + 5 − Defesa do alvo.
+- Ações: 1 ação.
+- Parada: Destreza + Armas Ninja + 3 − Defesa do alvo.
 - Descrição: a espada se cobre de fogo, relâmpago ou vento.
-- Efeito: por 1 cena, a espada dá **+5 dados** e aplica o efeito do elemento. Relâmpago: ignora 2 de Defesa.
+- Efeito: por 1 cena, a espada dá **+3 dados** e aplica o efeito do elemento. Relâmpago: ignora 1 de Defesa.
 
 **Dança das Sete Lâminas (Shichitō no Mai)** — Nível 5 · Custo 5 PC
 
 - Requisitos: Kenjutsu 5, Armas Ninja 5.
+- Ações: 2 ações.
 - Parada: Destreza + Armas Ninja + bônus da espada − Defesa do alvo.
 - Descrição: a espada está em todos os lugares ao mesmo tempo.
-- Efeito: por 3 turnos você faz **2 ataques por ação** sem penalidade.
+- Efeito: por 3 turnos você faz **2 ataques por ação**, o 2º com **−1 dado**.
 
 ---
 
@@ -943,6 +1000,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Mapa Mental (Kanchi)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Sensor 2, Ninjutsu 2.
+- Ações: 2 ações.
 - Parada: Percepção + Prontidão.
 - Descrição: você fecha os olhos e o campo inteiro aparece na mente.
 - Efeito: por 1 cena, você sabe a posição exata de todos no alcance. Sua equipe ganha **+1 Defesa** por isso.
@@ -950,6 +1008,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Rede de Sensor (Kanchi Denshin)** — Nível 5 · Custo 10 PC
 
 - Requisitos: Sensor 4, Ninjutsu 3.
+- Ações: 3 ações.
 - Parada: Percepção + Prontidão.
 - Descrição: você empresta seus sentidos a todos os aliados ao toque.
 - Efeito: por 1 turno por sucesso, sua equipe inteira ganha os níveis 1 a 3 desta Disciplina pelos seus olhos.
@@ -972,6 +1031,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Mesclar na Sombra (Kage Kakure)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Sombra 2, Ninjutsu 2.
+- Ações: 2 ações.
 - Parada: Destreza + Furtividade contra Percepção + Prontidão de quem procura.
 - Descrição: você some na sombra mais próxima.
 - Efeito: por Nv turnos você fica **invisível** enquanto não atacar. Sensores ainda sentem você.
@@ -979,9 +1039,10 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Golpe Final (Hissatsu)** — Nível 5 · Custo 10 PC
 
 - Requisitos: Sombra 5, Armas Ninja 4, alvo que não viu você.
-- Parada: Destreza + Armas Ninja + 9 − Defesa do alvo (ignora 3 de Defesa).
+- Ações: 3 ações.
+- Parada: Destreza + Armas Ninja + 5 − Defesa do alvo (ignora 3 de Defesa).
 - Descrição: um único corte, no único lugar certo.
-- Efeito: Golpe Oculto com **+9 dados**, ignora 3 de Defesa. Uma vez por cena.
+- Efeito: Golpe Oculto com **+5 dados**, ignora 3 de Defesa (+8 efetivos). Não soma com o passivo Golpe Oculto. Uma vez por cena.
 
 ---
 
@@ -989,7 +1050,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Requisitos:** Inteligência 3, Fuinjutsu 2.
 
 ### Disciplina (níveis 1–5)
-- **1 — Caligrafia Rápida** (passivo): Fuinjutsu de nível 1 e 2 leva 1 ação curta em vez de 1 ação. **+Nv ÷ 2** (arr. cima) dados em Fuinjutsu.
+- **1 — Caligrafia Rápida** (passivo): Fuinjutsu de nível 3 e 4 custa **1 ação a menos**. **+Nv ÷ 2** (arr. cima) dados em Fuinjutsu.
 - **2 — Cargas** (passivo): suas barreiras têm **+Nv PV** extras antes de quebrar.
 - **3 — Selo Preparado** (passivo): você guarda um jutsu até nível 3 num papel. Qualquer um ativa com 1 ação. Até **Nv papéis** prontos por vez.
 - **4 — Selo de Reação** (passivo): suas barreiras podem ser erguidas como **Reação**.
@@ -1001,6 +1062,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Selo de Barreira (Kekkai Fūin)** — Nível 2 · Custo 4 PC
 
 - Requisitos: Mestre de Selos 1, Fuinjutsu 2.
+- Ações: 1 ação.
 - Parada: Inteligência + Fuinjutsu.
 - Descrição: quatro etiquetas e uma parede de luz.
 - Efeito: parede de 3 m com **Defesa 4** e PV = sucessos × 2 (+Nv). Dura a cena.
@@ -1008,6 +1070,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Selo de Supressão (Fūja Hōin)** — Nível 3 · Custo 6 PC
 
 - Requisitos: Mestre de Selos 2, Fuinjutsu 3, toque.
+- Ações: 2 ações.
 - Parada: Destreza + Fuinjutsu + 2 − Defesa do alvo.
 - Descrição: um anel de tinta ao redor de uma marca ou de um fluxo de chakra.
 - Efeito: o alvo perde **Nv PC por turno** por Nv turnos. Contra um Selo Amaldiçoado ([Manual Avançado](./manual-avancado.md)), tranca o selo pela cena.
@@ -1015,6 +1078,7 @@ Técnicas de Kenjutsu são Taijutsu: custam PC igual ao nível.
 **Grande Selamento (Fūinjutsu: Dai Fūin)** — Nível 5 · Custo 10 PC (+2 PV)
 
 - Requisitos: Mestre de Selos 5, Fuinjutsu 5.
+- Ações: 3 ações.
 - Parada: Inteligência + Fuinjutsu (Muito difícil, −4 dados).
 - Descrição: um selo do tamanho de uma sala. Nada que entra sai.
 - Efeito: sele uma criatura, uma Besta ou um jutsu de nível 5 dentro de um objeto. O Narrador define o preço.
@@ -1028,7 +1092,7 @@ Esta Disciplina não tem Técnicas: são **talentos**, sem custo em PC.
 
 ### Disciplina (níveis 1–5)
 - **1 — Olho Tático** (passivo): sua Iniciativa usa Raciocínio em vez de Percepção, se for maior.
-- **2 — Ordem Clara** (talento): ação curta: um aliado ganha **+1 dado** na próxima rolagem. Até **Nv vezes** por cena.
+- **2 — Ordem Clara** (talento): 1 ação: um aliado ganha **+1 dado** na próxima rolagem. Até **Nv vezes** por cena.
 - **3 — Ler o Inimigo** (passivo): após observar um alvo por 1 turno, você sabe Defesa, Vontade e afinidade dele.
 - **4 — Plano** (talento): antes do combate, role Raciocínio + Liderança (Difícil, −2 dados). Cada sucesso é 1 dado que você guarda e entrega a qualquer aliado durante a cena.
 - **5 — Jogada Mestra** (talento): uma vez por cena, sua equipe inteira age primeiro no próximo turno, ignorando a ordem de Iniciativa.
@@ -1044,7 +1108,7 @@ Este capítulo explica **como usar** jutsus e traz as listas gerais. As fórmula
 ## Como usar um jutsu
 1. **Confira o nível.** Você só usa jutsus de nível até o seu máximo (Chakra ÷ 2, arredonde para cima).
 2. **Pague os PC antes de rolar.** Custo padrão: **nível × 2 PC**. Os quatro jutsus básicos custam 1 PC. Técnicas de Taijutsu custam só o **nível**, porque usam o corpo.
-3. **Monte a parada e role.** Usar um jutsu é **1 ação**.
+3. **Monte a parada e role.** Cada jutsu tem um **custo de ações** (linha **Ações** da ficha dele e tabela de Ações do Combate).
    - **Ataque físico ou elemental:** `Atributo + Habilidade + Bônus do Jutsu − Defesa do alvo`. Cada sucesso (8+) tira **1 PV** do alvo.
    - **Genjutsu:** `Manipulação + Genjutsu + Bônus do Jutsu − Vontade do alvo`. Com 1+ sucesso, a ilusão funciona.
 
@@ -1099,10 +1163,11 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 
 ## Ninjutsu
 
-### Nível 1 (Grau D) — custo 2 PC
+### Nível 1 — custo 2 PC
 **Névoa Oculta (Kirigakure no Jutsu)**
 
 - Requisitos: Ninjutsu 1.
+- Ações: 1 ação.
 - Parada: Raciocínio + Ninjutsu.
 - Descrição: uma névoa densa cobre o campo.
 - Efeito: por sucessos × 2 turnos, todos em 20 m têm **−2 dados** para ver e atacar à distância. Você não sofre a penalidade se tiver Furtividade 2.
@@ -1110,6 +1175,7 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Decapitação Interna (Doton: Shinjū Zanshu)**
 
 - Requisitos: Ninjutsu 1, Terra.
+- Ações: 1 ação.
 - Parada: Destreza + Ninjutsu + 2 − Defesa do alvo.
 - Descrição: você anda dentro do chão e puxa o alvo para baixo.
 - Efeito: **+2 dados**. Com 1+ sucesso, além do dano, o alvo fica **Imobilizado** até o pescoço por 2 turnos.
@@ -1117,21 +1183,88 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Grande Bola de Fogo (Katon: Gōkakyū no Jutsu)**
 
 - Requisitos: Ninjutsu 1, Fogo.
+- Ações: 1 ação.
 - Parada: Destreza + Ninjutsu + 2 − Defesa de cada alvo.
 - Descrição: a bola de fogo clássica dos Uchiha, mas qualquer ninja de Fogo aprende.
 - Efeito: **+2 dados** em **área** de 3 m (já reduzido). Acende coisas secas.
 
-### Nível 2 (Grau C) — custo 4 PC
+**Corrida de Chamas (Katon: Hibashiri)**
+
+- Requisitos: Ninjutsu 1, Fogo.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 1 − Defesa de cada alvo.
+- Descrição: uma trilha de fogo corre pelo chão, em linha reta.
+- Efeito: **+1 dado** numa linha de 10 m (já reduzido). Quem sofrer dano fica **Queimando**.
+
+**Palma de Vento (Fūton: Reppūshō)**
+
+- Requisitos: Ninjutsu 1, Vento.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa do alvo.
+- Descrição: um empurrão de ar com a palma da mão.
+- Efeito: **+2 dados**. O alvo é empurrado 5 m e **perde a Reação**.
+
+**Sopro Cortante (Fūton: Kamaitachi)**
+
+- Requisitos: Ninjutsu 1, Vento.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 1 − Defesa do alvo (ignora 1 de Defesa).
+- Descrição: um corte fino e silencioso.
+- Efeito: **+1 dado**, ignora 1 de Defesa (+2 efetivos).
+
+**Tiro de Água (Suiton: Suiteppō)**
+
+- Requisitos: Ninjutsu 1, Água.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa do alvo.
+- Descrição: um jato de água de alta pressão.
+- Efeito: **+2 dados**, alcance 20 m. Apaga fogo pequeno.
+
+**Maré Rasteira (Suiton: Mizurappa)**
+
+- Requisitos: Ninjutsu 1, Água.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 1 − Defesa de cada alvo.
+- Descrição: uma onda baixa que varre os pés.
+- Efeito: **+1 dado** em **área** de 3 m (já reduzido). Quem sofrer dano fica **Caído**.
+
+**Disparo de Pedra (Doton: Ganmon Dan)**
+
+- Requisitos: Ninjutsu 1, Terra.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa do alvo.
+- Descrição: uma pedra lançada com chakra.
+- Efeito: **+2 dados**, alcance 15 m.
+
+**Faísca (Raiton: Hibashi)**
+
+- Requisitos: Ninjutsu 1, Relâmpago.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa do alvo.
+- Descrição: um estalo de eletricidade.
+- Efeito: **+2 dados**, alcance 10 m. O alvo **perde a Reação**.
+
+**Choque de Toque (Raiton: Shokku)**
+
+- Requisitos: Ninjutsu 1, Relâmpago.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 1 − Defesa do alvo (ignora 1 de Defesa, toque).
+- Descrição: um choque direto com a mão.
+- Efeito: **+1 dado**, ignora 1 de Defesa (+2 efetivos). O alvo **perde a Reação**.
+
+### Nível 2 — custo 4 PC
 **Fênix de Fogo (Katon: Hōsenka no Jutsu)**
 
 - Requisitos: Ninjutsu 2, Fogo.
-- Parada: Destreza + Ninjutsu + 3 − Defesa de cada alvo.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa de cada alvo.
 - Descrição: várias bolas de fogo pequenas, às vezes com shuriken escondidas.
-- Efeito: **+3 dados** em até **3 alvos**. Se você gastar shuriken, ignora 1 de Defesa.
+- Efeito: **+2 dados** em até **3 alvos**. Se você gastar shuriken, ignora 1 de Defesa.
 
 **Grande Rajada (Fūton: Daitoppa)**
 
 - Requisitos: Ninjutsu 2, Vento.
+- Ações: 1 ação.
 - Parada: Destreza + Ninjutsu + 2 − Defesa de cada alvo.
 - Descrição: uma parede de vento que varre o campo.
 - Efeito: **+2 dados** em **área** (cone de 10 m). Quem sofrer dano é jogado 5 m para trás e perde a Reação deste turno.
@@ -1139,14 +1272,80 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Parede de Terra (Doton: Doryūheki)**
 
 - Requisitos: Ninjutsu 2, Terra.
+- Ações: 1 ação (ou Reação).
 - Parada: Raciocínio + Ninjutsu. Pode ser **Reação**.
 - Descrição: o chão sobe como um muro.
 - Efeito: um muro de 3 m com **Defesa 4** e PV = sucessos × 2 fica entre você e o perigo por 1 cena (como Reação, soma **+3 à sua Defesa** contra o ataque).
 
-### Nível 3 (Grau B) — custo 6 PC
+**Cinzas Ardentes (Katon: Haisekishō)**
+
+- Requisitos: Ninjutsu 2, Fogo.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa de cada alvo.
+- Descrição: uma nuvem de cinzas quentes que explode ao contato.
+- Efeito: **+2 dados** em **área** de 5 m (já reduzido). Quem sofrer dano **perde a Reação**. Quem já está Queimando perde **+1 PV**.
+
+**Ondas de Vácuo (Fūton: Shinku Renpa)**
+
+- Requisitos: Ninjutsu 2, Vento.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 3 − Defesa de cada alvo.
+- Descrição: lâminas de ar em sequência.
+- Efeito: **+3 dados** em até **2 alvos** em linha. Ignora escudos leves.
+
+**Prisão de Água (Suiton: Suirō)**
+
+- Requisitos: Ninjutsu 2, Água.
+- Ações: 1 ação.
+- Parada: Raciocínio + Ninjutsu + 3 − Defesa do alvo.
+- Descrição: uma esfera de água que prende o alvo.
+- Efeito: **+3 dados**, sem dano. O alvo fica **Imobilizado** por 1 turno por sucesso. Precisa de uma fonte de água.
+
+**Onda Explosiva (Suiton: Suishōha)**
+
+- Requisitos: Ninjutsu 2, Água.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa de cada alvo.
+- Descrição: uma onda que sai da sua boca.
+- Efeito: **+2 dados** em **área** de 10 m (já reduzido). Empurra 5 m. Apaga **Queimando** e fogo de nível até 2.
+
+**Pele de Pedra (Doton: Iwa no Yoroi)**
+
+- Requisitos: Ninjutsu 2, Terra.
+- Ações: 1 ação.
+- Parada: nenhuma.
+- Descrição: a pele se cobre de pedra.
+- Efeito: por 1 cena, **+2 Defesa**, e **−1 dado** em Destreza e Furtividade.
+
+**Lança de Relâmpago (Raiton: Raisō)**
+
+- Requisitos: Ninjutsu 2, Relâmpago.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 3 − Defesa do alvo.
+- Descrição: uma lança de eletricidade.
+- Efeito: **+3 dados**, alcance 15 m. O alvo **perde a Reação**.
+
+**Gaiola de Relâmpagos (Raiton: Raigō)**
+
+- Requisitos: Ninjutsu 2, Relâmpago.
+- Ações: 1 ação.
+- Parada: Destreza + Ninjutsu + 2 − Defesa de cada alvo.
+- Descrição: uma rede de raios em volta.
+- Efeito: **+2 dados** em **área** de 5 m (já reduzido). Os alvos **perdem a Reação**.
+
+**Clone de Água (Suiton: Mizu Bunshin no Jutsu)**
+
+- Requisitos: Ninjutsu 2, Água. Precisa de uma fonte de água.
+- Ações: 1 ação.
+- Parada: Raciocínio + Ninjutsu.
+- Descrição: um clone feito de água, que luta e se desfaz num estouro.
+- Efeito: por 1 cena, 1 clone com **Defesa 3** e **PV = sucessos × 2**. Ele ataca com **5 dados** na sua Iniciativa. Ao ser derrotado, o clone molha o terreno (Lento para quem estiver em 2 m por 1 turno).
+
+### Nível 3 — custo 6 PC
 **Clone das Sombras (Kage Bunshin no Jutsu)**
 
 - Requisitos: Ninjutsu 3, Chakra 5.
+- Ações: 2 ações.
 - Parada: nenhuma.
 - Descrição: um clone de carne e chakra que age sozinho.
 - Efeito: 1 clone **real** com todos os seus traços, mas **1 PV** e metade dos seus PC atuais (você divide). Ele age na sua Iniciativa. Quando some, você recebe o que ele viu. Máximo de clones = Controle de Chakra.
@@ -1154,28 +1353,128 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Dragão de Água (Suiton: Suiryūdan no Jutsu)**
 
 - Requisitos: Ninjutsu 3, Água, fonte de água por perto.
-- Parada: Destreza + Ninjutsu + 5 − Defesa do alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo.
 - Descrição: um dragão de água enorme avança sobre o alvo.
-- Efeito: **+5 dados**. Se causar 2+ PV de dano, o alvo fica **Caído**.
+- Efeito: **+4 dados**. Se causar 2+ PV de dano, o alvo fica **Caído**.
 
 **Dragão de Fogo (Katon: Karyū Endan)**
 
 - Requisitos: Ninjutsu 3, Fogo.
-- Parada: Destreza + Ninjutsu + 5 − Defesa do alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo.
 - Descrição: um jato de chamas em forma de dragão.
-- Efeito: **+5 dados**. O alvo atingido fica **Queimando** (perde 1 PV no fim do próximo turno, a não ser que gaste a ação para apagar).
+- Efeito: **+4 dados**. O alvo atingido fica **Queimando** (perde 1 PV no fim do próximo turno, a não ser que gaste a ação para apagar).
 
-### Nível 4 (Grau A) — custo 8 PC
+**Muralha de Fogo (Katon: Kasumi Kabe)**
+
+- Requisitos: Ninjutsu 3, Fogo.
+- Ações: Reação.
+- Parada: nenhuma. Use como **Reação**.
+- Descrição: um círculo de chamas sobe ao seu redor.
+- Efeito: até o seu próximo turno, **+3 Defesa**. Quem atacar você corpo a corpo fica **Queimando**.
+
+**Bala de Vácuo (Fūton: Shinkūgyoku)**
+
+- Requisitos: Ninjutsu 3, Vento.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 3 − Defesa do alvo (ignora 1 de Defesa, 30 m).
+- Descrição: uma esfera de ar comprimido.
+- Efeito: **+3 dados**, ignora 1 de Defesa (+4 efetivos), alcance 30 m. Atravessa paredes finas.
+
+**Domo de Vento (Fūton: Kaze no Kabe)**
+
+- Requisitos: Ninjutsu 3, Vento.
+- Ações: Reação.
+- Parada: nenhuma. Use como **Reação**.
+- Descrição: um redemoinho em volta de você.
+- Efeito: até o seu próximo turno, **+3 Defesa**. Projéteis (kunai, shuriken) são desviados.
+
+**Tubarão de Água (Suiton: Suikōdan)**
+
+- Requisitos: Ninjutsu 3, Água.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo.
+- Descrição: um tubarão feito de água que persegue o alvo.
+- Efeito: **+4 dados**. Quem sofrer dano fica **Lento** por 1 turno.
+
+**Golem de Terra (Doton: Dorō Gōremu)**
+
+- Requisitos: Ninjutsu 3, Terra.
+- Ações: 2 ações.
+- Parada: Raciocínio + Ninjutsu.
+- Descrição: um boneco de barro gigante.
+- Efeito: por 1 cena, um golem com Defesa 5 e **PV = sucessos × 3**. Ataca com **7 dados** na sua Iniciativa.
+
+**Domo de Terra (Doton: Dojō Dōmu)**
+
+- Requisitos: Ninjutsu 3, Terra.
+- Ações: Reação.
+- Parada: nenhuma. Use como **Reação**.
+- Descrição: uma cúpula de terra se fecha em volta.
+- Efeito: até o seu próximo turno, **+3 Defesa** para você e até 2 aliados adjacentes.
+
+**Lâmina de Relâmpago (Raiton: Raiken)**
+
+- Requisitos: Ninjutsu 3, Relâmpago.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 3 − Defesa do alvo (ignora 1 de Defesa, toque).
+- Descrição: a mão ou arma vira uma lâmina de raio.
+- Efeito: **+3 dados**, ignora 1 de Defesa (+4 efetivos). O alvo **perde a Reação**.
+
+**Armadura de Relâmpago (Raiton: Raikō no Yoroi)**
+
+- Requisitos: Ninjutsu 3, Relâmpago.
+- Ações: 2 ações.
+- Parada: nenhuma.
+- Descrição: a eletricidade corre pelo corpo e acelera os reflexos.
+- Efeito: por 1 cena, **+2 Defesa** e **+3 Iniciativa**. Quem atacar você com Taijutsu perde **1 PV**.
+
+**Dragão de Lama (Doton: Doryūdan)**
+
+- Requisitos: Ninjutsu 3, Terra.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo.
+- Descrição: uma cabeça de dragão de lama cospe projéteis de barro.
+- Efeito: **+4 dados**, alcance 20 m. O terreno em volta vira lama: quem sofrer dano fica **Lento** por 1 turno.
+
+**Bala de Dragão de Fogo (Katon: Karyū Endan)**
+
+- Requisitos: Ninjutsu 3, Fogo.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo.
+- Descrição: chakra e óleo cuspidos numa chama em forma de dragão.
+- Efeito: **+4 dados** em linha de 20 m. O alvo fica **Queimando**. Se você gastar uma dose de óleo (Qualidade 1), ele perde **2 PV** por turno no lugar de 1.
+
+**Descarga de Chidori (Raiton: Chidori Nagashi)**
+
+- Requisitos: Ninjutsu 3, Relâmpago, Controle de Chakra 3.
+- Ações: Reação.
+- Parada: nenhuma. Use como **Reação**, quando alguém atacar você corpo a corpo.
+- Descrição: a eletricidade escorre do seu corpo em todas as direções.
+- Efeito: todos adjacentes sofrem um ataque de Destreza + Ninjutsu + **3** − Defesa (já reduzido, área). Quem sofrer dano **perde a Reação**. Você ganha **+2 Defesa** contra aquele ataque.
+
+**Invocação (Kuchiyose no Jutsu)**
+
+- Requisitos: Ninjutsu 3, contrato com uma tribo (o Narrador decide). Sangue e um selo de mão.
+- Ações: 2 ações.
+- Parada: Raciocínio + Ninjutsu.
+- Descrição: você morde o polegar, bate a mão no chão e um animal enorme aparece.
+- Efeito: por 1 cena, um animal da sua tribo com **Defesa 5**, **PV 12** e ataque de **7 dados** na sua Iniciativa. Ele segue as suas ordens e tem personalidade própria. Cada tribo traz uma especialidade (sapos: água; cobras: veneno; lesmas: cura).
+
+### Nível 4 — custo 8 PC
 **Esfera Espiral (Rasengan)**
 
 - Requisitos: Ninjutsu 4, Controle de Chakra 4. Treino longo (o Narrador decide).
-- Parada: Destreza + Ninjutsu + 7 − Defesa do alvo (ignora 2 de Defesa, toque).
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo (ignora 2 de Defesa, toque).
 - Descrição: uma esfera de chakra puro girando na palma. Não precisa de selos.
-- Efeito: **+7 dados**, ignora 2 de Defesa. Joga o alvo 10 m para trás. Com Vento, vira a base do Rasenshuriken.
+- Efeito: **+4 dados**, ignora 2 de Defesa (+6 efetivos). Joga o alvo 10 m para trás. Com Vento, vira a base do Rasenshuriken.
 
 **Clones das Sombras Múltiplos (Tajū Kage Bunshin no Jutsu)**
 
 - Requisitos: Clone das Sombras, Chakra 7.
+- Ações: 2 ações.
 - Parada: nenhuma.
 - Descrição: dezenas de clones de uma vez.
 - Efeito: até **10 clones** como no Clone das Sombras, cada um com 2 PC. Use as regras de **Bando** (capítulo 10) para eles.
@@ -1183,6 +1482,7 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Grande Dragão de Fogo (Katon: Gōryūka no Jutsu)**
 
 - Requisitos: Ninjutsu 4, Fogo.
+- Ações: 2 ações.
 - Parada: Destreza + Ninjutsu + 6 − Defesa de cada alvo.
 - Descrição: cabeças de dragão feitas de fogo sobem ao céu e aquecem as nuvens.
 - Efeito: **+6 dados** em **área** de 5 m. Após 3 usos na mesma cena, nuvens de tempestade se formam (prepara o Kirin).
@@ -1190,55 +1490,222 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Mil Pássaros (Chidori)**
 
 - Requisitos: Ninjutsu 4, Relâmpago, Controle de Chakra 3. Criado por Kakashi Hatake; ele ensinou a Sasuke. Precisa de um mestre que o saiba.
-- Parada: Destreza + Ninjutsu + 7 − Defesa do alvo (ignora 3 de Defesa, corrida em linha reta).
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 3 − Defesa do alvo (ignora 3 de Defesa, corrida em linha reta).
 - Descrição: relâmpago concentrado na mão e o som de mil pássaros. Um golpe que atravessa.
-- Efeito: **+7 dados**, ignora 3 de Defesa. A velocidade cega você: **−2 dados** na parada, a não ser que tenha Sharingan 1 ou Percepção 4. Com Relâmpago em fluxo, vira a base de **Corrente de Chidori** (crie com o [Manual Avançado](./manual-avancado.md)).
+- Efeito: **+3 dados**, ignora 3 de Defesa (+6 efetivos). A velocidade cega você: **−2 dados** na parada, a não ser que tenha Sharingan 1 ou Percepção 4. Com Relâmpago em fluxo, vira a base de **Corrente de Chidori** (crie com o [Manual Avançado](./manual-avancado.md)).
 
-### Nível 5 (Grau S) — custo 10 PC
+**Flecha de Fogo (Katon: Enka)**
+
+- Requisitos: Ninjutsu 4, Fogo.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo (ignora 2 de Defesa, 30 m).
+- Descrição: uma flecha de chama fina e rápida.
+- Efeito: **+4 dados**, ignora 2 de Defesa (+6 efetivos), alcance 30 m. O alvo fica **Queimando**.
+
+**Grande Lâmina de Vento (Fūton: Dai Kamaitachi)**
+
+- Requisitos: Ninjutsu 4, Vento.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 4 − Defesa do alvo (ignora 2 de Defesa).
+- Descrição: um único corte de 15 m.
+- Efeito: **+4 dados**, ignora 2 de Defesa (+6 efetivos), alcance 15 m.
+
+**Furacão de Corte (Fūton: Tatsumaki)**
+
+- Requisitos: Ninjutsu 4, Vento.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: um furacão pequeno que corta tudo.
+- Efeito: **+5 dados** em **área** de 10 m (já reduzido). Quem sofrer dano fica **Lento** por 1 turno.
+
+**Parede de Água (Suiton: Suijinheki)**
+
+- Requisitos: Ninjutsu 4, Água.
+- Ações: Reação.
+- Parada: nenhuma. Use como **Reação**.
+- Descrição: uma muralha de água se ergue à sua frente.
+- Efeito: contra 1 ataque (inclusive de área): **+4 Defesa**. Apaga fogo.
+
+**Torrente do Dragão (Suiton: Gōsuiryū)**
+
+- Requisitos: Ninjutsu 4, Água.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: um dragão de água que varre a área.
+- Efeito: **+5 dados** em **área** de 5 m (já reduzido). Alvos ficam **Caídos** e **Lentos** por 1 turno.
+
+**Lanças de Pedra (Doton: Iwa Yari)**
+
+- Requisitos: Ninjutsu 4, Terra.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 6 − Defesa do alvo.
+- Descrição: lanças que saem do chão.
+- Efeito: **+6 dados**, alcance 20 m. Com 3+ PV de dano, o alvo fica **Imobilizado**.
+
+**Terremoto (Doton: Chidō Shin)**
+
+- Requisitos: Ninjutsu 4, Terra.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: o chão treme e racha.
+- Efeito: **+5 dados** em **área** de 20 m (já reduzido). Alvos ficam **Caídos** e **Lentos** por 1 turno.
+
+**Chuva de Relâmpagos (Raiton: Kaminari Ame)**
+
+- Requisitos: Ninjutsu 4, Relâmpago.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: raios caem do céu.
+- Efeito: **+5 dados** em **área** de 10 m (já reduzido). Alvos ficam **Lentos** por 1 turno.
+
+**Rio de Lama (Doton: Doryū Taiga)**
+
+- Requisitos: Ninjutsu 4, Terra.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: uma enxurrada de lama que arrasta tudo à frente.
+- Efeito: **+5 dados** em **área** de 15 m (já reduzido). Os alvos ficam **Caídos** e **Lentos** por 2 turnos.
+
+**Lança de Chidori (Raiton: Chidori Eiso)**
+
+- Requisitos: Ninjutsu 4, Relâmpago, Controle de Chakra 4, conhecer o Mil Pássaros.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 3 − Defesa do alvo (ignora 3 de Defesa, 10 m).
+- Descrição: o Chidori vira uma lança que se estica da sua mão.
+- Efeito: **+3 dados**, ignora 3 de Defesa (+6 efetivos), alcance 10 m. Sem a penalidade de visão do Mil Pássaros.
+
+**Esfera Espiral Gigante (Ōdama Rasengan)**
+
+- Requisitos: Ninjutsu 4, Controle de Chakra 4, conhecer a Esfera Espiral.
+- Ações: 2 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa de cada alvo.
+- Descrição: a esfera cresce até o tamanho de um corpo.
+- Efeito: **+5 dados** em **área** de 3 m (já reduzido). Joga os alvos 10 m para trás.
+
+**Portão Rashōmon (Kuchiyose: Rashōmon)**
+
+- Requisitos: Ninjutsu 4, contrato com uma tribo.
+- Ações: Reação.
+- Parada: nenhuma. Use como **Reação**.
+- Descrição: um portão de madeira gigante sobe do chão.
+- Efeito: contra 1 ataque, **+4 Defesa** (mesmo de área). O portão fica como barreira com **10 PV** até o fim da cena.
+
+### Nível 5 — custo 10 PC
 **Shuriken Espiral (Fūton: Rasenshuriken)**
 
 - Requisitos: Rasengan, Vento, Chakra 9.
-- Parada: Destreza + Ninjutsu + 9 − Defesa do alvo (ignora 3 de Defesa). Pode ser lançado (30 m) com Senjutsu 3.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa do alvo (ignora 3 de Defesa). Pode ser lançado (30 m) com Senjutsu 3.
 - Descrição: um Rasengan com lâminas de vento que cortam no nível das células.
-- Efeito: **+9 dados**, ignora 3 de Defesa. O alvo que sobrevive perde **1 dado permanente** em Ninjutsu até cura com Medicina 4.
+- Efeito: **+5 dados**, ignora 3 de Defesa (+8 efetivos). O alvo que sobrevive perde **1 dado permanente** em Ninjutsu até cura com Medicina 4.
 
 **Kirin (Raiton: Kirin)**
 
 - Requisitos: Ninjutsu 5, Relâmpago, nuvens de tempestade (naturais ou de Gōryūka).
-- Parada: Destreza + Ninjutsu + 9 − Defesa do alvo (ignora 3 de Defesa).
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 5 − Defesa do alvo (ignora 3 de Defesa).
 - Descrição: um raio natural guiado pela sua mão. Não há tempo de reagir.
-- Efeito: **+9 dados**, ignora 3 de Defesa. O alvo **não pode usar Esquiva ativa nem Reação**. Custa a cena inteira de nuvens: uma vez por cena.
+- Efeito: **+5 dados**, ignora 3 de Defesa (+8 efetivos). O alvo **não pode usar Esquiva ativa nem Reação**. Custa a cena inteira de nuvens: uma vez por cena.
 
 **Grande Onda Explosiva (Suiton: Dai Bakusui Shōha)**
 
 - Requisitos: Ninjutsu 5, Água, Chakra 9.
+- Ações: 3 ações.
 - Parada: Raciocínio + Ninjutsu + 6 − Defesa de cada alvo.
 - Descrição: você cospe um lago inteiro.
 - Efeito: **+6 dados** em **área** de 30 m. O campo vira água funda por 1 cena: quem não sabe andar na água fica **Lento**, e seus Suiton custam metade.
+
+**Fênix Solar (Katon: Taiyō Hōō)**
+
+- Requisitos: Ninjutsu 5, Fogo.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 8 − Defesa do alvo.
+- Descrição: uma ave de fogo branco que não se apaga com água comum.
+- Efeito: **+8 dados**. O alvo fica **Queimando** e perde **2 PV** por turno em vez de 1.
+
+**Mar de Chamas (Katon: Hi no Umi)**
+
+- Requisitos: Ninjutsu 5, Fogo.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 7 − Defesa de cada alvo.
+- Descrição: o chão vira um lago de fogo.
+- Efeito: **+7 dados** em **área** de 30 m (já reduzido). O terreno queima pela cena: quem entrar fica **Queimando**.
+
+**Tornado Devastador (Fūton: Daitatsumaki)**
+
+- Requisitos: Ninjutsu 5, Vento.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 7 − Defesa de cada alvo.
+- Descrição: um tornado que arranca o chão.
+- Efeito: **+7 dados** em **área** de 30 m (já reduzido). Alvos jogados 20 m ficam **Caídos**.
+
+**Dragão de Mil Cabeças (Suiton: Senshu Suiryū)**
+
+- Requisitos: Ninjutsu 5, Água.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 7 − Defesa de cada alvo.
+- Descrição: centenas de cabeças de dragão feitas de água.
+- Efeito: **+7 dados** em até **5 alvos**. Os alvos ficam **Caídos**.
+
+**Colapso da Montanha (Doton: Yama Kuzushi)**
+
+- Requisitos: Ninjutsu 5, Terra.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 7 − Defesa de cada alvo.
+- Descrição: uma montanha inteira desaba.
+- Efeito: **+7 dados** em **área** de 30 m (já reduzido). Alvos ficam **Imobilizados** por 1 turno.
+
+**Gigante de Pedra (Doton: Iwa Kyojin)**
+
+- Requisitos: Ninjutsu 5, Terra.
+- Ações: 3 ações.
+- Parada: Raciocínio + Ninjutsu.
+- Descrição: um colosso de pedra se levanta.
+- Efeito: por 1 cena, um gigante com Defesa 6 e **PV 20**. Ataca com **12 dados** na sua Iniciativa. Exige **concentração** (1 ação por turno).
+
+**Julgamento do Trovão (Raiton: Raigi Tenbatsu)**
+
+- Requisitos: Ninjutsu 5, Relâmpago.
+- Ações: 3 ações.
+- Parada: Destreza + Ninjutsu + 7 − Defesa de cada alvo.
+- Descrição: um trovão que atinge todos ao mesmo tempo.
+- Efeito: **+7 dados** em **área** de 20 m (já reduzido). Os alvos **perdem a Reação** e **1 ação** no próximo turno.
+
+**Invocação Gigante (Kuchiyose: Daigōshin)**
+
+- Requisitos: Ninjutsu 5, contrato com uma tribo.
+- Ações: 3 ações.
+- Parada: Raciocínio + Ninjutsu.
+- Descrição: um colosso que cobre árvores e prédios.
+- Efeito: por 1 cena, um animal gigante com **Defesa 6**, **PV 25** e ataque de **11 dados** na sua Iniciativa. Você pode montar nele (ele se move por 2 ações do turno dele). Ele fala e pode se recusar a obedecer.
 
 ---
 
 ## Genjutsu
 
-### Nível 1 (Grau D) — custo 2 PC
+### Nível 1 — custo 2 PC
 **Visão do Inferno (Magen: Narakumi no Jutsu)**
 
 - Requisitos: Genjutsu 1.
+- Ações: 1 ação.
 - Parada: Manipulação + Genjutsu + 1 − Vontade do alvo.
 - Descrição: o alvo vê o que mais teme: um ente querido ferido, a própria morte.
-- Efeito: com 1+ sucesso, o alvo perde a próxima ação. Com 3+ sucessos, fica também **Abalado** (−1 dado) pela cena.
+- Efeito: com 1 sucesso, o alvo fica **Abalado** (−1 dado) até o fim do próximo turno dele. Com **2+ sucessos**, perde a próxima ação. Com **4+**, fica Abalado pela cena.
 
 **Servos da Névoa (Magen: Kasumi Jūsha no Jutsu)**
 
 - Requisitos: Genjutsu 1.
+- Ações: 1 ação.
 - Parada: Manipulação + Genjutsu + 1 − Vontade do alvo.
 - Descrição: figuras de névoa cercam o alvo. Golpes atravessam elas.
 - Efeito: por 1 turno por sucesso, o alvo tem **−2 dados** em ataques: ele não sabe quem é real. Você e aliados ganham +1 Defesa contra ele.
 
-### Nível 2 (Grau C) — custo 4 PC
+### Nível 2 — custo 4 PC
 **Morte da Árvore Prisioneira (Magen: Jubaku Satsu)**
 
 - Requisitos: Genjutsu 2.
+- Ações: 1 ação.
 - Parada: Manipulação + Genjutsu + 2 − Vontade do alvo.
 - Descrição: uma árvore cresce ao redor do alvo e você sai do tronco com uma faca.
 - Efeito: o alvo fica **Imobilizado** por 1 turno por sucesso.
@@ -1246,6 +1713,7 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Sinos Ilusórios (Suzu no Genjutsu)**
 
 - Requisitos: Genjutsu 2, sinos ou agulhas com sino.
+- Ações: 1 ação.
 - Parada: Manipulação + Genjutsu + 2 − Vontade do alvo (alcance: quem ouve).
 - Descrição: o som dos sinos entra na mente e cria cópias de você.
 - Efeito: por 1 turno por sucesso, o alvo vê 3 cópias suas e tem **−2 dados** para atacar você. Tapar os ouvidos cancela.
@@ -1253,21 +1721,24 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Visão da Própria Morte (Satsui no Genjutsu)**
 
 - Requisitos: Genjutsu 2, Presença 3.
+- Ações: 1 ação.
 - Parada: Presença + Genjutsu + 2 − Vontade do alvo.
 - Descrição: sua intenção de matar é tão clara que o alvo se vê morto.
 - Efeito: o alvo fica **Abalado** (−1 dado) pela cena e não pode se aproximar de você no próximo turno. Combina com a Pressão de Chakra (capítulo 10): +2 dados nela contra o mesmo alvo.
 
-### Nível 3 (Grau B) — custo 6 PC
+### Nível 3 — custo 6 PC
 **Templo do Nirvana (Nehan Shōja no Jutsu)**
 
 - Requisitos: Genjutsu 3.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 3 − Vontade de **cada alvo** em 30 m.
 - Descrição: penas brancas caem do céu e todos dormem.
-- Efeito: quem sofrer 1+ sucesso **dorme** pela cena ou até sofrer dano. Aliados avisados somam +2 na Vontade contra este jutsu.
+- Efeito: quem sofrer 1+ sucesso **dorme** por 1 turno por sucesso ou até sofrer dano. Aliados avisados somam +2 na Vontade contra este jutsu.
 
 **Flauta Demoníaca: Acordes Ilusórios (Magen: Mugen Onsa)**
 
 - Requisitos: Genjutsu 3, instrumento musical.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 3 − Vontade do alvo (alcance: quem ouve).
 - Descrição: a música mostra a carne se desfazendo dos ossos.
 - Efeito: por 1 turno por sucesso, o alvo fica **Imobilizado** e perde **1 PV por turno** (ilusão tão forte que o corpo sente). Ferir-se de verdade cancela.
@@ -1275,14 +1746,16 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Clone de Corvos (Karasu Bunshin no Jutsu)**
 
 - Requisitos: Genjutsu 3.
+- Ações: Reação.
 - Parada: nenhuma. Use como **Reação**.
 - Descrição: você já não está ali. O que o inimigo golpeou vira um bando de corvos.
 - Efeito: você ganha **+3 Defesa** contra um ataque, aparece a até 10 m e o atacante perde a Reação do próximo turno.
 
-### Nível 4 (Grau A) — custo 8 PC
+### Nível 4 — custo 8 PC
 **Escuridão Total (Kokuangyo no Jutsu)**
 
 - Requisitos: Genjutsu 4.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 4 − Vontade de cada alvo em 20 m.
 - Descrição: a luz some. Só a sua voz e os seus golpes chegam.
 - Efeito: por 1 turno por sucesso, o alvo fica **Cego**: −3 dados em ataque e Defesa −2. Sensores e Byakugan ignoram.
@@ -1290,6 +1763,7 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Choque Branco (Hakugeki no Jutsu)**
 
 - Requisitos: Genjutsu 4.
+- Ações: 2 ações.
 - Parada: Manipulação + Genjutsu + 4 − Vontade de cada alvo em 10 m.
 - Descrição: um clarão e um estrondo que apagam os sentidos.
 - Efeito: o alvo fica **Cego e Surdo** por 1 turno por sucesso.
@@ -1297,21 +1771,24 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 **Ilusão em Camadas (Nijū Genjutsu)**
 
 - Requisitos: Genjutsu 4, Raciocínio 4.
+- Ações: 2 ações.
 - Parada: a de cada Genjutsu.
 - Descrição: dentro da primeira ilusão há outra. Quem Libera a primeira acha que está livre.
-- Efeito: lance **dois Genjutsus** de nível até 3 numa ação (pague os dois). O alvo que Libera o primeiro só descobre o segundo com Percepção + Prontidão (Muito difícil, −4 dados).
+- Efeito: lance **dois Genjutsus** de nível até 3 pelo custo de ações do maior (pague os PC dos dois). O alvo que Libera o primeiro só descobre o segundo com Percepção + Prontidão (Muito difícil, −4 dados).
 
-### Nível 5 (Grau S) — custo 10 PC
+### Nível 5 — custo 10 PC
 **Prisão Mental (Magen: Kyōkoku Fūin)**
 
 - Requisitos: Genjutsu 5, contato visual.
+- Ações: 3 ações.
 - Parada: Manipulação + Genjutsu + 5 − Vontade do alvo.
 - Descrição: você tranca a mente do alvo numa cena que se repete.
-- Efeito: por 1 hora por sucesso, o alvo vive num sonho e não age. Medicina 4 ou a Cura Mental Yamanaka pode retirá-lo. Em combate, ele cai no mesmo turno.
+- Efeito: com 1–2 sucessos, o alvo fica **Paralisado** por 1 turno por sucesso. Com **3+**, vive por 1 hora por sucesso num sonho e não age. Medicina 4 ou a Cura Mental Yamanaka pode retirá-lo. Em combate, ele cai no mesmo turno.
 
 **Visão da Morte Verdadeira (Shinigami no Genjutsu)**
 
 - Requisitos: Genjutsu 5, Presença 5.
+- Ações: 3 ações.
 - Parada: Presença + Genjutsu + 5 − Vontade de cada alvo em 20 m.
 - Descrição: todos veem a própria morte com tanta clareza que o corpo desiste.
 - Efeito: cada sucesso tira **1 PV** direto do alvo (o choque é interno) e ele fica Abalado pela cena. Uma vez por sessão.
@@ -1319,14 +1796,17 @@ Todo ninja formado na Academia sabe estes quatro. Custo: **1 PC** cada.
 ---
 
 ## Taijutsu
+
+**Taijutsu e chakra.** Golpes básicos (socos, chutes, armas) **não gastam PC**. Técnicas de Taijutsu gastam PC igual ao **nível** (metade do Ninjutsu), porque o corpo faz a maior parte do trabalho, e ocupam ações como qualquer jutsu.
 Técnicas de Taijutsu custam **PC igual ao nível**. Elas pedem **Taijutsu** no nível indicado. Impulso de Chakra soma dados a todas.
 
 > As técnicas exclusivas dos **Portões Internos** (*Lótus Primária, Lótus Reversa, Pavão da Manhã, Tigre do Meio-Dia* e *Elefante da Noite*) estão no **[Manual Avançado](./manual-avancado.md)**.
 
-### Nível 1 (Grau D) — custo 1 PC
+### Nível 1 — custo 1 PC
 **Furacão da Folha (Konoha Senpū)**
 
 - Requisitos: Taijutsu 1.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 2 − Defesa de cada alvo.
 - Descrição: um chute giratório baixo seguido de um alto.
 - Efeito: **+2 dados** em até **2 alvos** adjacentes. Quem sofre dano fica **Caído**.
@@ -1334,6 +1814,7 @@ Técnicas de Taijutsu custam **PC igual ao nível**. Elas pedem **Taijutsu** no 
 **Dança da Sombra da Folha (Kage Buyō)**
 
 - Requisitos: Taijutsu 1, Atletismo 2.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 2 − Defesa do alvo.
 - Descrição: um chute joga o alvo para o ar e você aparece atrás dele.
 - Efeito: com 1+ sucesso, o alvo fica no ar até o fim do turno: **Defesa −2** contra o seu próximo ataque. Base de vários golpes aéreos.
@@ -1341,36 +1822,49 @@ Técnicas de Taijutsu custam **PC igual ao nível**. Elas pedem **Taijutsu** no 
 **Rajada da Folha (Konoha Reppū)**
 
 - Requisitos: Taijutsu 1.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 2 − Defesa do alvo.
 - Descrição: uma rasteira rápida e forte.
 - Efeito: **+2 dados**. Se causar dano, o alvo fica **Caído** e você pode se afastar 3 m sem perder ação.
 
-### Nível 2 (Grau C) — custo 2 PC
+**Mil Anos de Dor (Sennen Goroshi)**
+
+- Requisitos: Taijutsu 1.
+- Ações: 1 ação.
+- Parada: Destreza + Taijutsu + 1 − Defesa do alvo (toque).
+- Descrição: dois dedos juntos, um golpe humilhante nas costas.
+- Efeito: **+1 dado**. Com 1+ PV de dano, o alvo fica **Abalado** (−1 dado) até o fim do próximo turno dele.
+
+### Nível 2 — custo 2 PC
 **Punho Forte (Gōken)**
 
 - Requisitos: Taijutsu 2, Força 3.
-- Parada: nenhuma (ativa na ação curta).
+- Ações: 1 ação.
+- Parada: nenhuma (ativa com 1 ação).
 - Descrição: o estilo de Might Guy. Quebra ossos, não pontos de chakra.
 - Efeito: por 1 cena, seus socos e chutes ganham **+1 dado** e ignoram 1 de Defesa.
 
 **Combo do Leão (Shishi Rendan)**
 
 - Requisitos: Taijutsu 2, Dança da Sombra da Folha.
-- Parada: Destreza + Taijutsu + 4 − Defesa do alvo (alvo no ar).
+- Ações: 1 ação.
+- Parada: Destreza + Taijutsu + 3 − Defesa do alvo (alvo no ar).
 - Descrição: uma sequência de golpes no ar que termina com um calcanhar no chão.
-- Efeito: **+4 dados** e o alvo fica Caído.
+- Efeito: **+3 dados** e o alvo fica Caído.
 
 **Entrada Dinâmica (Dainamikku Entorī)**
 
 - Requisitos: Taijutsu 2.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 3 − Defesa do alvo.
 - Descrição: um chute voador antes que o inimigo perceba que você chegou.
 - Efeito: no primeiro turno do combate, você age primeiro (ignorando a Iniciativa), ataca com **+3 dados** e o alvo perde a Reação.
 
-### Nível 3 (Grau B) — custo 3 PC
+### Nível 3 — custo 3 PC
 **Grande Furacão da Folha (Konoha Dai Senpū)**
 
 - Requisitos: Taijutsu 3.
+- Ações: 1 ação.
 - Parada: Destreza + Taijutsu + 4 − Defesa de cada alvo.
 - Descrição: a versão completa do Furacão: um giro que limpa a área.
 - Efeito: **+4 dados** em **área** (todos adjacentes a você). Quem sofre dano fica Caído.
@@ -1378,25 +1872,60 @@ Técnicas de Taijutsu custam **PC igual ao nível**. Elas pedem **Taijutsu** no 
 **Punho Bêbado (Suiken)**
 
 - Requisitos: Taijutsu 3, álcool (ou corpo que reage a ele).
+- Ações: 1 ação.
 - Parada: nenhuma.
 - Descrição: movimentos imprevisíveis. O corpo luta sem a mente.
 - Efeito: por 1 cena, você soma **+2 dados** em Taijutsu, **+1 na Defesa** e **+1 na Vontade** contra Genjutsu. Você não pode usar outras técnicas enquanto bêbado.
 
-### Nível 4 (Grau A) — custo 4 PC
+### Nível 4 — custo 4 PC
 **Impacto da Flor de Cerejeira (Ōkashō)**
 
 - Requisitos: Taijutsu 4, Controle de Chakra 4, Força 3.
-- Parada: Destreza + Taijutsu + 7 − Defesa do alvo.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 6 − Defesa do alvo.
 - Descrição: todo o chakra solto na mão no instante do impacto. O chão racha.
-- Efeito: **+7 dados**. Se bater no chão, **área** de 10 m: todos rolam Destreza + Atletismo (Difícil, −2 dados) ou ficam Caídos e Imobilizados por 1 turno nos escombros.
+- Efeito: **+6 dados**. Se bater no chão, **área** de 10 m: todos rolam Destreza + Atletismo (Difícil, −2 dados) ou ficam Caídos e Imobilizados por 1 turno nos escombros.
 
-### Nível 5 (Grau S) — custo 5 PC
+**Lótus Primária (Omote Renge)**
+
+- Requisitos: Taijutsu 4, Portão 1 aberto.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 5 − Defesa do alvo.
+- Descrição: você levanta o alvo no ar, gira e o joga de cabeça no chão.
+- Efeito: **+5 dados**. O alvo fica **Caído**. Você perde **1 PV** do esforço.
+
+**Pavão da Manhã (Asa Kujaku)**
+
+- Requisitos: Taijutsu 4, Portão 6 aberto.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 5 − Defesa de cada alvo.
+- Descrição: socos tão rápidos que o ar pega fogo.
+- Efeito: **+5 dados** em **área** de 10 m (já reduzido). Os alvos ficam **Queimando**. Você perde **2 PV**.
+
+### Nível 5 — custo 5 PC
 **Chute Celestial (Tsūtenkyaku)**
 
 - Requisitos: Taijutsu 5, Controle de Chakra 5, Força 4.
-- Parada: Destreza + Taijutsu + 9 − Defesa do alvo principal (+6 em área de 15 m).
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 8 − Defesa do alvo principal (+6 em área de 15 m).
 - Descrição: um calcanhar que cai do céu e abre o chão como se fosse papel.
-- Efeito: **+9 dados** no alvo principal e **+6 dados** em **área** de 15 m para os demais. O terreno vira escombros pela cena.
+- Efeito: **+8 dados** no alvo principal e **+6 dados** em **área** de 15 m para os demais. O terreno vira escombros pela cena.
+
+**Lótus Reversa (Ura Renge)**
+
+- Requisitos: Taijutsu 5, Portão 5 aberto.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 8 − Defesa do alvo.
+- Descrição: uma sequência de golpes em alta velocidade, de baixo para o alto.
+- Efeito: **+8 dados**. O alvo fica **Caído** e **perde a Reação**. Você perde **3 PV** e fica **Lento** por 1 turno.
+
+**Tigre Diurno (Hirudora)**
+
+- Requisitos: Taijutsu 5, Portão 7 aberto.
+- Ações: 2 ações.
+- Parada: Destreza + Taijutsu + 8 − Defesa do alvo.
+- Descrição: um soco que comprime o ar numa forma de tigre.
+- Efeito: **+8 dados**, alcance 30 m. Você perde **3 PV** e fica sem Reação até o próximo turno.
 
 ---
 
@@ -1405,10 +1934,11 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 
 > Os selos ligados a **Bestas com Cauda** (*Selo de Quatro Símbolos, Selo dos Oito Trigramas*) e o **Selo Amaldiçoado** estão no **[Manual Avançado](./manual-avancado.md)**.
 
-### Nível 1 (Grau D) — custo 2 PC
+### Nível 1 — custo 2 PC
 **Palma Mística (Shōsen Jutsu)**
 
 - Requisitos: Medicina 2.
+- Ações: 1 ação.
 - Parada: Inteligência + Medicina (1 turno de toque).
 - Descrição: chakra verde que acelera o corpo a se curar.
 - Efeito: cada sucesso cura **1 PV** (com **Medicina 4**, soma **+2 PV** ao total curado). Não cura dano de Portões nem Desgaste Ocular.
@@ -1416,6 +1946,7 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 **Etiqueta Explosiva (Kibaku Fuda)**
 
 - Requisitos: Fuinjutsu 1.
+- Ações: 1 ação.
 - Parada: Inteligência + Fuinjutsu para preparar (fora de combate); Destreza + Armas Ninja + 2 − Defesa de cada alvo para lançar.
 - Descrição: papel com um selo que explode ao receber chakra.
 - Efeito: você prepara 1 etiqueta por sucesso por dia. Cada uma ataca com **+2 dados** em **área** de 2 m. Pode ser presa a kunai.
@@ -1423,21 +1954,24 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 **Corpo Instantâneo (Shunshin no Jutsu)**
 
 - Requisitos: Ninjutsu 1 ou Controle de Chakra 2.
+- Ações: 1 ação.
 - Parada: nenhuma.
 - Descrição: você some num borrão e aparece a metros dali.
-- Efeito: mova-se até 20 m como **ação curta**. Não é teletransporte: paredes param você. Se usar para fugir, inimigos perdem a Reação contra você neste turno.
+- Efeito: mova-se até 20 m com **1 ação**. Não é teletransporte: paredes param você. Se usar para fugir, inimigos perdem a Reação contra você neste turno.
 
-### Nível 2 (Grau C) — custo 4 PC
+### Nível 2 — custo 4 PC
 **Bisturi de Chakra (Chakra no Mesu)**
 
 - Requisitos: Medicina 3.
-- Parada: Destreza + Taijutsu + 3 − Defesa do alvo (ignora 1 de Defesa).
+- Ações: 1 ação.
+- Parada: Destreza + Taijutsu + 2 − Defesa do alvo (ignora 1 de Defesa).
 - Descrição: a mão vira uma lâmina de chakra que corta por dentro, sem abrir a pele.
-- Efeito: por 1 cena, seus golpes de mão nua têm **+3 dados**, ignoram 1 de Defesa (2 com **Medicina 4**) e, com 2+ sucessos, cortam um tendão: o alvo perde 1 dado em Destreza ou Força até receber cura.
+- Efeito: por 1 cena, seus golpes de mão nua têm **+2 dados**, ignoram 1 de Defesa (2 com **Medicina 4**) e, com 2+ sucessos, cortam um tendão: o alvo perde 1 dado em Destreza ou Força até receber cura.
 
 **Extração de Veneno (Saikan Chūshutsu no Jutsu)**
 
 - Requisitos: Medicina 3.
+- Ações: 1 ação.
 - Parada: Inteligência + Medicina − Qualidade do veneno.
 - Descrição: você puxa o veneno do corpo com água guiada por chakra.
 - Efeito: com 1+ sucesso, remove o veneno (leva 3 turnos). Com o veneno em mãos, você pode criar o antídoto com Medicina (Difícil, −2 dados).
@@ -1445,14 +1979,16 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 **Selo de Armazenagem (Mono Fūin)**
 
 - Requisitos: Fuinjutsu 2.
+- Ações: 1 ação.
 - Parada: Inteligência + Fuinjutsu, fora de combate.
 - Descrição: um pergaminho guarda armas, água ou até uma pessoa ferida.
-- Efeito: um pergaminho guarda até sucessos × 50 kg. Tirar algo de dentro é ação curta. Guardar leva 1 turno.
+- Efeito: um pergaminho guarda até sucessos × 50 kg. Tirar algo de dentro custa 1 ação. Guardar leva 1 turno.
 
-### Nível 3 (Grau B) — custo 6 PC
+### Nível 3 — custo 6 PC
 **Selo dos Cinco Elementos (Gogyō Fūin)**
 
 - Requisitos: Fuinjutsu 3.
+- Ações: 2 ações.
 - Parada: Destreza + Fuinjutsu + 2 − Defesa do alvo (toque com os cinco dedos).
 - Descrição: cinco marcas de chakra que bagunçam o fluxo do alvo.
 - Efeito: com 1+ sucesso, o alvo sofre **−2 dados em todas as rolagens com Chakra** e não usa a Disciplina Besta com Cauda. Dura até um **Desfazer dos Cinco Elementos (Gogyō Kaiin)** (mesmo nível, Inteligência + Fuinjutsu, Difícil −2 dados).
@@ -1460,6 +1996,7 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 **Selar Fogo (Fūka Hōin)**
 
 - Requisitos: Fuinjutsu 3.
+- Ações: 2 ações (ou Reação).
 - Parada: Inteligência + Fuinjutsu. Pode ser **Reação** com Fuinjutsu 4.
 - Descrição: um pergaminho suga chamas, mesmo as negras.
 - Efeito: com 1+ sucesso, sela um jutsu de Fogo de nível até 4 (para Amaterasu ou nível 5, a rolagem é Muito difícil, −4 dados).
@@ -1467,29 +2004,49 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 **Choque Nervoso (Ranshinshō)**
 
 - Requisitos: Medicina 4.
+- Ações: 2 ações.
 - Parada: Destreza + Taijutsu + 3 − Defesa do alvo (toque).
 - Descrição: um choque elétrico embaralha os nervos: a perna mexe quando o alvo quer mexer o braço.
 - Efeito: por 1 turno por sucesso, o alvo tem **−3 dados** em tudo que é físico.
 
-### Nível 4 (Grau A) — custo 8 PC
+**Correntes de Chakra (Kongō Fūsa)**
+
+- Requisitos: Fuinjutsu 3, Controle de Chakra 3.
+- Ações: 2 ações.
+- Parada: Raciocínio + Fuinjutsu + 4 − Defesa do alvo.
+- Descrição: correntes de chakra saem das suas costas e prendem o alvo.
+- Efeito: **+4 dados**, sem dano. O alvo fica **Imobilizado** por 1 turno por sucesso e perde **1 PC** por turno enquanto preso. Também segura criaturas de chakra.
+
+### Nível 4 — custo 8 PC
 **Formação Violeta de Chamas (Shishienjin)**
 
 - Requisitos: Fuinjutsu 4, **quatro** ninjas com Fuinjutsu 2.
+- Ações: 2 ações.
 - Parada: Inteligência + Fuinjutsu do líder.
 - Descrição: quatro ninjas erguem uma caixa de fogo roxo. Nada entra, nada sai.
 - Efeito: barreira de 20 m com **Defesa 5** e PV = sucessos × 5. Quem toca perde **3 PV**. Dura enquanto os quatro ficarem parados.
 
-### Nível 5 (Grau S) — custo 10 PC
+**Criação de Renascimento (Sōzō Saisei)**
+
+- Requisitos: Medicina 4, Controle de Chakra 4.
+- Ações: 2 ações.
+- Parada: Inteligência + Medicina (toque, 1 turno).
+- Descrição: uma técnica de cura que acelera as células.
+- Efeito: cada sucesso cura **2 PV**. Também recompõe um membro perdido, com 3+ sucessos. O alvo sofre cansaço: **−1 dado** até o fim da cena.
+
+### Nível 5 — custo 10 PC
 **Selo do Ceifador (Shiki Fūjin)**
 
 - Requisitos: Fuinjutsu 5, Vontade 5.
+- Ações: 3 ações.
 - Parada: Inteligência + Fuinjutsu + 5 − Vontade do alvo (toque).
 - Descrição: você chama o deus da morte. Ele leva a alma do alvo e a sua.
-- Efeito: com 1+ sucesso, o alvo **morre** ou perde para sempre o que você escolher (um jutsu, uma Disciplina, os braços). Você também morre ao fim da cena. Com 3+ sucessos, você escolhe dois alvos.
+- Efeito: com **3+ sucessos**, o alvo **morre** ou perde para sempre o que você escolher (um jutsu, uma Disciplina, os braços). Você também morre ao fim da cena. Com 5+ sucessos, você escolhe dois alvos. Com 1–2 sucessos, o alvo perde todos os PC.
 
 **Deus do Trovão Voador (Hiraishin no Jutsu)**
 
 - Requisitos: Fuinjutsu 5, Ninjutsu 4, Chakra 9.
+- Ações: 3 ações.
 - Parada: nenhuma para se mover. Destreza + Fuinjutsu para marcar um alvo (toque ou kunai).
 - Descrição: um selo de espaço-tempo. Você aparece onde há uma marca sua, sem tempo entre um lugar e outro.
 - Efeito: mova-se para qualquer marca sua como **ação livre**, até Controle de Chakra vezes por turno. Marcas duram para sempre. Seu primeiro ataque após o salto ignora **2 de Defesa** do alvo. Custo: 2 PC por salto depois do primeiro no turno.
@@ -1497,6 +2054,7 @@ Selos usam **Inteligência + Fuinjutsu**. Cura usa **Inteligência + Medicina**.
 **Selo da Força de Cem (Byakugō no In)** — Nível 5 · Custo 0 (veja o efeito)
 
 - Requisitos: Medicina 5, Controle de Chakra 5, Chakra 9. Três anos de treino na história.
+- Ações: 3 ações.
 - Parada: nenhuma. Ação livre para liberar.
 - Descrição: um losango na testa. Anos de chakra guardado, soltos de uma vez.
 - Efeito: fora de combate, você guarda **até 30 PC** no selo (1 ponto por dia). Ao liberar, por 1 cena você **regenera 2 PV por turno** sem ação e soma os PC do selo aos seus. Uma vez por campanha, ao cair a 0 PV, você volta imediatamente com **5 PV**. Ao fim, você envelhece visivelmente até descansar uma semana.
@@ -1546,37 +2104,45 @@ O papel de chakra mostra: queima (Fogo), corta (Vento), amassa (Relâmpago), vir
 
 # Capítulo 8: Equipamento
 
-Equipamento tem **Qualidade** de 0 a 5. Não use a palavra "nível" para itens. Qualidade define o preço e o bônus na sua parada de dados.
+Equipamento tem **Qualidade** de 0 a 5. Não use a palavra "nível" para itens. A Qualidade define o **acesso** (veja **Recursos**, abaixo) e o bônus na sua parada de dados. Dinheiro não tem regras.
 
 ## Qualidade
 
-| Qualidade | O que é | Custo (ryō) | Bônus na parada |
+| Qualidade | O que é | Recursos mínimo | Bônus na parada |
 |---|---|---|---|
 | 0 | Improvisado | — | −1 dado |
-| 1 | Comum da loja | 100 | 0 |
-| 2 | Boa feitura | 500 | +1 dado |
-| 3 | Obra de mestre | 2.000 | +2 dados |
-| 4 | Lendário | 10.000 | +3 dados |
-| 5 | Artefato | não se compra | veja o [Manual Avançado](./manual-avancado.md) |
+| 1 | Comum | 0 | 0 |
+| 2 | Boa feitura | 1 | +1 dado |
+| 3 | Obra de mestre | 2 | +1 dado |
+| 4 | Lendário | 3 | +2 dados |
+| 5 | Artefato | 5, com aprovação | veja o [Manual Avançado](./manual-avancado.md) |
 
-Na criação você tem o **Conjunto Ninja** (Qualidade 1) de graça: 10 kunai, 10 shuriken, 3 etiquetas explosivas, arame, pergaminho, estojo básico de cura. O Antecedente **Equipamento** (capítulo 9) dá itens de Qualidade maior.
+Na criação você tem o **Conjunto Ninja** (Qualidade 1) de graça: 10 kunai, 10 shuriken, 3 etiquetas explosivas, arame, pergaminho, estojo básico de cura. O Antecedente **Recursos** (capítulo 9) dá acesso a itens de Qualidade maior.
+
+## Recursos (acesso a equipamento)
+Você não compra itens. O seu **Recursos** (0 a 5, capítulo 9) diz a que equipamento você tem acesso.
+- **Qualidade máxima = Recursos + 1.** Recursos 5 libera Artefatos, com aprovação do Narrador.
+- **Carga:** você leva até **3 + Recursos** itens especiais por missão.
+- **Consumíveis** (etiquetas, venenos, pílulas) acabam ao usar e voltam no início da próxima missão.
+- **Pedir algo melhor:** um item de **1 Qualidade acima** do seu limite, uma vez por missão. Dê um bom motivo e role **Manipulação + Lábia** (Difícil, −2 dados).
+- **Perda:** itens quebrados ou roubados voltam depois da missão, exceto Artefatos.
 
 ## Armas
 O bônus da arma **soma dados** na sua parada de ataque (`Destreza + Armas Ninja + Bônus da Arma − Defesa do alvo`). Cada sucesso tira 1 PV.
 
 | Arma | Bônus de Ataque | Alcance | Nota |
 |---|---|---|---|
-| Soco e chute | +Força ÷ 2 (arr. cima), máx. +3 | Toque | Taijutsu. |
-| Kunai | +2 dados | Toque ou 10 m | Serve para parar lâminas. |
+| Soco e chute | +Força ÷ 2 (arr. cima), máx. +2 | Toque | Taijutsu. |
+| Kunai | +1 dado | Toque ou 10 m | Serve para parar lâminas. |
 | Shuriken | +1 dado | 15 m | Até 3 por ação (−1 dado por extra). |
 | Senbon (agulha) | +1 dado | 10 m | Ignora 1 de Defesa. Carrega veneno sem perder. |
-| Tantō (faca curta) | +3 dados | Toque | Silenciosa. +1 dado em Furtividade para emboscar. |
-| Katana | +4 dados | Toque | Exige Armas Ninja 2. |
-| Fūma Shuriken | +4 dados | 20 m | 1 por ação. Volta se tiver arame. |
-| Kusarigama (foice com corrente) | +3 dados | 5 m | Pode prender (Imobilizado com 2+ sucessos). |
-| Bastão | +3 dados | 2 m | +1 Defesa quando você não ataca. |
-| Arco | +3 dados | 50 m | Raro entre ninjas. |
-| Espadas grandes (Zanbatō) | +5 dados | Toque | Exige Força 3. −1 na Defesa. |
+| Tantō (faca curta) | +2 dados | Toque | Silenciosa. +1 dado em Furtividade para emboscar. |
+| Katana | +3 dados | Toque | Exige Armas Ninja 2. |
+| Fūma Shuriken | +3 dados | 20 m | 1 por ação. Volta se tiver arame. |
+| Kusarigama (foice com corrente) | +2 dados | 5 m | Pode prender (Imobilizado com 2+ sucessos). |
+| Bastão | +2 dados | 2 m | +1 Defesa quando você não ataca. |
+| Arco | +2 dados | 50 m | Raro entre ninjas. |
+| Espadas grandes (Zanbatō) | +4 dados | Toque | Exige Força 3. −1 na Defesa. |
 | Etiqueta explosiva | +2 dados, área 2 m | Lançada | Fuinjutsu 1 para fazer. |
 | Bomba de fumaça | — | 5 m | −2 dados para ver dentro por 3 turnos. |
 
@@ -1588,18 +2154,18 @@ O bônus da arma **soma dados** na sua parada de ataque (`Destreza + Armas Ninja
 | Armadura leve de placas | +2 | −1 dado em Furtividade |
 | Armadura de samurai | +3 | −1 dado em Destreza e Furtividade |
 
-Lembre: a Defesa total **nunca passa de 8** (capítulo 2).
+Lembre: bônus temporários de Defesa **não se somam** (capítulo 2).
 
 ## Venenos
 Veneno tem **Qualidade** 1 a 5. O veneno age quando a arma causa pelo menos 1 PV de dano. Para resistir, o alvo rola **Vigor + Controle de Chakra − Qualidade do veneno** (um Mestre de Venenos reduz ainda mais essa parada, veja o [Manual Avançado](./manual-avancado.md)).
 
-| Qualidade | Nome | Efeito se falhar (0 sucessos) | Custo (ryō) |
+| Qualidade | Nome | Efeito se falhar (0 sucessos) | Recursos mínimo |
 |---|---|---|---|
-| 1 | Sonífero fraco | −1 dado em tudo por 3 turnos. | 50 |
-| 2 | Paralisante | Lento por 3 turnos. | 200 |
-| 3 | Tóxico | Perde 1 PV por turno por 5 turnos. | 800 |
-| 4 | Neurotóxico | Paralisado por 2 turnos, depois Lento até cura. | 3.000 |
-| 5 | Veneno de Sasori | Perde 1 PV por turno por 1 cena, e morte em 3 dias sem antídoto de Medicina 4. | não se compra |
+| 1 | Sonífero fraco | −1 dado em tudo por 3 turnos. | 0 |
+| 2 | Paralisante | Lento por 3 turnos. | 1 |
+| 3 | Tóxico | Perde 1 PV por turno por 5 turnos. | 2 |
+| 4 | Neurotóxico | Paralisado por 2 turnos, depois Lento até cura. | 3 |
+| 5 | Veneno de Sasori | Perde 1 PV por turno por 1 cena, e morte em 3 dias sem antídoto de Medicina 4. | 5, com aprovação |
 
 **Antídoto:** Inteligência + Medicina − Qualidade do veneno, com 1 hora e ingredientes. Pronto, cura em 1 turno.
 
@@ -1635,7 +2201,7 @@ Antecedentes são o que você tem **fora da ficha**: pessoas, posição, coisas.
 |---|---|---|---|---|---|
 | **Mentor** | Um Chunin responde dúvidas. | Um Jounin treina você às vezes. +1 dado em um treino por sessão. | Um Jounin de elite. Ensina um jutsu de nível 3 por arco. | Um Sannin ou Kage aposentado. Ensina Disciplinas raras. | Uma lenda viva. Portas que não existem se abrem. |
 | **Equipe** | Dois colegas Genin. | Colegas confiáveis com um jutsu útil cada. | Uma equipe Chunin que age sem você. | Um esquadrão Jounin que atende a um chamado por arco. | Um grupo que mudaria uma guerra. |
-| **Equipamento** | Conjunto Ninja Qualidade 2. | Uma arma Qualidade 3. | Armadura ou arma Qualidade 4. | Dois itens Qualidade 4. | Um Artefato (com aprovação). |
+| **Recursos** | Acesso a itens de Qualidade 2. | Acesso até Qualidade 3. | Acesso até Qualidade 4. | Qualidade 4, e mais 1 item especial por missão. | Um Artefato (com aprovação). |
 | **Fama** | Conhecido na vila. | Conhecido na região. +1 dado em Lábia com quem o reconhece. | Conhecido no país. | Tem página no Livro Bingo. +2 dados em Intimidação. | Lenda viva. Pessoas fogem ou se ajoelham. |
 | **Contatos** | Um informante. | Contatos em duas vilas. | Uma rede. Uma informação por sessão sem rolagem. | Contatos em todos os países. | Conhece segredos de Kages. |
 | **Aliados** | Um amigo que ajuda sem perguntar. | Um Chunin leal. | Um Jounin leal. | Um clã inteiro. | Um Kage. |
@@ -1657,18 +2223,33 @@ As fórmulas estão no capítulo 2. Aqui está a **ordem** das coisas e as regra
 ## Sequência de combate
 1. **Surpresa.** Quem não viu o inimigo rola Percepção + Prontidão contra Destreza + Furtividade dele. Quem falha tem **Defesa 0** (mantém só armadura) no primeiro turno e não age.
 2. **Iniciativa fixa.** Compare a **Iniciativa** (`Percepção + Prontidão`) de cada participante. Não há rolagem: o maior age primeiro, sempre.
-3. **Turno.** Na sua vez: **1 ação**, **1 ação curta** e **movimento** (10 m, ou 20 m com Atletismo 3). Você ainda tem **1 Reação** por rodada, para usar fora da sua vez.
+3. **Turno.** Na sua vez você tem **3 ações**. Gaste-as como quiser, na ordem que quiser. No início do turno, você também **recupera 1 Reação**, que serve fora da sua vez.
 4. **Fim da rodada.** Aplique queimaduras, venenos e durações.
 
 ### Ações
+Cada ato custa **ações**, além de PC quando houver. Você não guarda ações para o próximo turno.
 
-| Tipo | Exemplos |
+| Ato | Custo |
 |---|---|
-| **Ação** | Atacar, usar jutsu, Defesa Total (+4 na Defesa até o próximo turno, fica sem ação), estabilizar alguém, abrir um Portão. |
-| **Ação curta** | Sacar arma, beber pílula, falar uma ordem (Estrategista), Corpo Instantâneo, mirar (+1 dado no próximo ataque). |
-| **Movimento** | 10 m. Correr: gaste a ação e ande 30 m. |
-| **Reação** | Esquiva ativa (+2 Defesa contra 1 ataque), Substituição, Parede de Terra. **Uma por rodada, sem rolar dados.** |
-| **Livre** | Falar uma frase, soltar algo, Hiraishin. |
+| Atacar (arma, soco, chute) | 1 ação |
+| Mover (10 m, ou 20 m com Atletismo 3) | 1 ação |
+| Jutsu de nível 1–2 | 1 ação |
+| Jutsu de nível 3–4 | 2 ações |
+| Jutsu de nível 5 | 3 ações |
+| Técnica de Taijutsu nível 1–3 | 1 ação |
+| Técnica de Taijutsu nível 4–5 | 2 ações |
+| Defesa Total: **+2 Defesa** até o início do seu próximo turno | 1 ação |
+| Sacar arma, beber pílula, levantar, Pressão de Chakra | 1 ação |
+| Mirar: **+2 dados** no próximo ataque à distância neste turno | 1 ação |
+| Ajudar: **+2 dados** a um aliado (selo, cura, escapar) | 1 ação |
+| Estabilizar alguém, abrir um Portão | 1 ação |
+| Manter um jutsu de **concentração** | 1 ação por turno |
+| Falar uma frase, soltar algo, Impulso de Chakra, ativar um poder passivo | Livre |
+| Esquiva ativa (**+2 Defesa** contra 1 ataque), Substituição, Parede de Terra, jutsus de **Reação** | **Reação** |
+
+- O custo de ações de cada jutsu está na ficha dele (linha **Ações**). Jutsus de **Reação** não gastam ações do turno.
+- **Uma Reação por rodada.** Ela volta no início do seu turno.
+- Efeitos como **Lento** tiram ações. **Paralisado** e **Dormindo** tiram todas.
 
 ### Ataque passo a passo (Rolagem Única)
 1. Pague os **PC**, se for jutsu ou Impulso.
@@ -1678,17 +2259,17 @@ As fórmulas estão no capítulo 2. Aqui está a **ordem** das coisas e as regra
 5. **Cada sucesso tira 1 Ponto de Vida (PV)** direto do alvo e aplica as condições do jutsu.
 
 ### Múltiplos ataques
-Você só ataca mais de uma vez por ação se uma técnica permitir (Kenjutsu 5, Presa Dupla, Elefante da Noite). Fora isso, **um ataque por ação**. Isso mantém o jogo rápido.
+Você pode atacar quantas vezes tiver ações. O **2º ataque** do turno tem **−2 dados** e o **3º**, **−4**. Isso vale para armas, Taijutsu e jutsus. Técnicas que dão vários ataques dizem como se aplicam.
 
 ### Combate em grupo
 - **Flanquear:** dois ou mais atacando o mesmo alvo dão **+1 dado** a cada um. Máximo +2.
 - **Proteger:** gaste sua Reação para entrar na frente de um aliado adjacente. Você recebe o ataque (usando a sua Defesa).
-- **Ajudar:** gaste sua ação para dar **+2 dados** a um aliado numa rolagem que não seja de ataque (selo, cura, escapar).
+- **Ajudar:** gaste **1 ação** para dar **+2 dados** a um aliado numa rolagem que não seja de ataque (selo, cura, escapar).
 
 ## Pressão de Chakra
 A "intenção de matar". Um ninja forte paralisa um fraco só com a presença.
 
-- **Ação curta.** Role **Presença + Intimidação − Vontade de cada alvo** em 20 m.
+- **1 ação.** Role **Presença + Intimidação − Vontade de cada alvo** em 20 m.
 - Com **1 ou 2 sucessos**, o alvo fica **Abalado** (−1 dado) pela cena. Com **3 ou mais sucessos**, fica **Paralisado** por 1 turno.
 - Só funciona contra quem tem **Chakra menor** que o seu. Contra Chakra igual ou maior, você sofre −3 dados.
 - Jinchūriki com Manto e usuários de Portão 5 ou mais usam Pressão de Chakra como ação livre uma vez por cena.
@@ -1698,8 +2279,8 @@ A "intenção de matar". Um ninja forte paralisa um fraco só com a presença.
 | Condição | Efeito | Sai como |
 |---|---|---|
 | **Abalado** | −1 dado em tudo. | Fim da cena, ou gastar 2 PC. |
-| **Caído** | Defesa −1. Levantar gasta o movimento. | Levantar. |
-| **Lento** | Movimento 5 m. Sem Reação. | Fim da duração. |
+| **Caído** | Defesa −1. Levantar custa 1 ação. | Levantar. |
+| **Lento** | **1 ação a menos** por turno. Sem Reação. | Fim da duração. |
 | **Imobilizado** | Não se move. Defesa 0 (só armadura) contra quem prende. Pode usar jutsus sem selos. | Força + Atletismo − sucessos de quem prendeu. |
 | **Paralisado** | Não age, não reage. Defesa 0 (só armadura). | Fim da duração, ou sofrer dano (se a regra disser). |
 | **Cego** | −3 dados em ataque. Defesa −2. | Fim da duração. |
@@ -1723,7 +2304,7 @@ Um grupo de inimigos fracos (ou clones) age como **uma criatura**:
 | **Capanga** | 3 PV, Defesa baixa. Cai num golpe. Use em Bando. |
 | **Veterano** | Ficha reduzida: Parada de ataque, Defesa, Vontade e 1 truque. 8 PV. |
 | **Rival** | Ficha completa. Tem PC e Disciplinas. Luta como jogador. |
-| **Chefe** | Ficha completa, Chakra 2 acima do grupo, **duas ações por turno** e 1 Reação extra. Tem uma **fraqueza** que a história revela. |
+| **Chefe** | Ficha completa, Chakra 2 acima do grupo, **4 ações** por turno e **2 Reações**. Tem uma **fraqueza** que a história revela. |
 
 ## Fuga
 Para sair do combate: gaste a ação e role **Destreza + Atletismo** (subtraindo a maior Percepção do inimigo). Com 1+ sucesso: você some. Falha: o inimigo ganha um ataque livre.
@@ -1764,15 +2345,15 @@ Ame (Chuva, sempre em guerra), Taki (Cachoeira), Kusa (Grama), Oto (Som, de Oroc
 
 ## Missões
 
-| Classe | Quem faz | Exemplo | Pagamento |
+| Classe | Quem faz | Exemplo | Recompensa |
 |---|---|---|---|
-| **D** | Genin | Achar gato, limpar rio, escoltar na vila. | 5.000 ryō |
-| **C** | Genin com Jounin, Chunin | Escolta a outra vila, capturar bandidos. | 30.000 ryō |
-| **B** | Chunin, Jounin | Espionagem, caça a ninja renegado Chunin. | 80.000 ryō |
-| **A** | Jounin | Proteger um senhor, matar um Jounin inimigo. | 150.000 ryō |
-| **S** | Jounin de elite, Kage | Capturar Jinchūriki, parar uma guerra. | 1.000.000 ryō |
+| **D** | Genin | Achar gato, limpar rio, escoltar na vila. | 2 PE |
+| **C** | Genin com Jounin, Chunin | Escolta a outra vila, capturar bandidos. | 3 PE |
+| **B** | Chunin, Jounin | Espionagem, caça a ninja renegado Chunin. | 4 PE e um item emprestado de 1 Qualidade acima do seu limite |
+| **A** | Jounin | Proteger um senhor, matar um Jounin inimigo. | 5 PE e um favor de um Aliado |
+| **S** | Jounin de elite, Kage | Capturar Jinchūriki, parar uma guerra. | 6 PE e um evento lendário (Narrador) |
 
-**Dinheiro (ryō):** um Genin vive com 10.000 por mês. Equipamento está no capítulo 8.
+**Dinheiro não tem regras.** O Antecedente **Recursos** (capítulo 9) diz a que equipamento você tem acesso. Detalhes no capítulo 8.
 
 ## Ninjas renegados
 Quem abandona a vila entra no **Livro Bingo**. Caçadores ANBU seguem. Um renegado não tem missões, mas tem liberdade e, muitas vezes, uma organização.
@@ -1817,12 +2398,12 @@ Social    Genjutsu ___  Disfarce ___  Empatia ___  Intimidação ___
 CHAKRA (Traço 1 a 10): ___      Nível máximo (Chakra ÷ 2, p/ cima): ___
 Afinidades: _______________________
 
-PONTOS DE VIDA — PV (7 + Vigor): ___ / ___
+PONTOS DE VIDA — PV (7 + Vigor + Chakra ÷ 2 (arr. cima)): ___ / ___
 PONTOS DE CHAKRA — PC (Chakra × 3 + Controle de Chakra): ___ / ___
 
 VALORES FIXOS DE COMBATE
-DEFESA — Resistência Física ((maior de Destreza/Vigor + Esquiva) ÷ 2 + armadura, teto 8): ___
-VONTADE — Resistência Mental ((Raciocínio + Presença) ÷ 2, teto 8): ___
+DEFESA — Resistência Física ((maior de Destreza/Vigor + Esquiva) ÷ 2 + armadura): ___
+VONTADE — Resistência Mental ((Raciocínio + Presença) ÷ 2): ___
 INICIATIVA — Ordem fixa (Percepção + Prontidão): ___
 SUPERAÇÃO (sem clã): [ ] usada nesta cena
 
@@ -1841,13 +2422,13 @@ ______________________________________________________________
 ______________________________________________________________
 
 ANTECEDENTES (●)
-Mentor ___  Equipe ___  Equipamento ___  Fama ___
+Mentor ___  Equipe ___  Recursos ___  Fama ___
 Contatos ___  Aliados ___  Posição ___  Herança ___
 
 EQUIPAMENTO (item · Qualidade · bônus de dados / Defesa)
 ______________________________________________________________
 ______________________________________________________________
-Ryō: ________
+Recursos: ___ (itens até Qualidade ___)
 
 PE total: ____   PE gastos: ____   PE disponíveis: ____
 ```
