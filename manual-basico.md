@@ -2434,10 +2434,10 @@ Social:   Genjutsu      ___  Disfarce     ___  Empatia            ___
           Intimidação   ___  Lábia        ___  Liderança          ___
 
 ESTATÍSTICAS DE COMBATE
-Chakra (1 a 10):     ___             Nível Máximo de Jutsus: ___
-Pontos de Vida (PV): ___ / ___       (Regra: 7 somado ao Vigor)
-Pontos de Chakra:    ___ / ___       (Regra: Chakra multiplicado por 3 + Controle)
-Defesa Física:       ___             Vontade: ___              Iniciativa Fixa: ___
+Pontos de Vida (PV):   ___ / ___ (Regra: 7 somado ao Vigor)
+Pontos de Chakra (PC): ___ / ___ (Regra: Chakra multiplicado por 3 + Controle)
+Chakra (1 a 10):       ___
+Defesa Física:         ___   Vontade: ___      Iniciativa Fixa: ___
 
 SAÚDE E LIMITES TÁTICOS
 [ ] Ileso
