@@ -2415,58 +2415,61 @@ O jogo é ambientado no mundo das vilas shinobi do mangá.
 Copie o modelo abaixo para preencher os dados de seu personagem:
 
 ```
-NOME: ____________________   CLÃ / SEM CLÃ: ____________   GRAU: ____
-VILA: ____________________   NINDO: ______________________________
-CAMINHO (Corpo / Mente / Social): ____________
+NOME: ______________________     CLÃ: ______________________      GRAU: _______
+VILA: ______________________     NINDO: _________________________________________
+CAMINHO: ___________________     AFINIDADE ELEMENTAL: ___________________________
 
 ATRIBUTOS (1 a 5)
-Corpo     Força ___  Destreza ___  Vigor ___
-Mente     Percepção ___  Inteligência ___  Raciocínio ___
-Social    Carisma ___  Manipulação ___  Presença ___
+Corpo:    Força         ___  Destreza     ___  Vigor              ___
+Mente:    Percepção     ___  Inteligência ___  Raciocínio         ___
+Social:   Carisma       ___  Manipulação  ___  Presença           ___
 
 HABILIDADES (0 a 5)
-Corpo     Taijutsu ___  Armas Ninja ___  Atletismo ___  Esquiva ___
-          Furtividade ___  Prontidão ___  Sobrevivência ___
-Mente     Ninjutsu ___  Fuinjutsu ___  Controle de Chakra ___
-          Conhecimento Ninja ___  Medicina ___  Investigação ___
-Social    Genjutsu ___  Disfarce ___  Empatia ___  Intimidação ___
-          Lábia ___  Liderança ___
+Corpo:    Taijutsu      ___  Armas Ninja  ___  Atletismo          ___
+          Esquiva       ___  Furtividade  ___  Prontidão          ___
+          Sobrevivência ___
+Mente:    Ninjutsu      ___  Fuinjutsu    ___  Controle de Chakra ___
+          Conhecimento  ___  Medicina     ___  Investigação       ___
+Social:   Genjutsu      ___  Disfarce     ___  Empatia            ___
+          Intimidação   ___  Lábia        ___  Liderança          ___
 
-CHAKRA (Traço 1 a 10): ___      Nível máximo (Chakra ÷ 2, para cima): ___
-Afinidades: _______________________
+ESTATÍSTICAS DE COMBATE
+Chakra (1 a 10):     ___             Nível Máximo de Jutsus: ___
+Pontos de Vida (PV): ___ / ___       (Regra: 7 somado ao Vigor)
+Pontos de Chakra:    ___ / ___       (Regra: Chakra multiplicado por 3 + Controle)
+Defesa Física:       ___             Vontade: ___              Iniciativa Fixa: ___
 
-PONTOS DE VIDA (7 + Vigor): ___ / ___
-[ ] Ileso (4+ Pontos de Vida)   [ ] Ferido Grave (1 a 3 Pontos de Vida: −1 dados físicos)   [ ] Incapacitado (0 Pontos de Vida)
+SAÚDE E LIMITES TÁTICOS
+[ ] Ileso
+[ ] Ferido Grave (Abalado, penalidade de 1 dado)
+[ ] Incapacitado
 
-PONTOS DE CHAKRA (Chakra × 3 + Controle de Chakra): ___ / ___
+DISCIPLINAS DE SANGUE E ESCOLA
+1. ______________________ Nível ___  ____________________________________
+2. ______________________ Nível ___  ____________________________________
 
-VALORES FIXOS DE COMBATE
-DEFESA — Resistência Física ((maior de Destreza/Vigor + Esquiva) ÷ 2 + armadura): ___
-VONTADE — Resistência Mental ((Raciocínio + Presença) ÷ 2): ___
-INICIATIVA — Ordem fixa (Percepção + Prontidão): ___
-SUPERAÇÃO (sem clã): [ ] usada nesta cena
-
-DISCIPLINAS (nome · nível · efeito-chave)
-1. ______________________ Nível ___  ____________________________
-2. ______________________ Nível ___  ____________________________
-
-JUTSUS (nome · nível · custo em Pontos de Chakra · parada · efeito)
+O ARSENAL (TÉCNICAS E JUTSUS)
 Básicos: Transformação (1) · Substituição (1) · Clone (1) · Liberar (1)
-______________________________________________________________
-______________________________________________________________
-______________________________________________________________
-______________________________________________________________
+Técnica: ______________________________ Nível: ___ Custo: ___ Efeito: ________________________
+Técnica: ______________________________ Nível: ___ Custo: ___ Efeito: ________________________
+Técnica: ______________________________ Nível: ___ Custo: ___ Efeito: ________________________
+Técnica: ______________________________ Nível: ___ Custo: ___ Efeito: ________________________
 
-ANTECEDENTES (●)
-Mentor ___  Equipe ___  Recursos ___  Fama ___
-Contatos ___  Aliados ___  Posição ___  Herança ___
+ANTECEDENTES 
+______________________ ___
+______________________ ___
+______________________ ___
+______________________ ___
+______________________ ___
 
-EQUIPAMENTO (item · Qualidade · bônus)
-______________________________________________________________
-Recursos: ___ (itens até Qualidade ___)
+EQUIPAMENTO (Armas e Relíquias)
+Nível de Recursos: ___ (Permite qualidades até ___)
+Item: ___________________________ Qualidade: ___ Bônus Mecânico: ____________________
+Item: ___________________________ Qualidade: ___ Bônus Mecânico: ____________________
+Item: ___________________________ Qualidade: ___ Bônus Mecânico: ____________________
 
-Pontos de Experiência total: ____   Pontos de Experiência gastos: ____   Pontos de Experiência disponíveis: ____
-
+EVOLUÇÃO HISTÓRICA
+Pontos de Experiência Totais: ____   Gastos: ____   Acumulados: ____
 ```
 
 *Fim do Manual Básico. Continue no [**Manual Avançado**](./manual-avancado.md).*
